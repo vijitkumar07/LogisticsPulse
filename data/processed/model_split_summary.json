@@ -1,0 +1,15 @@
+{
+    "split_method": "chronological shipment-level split",
+    "random_seed": 20261022,
+    "test_fraction": 0.2,
+    "total_rows": 3726,
+    "training_rows": 2962,
+    "testing_rows": 751,
+    "training_shipments": 575,
+    "testing_shipments": 144,
+    "training_period_start": "2026-01-02 16:11:00",
+    "training_period_end": "2026-09-03 16:13:00",
+    "testing_period_start": "2026-09-03 18:06:00",
+    "testing_period_end": "2026-11-03 08:00:00",
+    "shipment_overlap": 0
+}

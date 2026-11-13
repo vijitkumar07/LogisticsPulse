@@ -1,0 +1,4 @@
+﻿id,name,code,target_transit_hours,allowed_delay_minutes
+SVC-001,Standard Delivery,STANDARD,72.0,60
+SVC-002,Express Delivery,EXPRESS,36.0,30
+SVC-003,Economy Delivery,ECONOMY,120.0,120

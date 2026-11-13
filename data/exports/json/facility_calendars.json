@@ -1,0 +1,5602 @@
+[
+    {
+        "id": "FCAL-001-0",
+        "facility_id": "FAC-001",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-001-1",
+        "facility_id": "FAC-001",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-001-2",
+        "facility_id": "FAC-001",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-001-3",
+        "facility_id": "FAC-001",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-001-4",
+        "facility_id": "FAC-001",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-001-5",
+        "facility_id": "FAC-001",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-001-6",
+        "facility_id": "FAC-001",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-002-0",
+        "facility_id": "FAC-002",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-002-1",
+        "facility_id": "FAC-002",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-002-2",
+        "facility_id": "FAC-002",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-002-3",
+        "facility_id": "FAC-002",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-002-4",
+        "facility_id": "FAC-002",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-002-5",
+        "facility_id": "FAC-002",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-002-6",
+        "facility_id": "FAC-002",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-003-0",
+        "facility_id": "FAC-003",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-003-1",
+        "facility_id": "FAC-003",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-003-2",
+        "facility_id": "FAC-003",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-003-3",
+        "facility_id": "FAC-003",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-003-4",
+        "facility_id": "FAC-003",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-003-5",
+        "facility_id": "FAC-003",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-003-6",
+        "facility_id": "FAC-003",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-004-0",
+        "facility_id": "FAC-004",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-004-1",
+        "facility_id": "FAC-004",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-004-2",
+        "facility_id": "FAC-004",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-004-3",
+        "facility_id": "FAC-004",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-004-4",
+        "facility_id": "FAC-004",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-004-5",
+        "facility_id": "FAC-004",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-004-6",
+        "facility_id": "FAC-004",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-005-0",
+        "facility_id": "FAC-005",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-005-1",
+        "facility_id": "FAC-005",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-005-2",
+        "facility_id": "FAC-005",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-005-3",
+        "facility_id": "FAC-005",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-005-4",
+        "facility_id": "FAC-005",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-005-5",
+        "facility_id": "FAC-005",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-005-6",
+        "facility_id": "FAC-005",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-006-0",
+        "facility_id": "FAC-006",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-006-1",
+        "facility_id": "FAC-006",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-006-2",
+        "facility_id": "FAC-006",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-006-3",
+        "facility_id": "FAC-006",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-006-4",
+        "facility_id": "FAC-006",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-006-5",
+        "facility_id": "FAC-006",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-006-6",
+        "facility_id": "FAC-006",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-007-0",
+        "facility_id": "FAC-007",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-007-1",
+        "facility_id": "FAC-007",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-007-2",
+        "facility_id": "FAC-007",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-007-3",
+        "facility_id": "FAC-007",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-007-4",
+        "facility_id": "FAC-007",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-007-5",
+        "facility_id": "FAC-007",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-007-6",
+        "facility_id": "FAC-007",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-008-0",
+        "facility_id": "FAC-008",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-008-1",
+        "facility_id": "FAC-008",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-008-2",
+        "facility_id": "FAC-008",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-008-3",
+        "facility_id": "FAC-008",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-008-4",
+        "facility_id": "FAC-008",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-008-5",
+        "facility_id": "FAC-008",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-008-6",
+        "facility_id": "FAC-008",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-009-0",
+        "facility_id": "FAC-009",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-009-1",
+        "facility_id": "FAC-009",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-009-2",
+        "facility_id": "FAC-009",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-009-3",
+        "facility_id": "FAC-009",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-009-4",
+        "facility_id": "FAC-009",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-009-5",
+        "facility_id": "FAC-009",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-009-6",
+        "facility_id": "FAC-009",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-010-0",
+        "facility_id": "FAC-010",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-010-1",
+        "facility_id": "FAC-010",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-010-2",
+        "facility_id": "FAC-010",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-010-3",
+        "facility_id": "FAC-010",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-010-4",
+        "facility_id": "FAC-010",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-010-5",
+        "facility_id": "FAC-010",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-010-6",
+        "facility_id": "FAC-010",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-011-0",
+        "facility_id": "FAC-011",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-011-1",
+        "facility_id": "FAC-011",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-011-2",
+        "facility_id": "FAC-011",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-011-3",
+        "facility_id": "FAC-011",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-011-4",
+        "facility_id": "FAC-011",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-011-5",
+        "facility_id": "FAC-011",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-011-6",
+        "facility_id": "FAC-011",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-012-0",
+        "facility_id": "FAC-012",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-012-1",
+        "facility_id": "FAC-012",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-012-2",
+        "facility_id": "FAC-012",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-012-3",
+        "facility_id": "FAC-012",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-012-4",
+        "facility_id": "FAC-012",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-012-5",
+        "facility_id": "FAC-012",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-012-6",
+        "facility_id": "FAC-012",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-013-0",
+        "facility_id": "FAC-013",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-013-1",
+        "facility_id": "FAC-013",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-013-2",
+        "facility_id": "FAC-013",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-013-3",
+        "facility_id": "FAC-013",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-013-4",
+        "facility_id": "FAC-013",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-013-5",
+        "facility_id": "FAC-013",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-013-6",
+        "facility_id": "FAC-013",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-014-0",
+        "facility_id": "FAC-014",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-014-1",
+        "facility_id": "FAC-014",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-014-2",
+        "facility_id": "FAC-014",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-014-3",
+        "facility_id": "FAC-014",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-014-4",
+        "facility_id": "FAC-014",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-014-5",
+        "facility_id": "FAC-014",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-014-6",
+        "facility_id": "FAC-014",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-015-0",
+        "facility_id": "FAC-015",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-015-1",
+        "facility_id": "FAC-015",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-015-2",
+        "facility_id": "FAC-015",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-015-3",
+        "facility_id": "FAC-015",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-015-4",
+        "facility_id": "FAC-015",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-015-5",
+        "facility_id": "FAC-015",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-015-6",
+        "facility_id": "FAC-015",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-016-0",
+        "facility_id": "FAC-016",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-016-1",
+        "facility_id": "FAC-016",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-016-2",
+        "facility_id": "FAC-016",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-016-3",
+        "facility_id": "FAC-016",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-016-4",
+        "facility_id": "FAC-016",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-016-5",
+        "facility_id": "FAC-016",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-016-6",
+        "facility_id": "FAC-016",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-017-0",
+        "facility_id": "FAC-017",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-017-1",
+        "facility_id": "FAC-017",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-017-2",
+        "facility_id": "FAC-017",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-017-3",
+        "facility_id": "FAC-017",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-017-4",
+        "facility_id": "FAC-017",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-017-5",
+        "facility_id": "FAC-017",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-017-6",
+        "facility_id": "FAC-017",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-018-0",
+        "facility_id": "FAC-018",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-018-1",
+        "facility_id": "FAC-018",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-018-2",
+        "facility_id": "FAC-018",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-018-3",
+        "facility_id": "FAC-018",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-018-4",
+        "facility_id": "FAC-018",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-018-5",
+        "facility_id": "FAC-018",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-018-6",
+        "facility_id": "FAC-018",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-019-0",
+        "facility_id": "FAC-019",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-019-1",
+        "facility_id": "FAC-019",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-019-2",
+        "facility_id": "FAC-019",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-019-3",
+        "facility_id": "FAC-019",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-019-4",
+        "facility_id": "FAC-019",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-019-5",
+        "facility_id": "FAC-019",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-019-6",
+        "facility_id": "FAC-019",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-020-0",
+        "facility_id": "FAC-020",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-020-1",
+        "facility_id": "FAC-020",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-020-2",
+        "facility_id": "FAC-020",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-020-3",
+        "facility_id": "FAC-020",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-020-4",
+        "facility_id": "FAC-020",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-020-5",
+        "facility_id": "FAC-020",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-020-6",
+        "facility_id": "FAC-020",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-021-0",
+        "facility_id": "FAC-021",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-021-1",
+        "facility_id": "FAC-021",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-021-2",
+        "facility_id": "FAC-021",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-021-3",
+        "facility_id": "FAC-021",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-021-4",
+        "facility_id": "FAC-021",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-021-5",
+        "facility_id": "FAC-021",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-021-6",
+        "facility_id": "FAC-021",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-022-0",
+        "facility_id": "FAC-022",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-022-1",
+        "facility_id": "FAC-022",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-022-2",
+        "facility_id": "FAC-022",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-022-3",
+        "facility_id": "FAC-022",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-022-4",
+        "facility_id": "FAC-022",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-022-5",
+        "facility_id": "FAC-022",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-022-6",
+        "facility_id": "FAC-022",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-023-0",
+        "facility_id": "FAC-023",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-023-1",
+        "facility_id": "FAC-023",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-023-2",
+        "facility_id": "FAC-023",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-023-3",
+        "facility_id": "FAC-023",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-023-4",
+        "facility_id": "FAC-023",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-023-5",
+        "facility_id": "FAC-023",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-023-6",
+        "facility_id": "FAC-023",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-024-0",
+        "facility_id": "FAC-024",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-024-1",
+        "facility_id": "FAC-024",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-024-2",
+        "facility_id": "FAC-024",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-024-3",
+        "facility_id": "FAC-024",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-024-4",
+        "facility_id": "FAC-024",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-024-5",
+        "facility_id": "FAC-024",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-024-6",
+        "facility_id": "FAC-024",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-025-0",
+        "facility_id": "FAC-025",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-025-1",
+        "facility_id": "FAC-025",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-025-2",
+        "facility_id": "FAC-025",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-025-3",
+        "facility_id": "FAC-025",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-025-4",
+        "facility_id": "FAC-025",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-025-5",
+        "facility_id": "FAC-025",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-025-6",
+        "facility_id": "FAC-025",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-026-0",
+        "facility_id": "FAC-026",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-026-1",
+        "facility_id": "FAC-026",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-026-2",
+        "facility_id": "FAC-026",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-026-3",
+        "facility_id": "FAC-026",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-026-4",
+        "facility_id": "FAC-026",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-026-5",
+        "facility_id": "FAC-026",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-026-6",
+        "facility_id": "FAC-026",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-027-0",
+        "facility_id": "FAC-027",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-027-1",
+        "facility_id": "FAC-027",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-027-2",
+        "facility_id": "FAC-027",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-027-3",
+        "facility_id": "FAC-027",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-027-4",
+        "facility_id": "FAC-027",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-027-5",
+        "facility_id": "FAC-027",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-027-6",
+        "facility_id": "FAC-027",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-028-0",
+        "facility_id": "FAC-028",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-028-1",
+        "facility_id": "FAC-028",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-028-2",
+        "facility_id": "FAC-028",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-028-3",
+        "facility_id": "FAC-028",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-028-4",
+        "facility_id": "FAC-028",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-028-5",
+        "facility_id": "FAC-028",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-028-6",
+        "facility_id": "FAC-028",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-029-0",
+        "facility_id": "FAC-029",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-029-1",
+        "facility_id": "FAC-029",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-029-2",
+        "facility_id": "FAC-029",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-029-3",
+        "facility_id": "FAC-029",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-029-4",
+        "facility_id": "FAC-029",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-029-5",
+        "facility_id": "FAC-029",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-029-6",
+        "facility_id": "FAC-029",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-030-0",
+        "facility_id": "FAC-030",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-030-1",
+        "facility_id": "FAC-030",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-030-2",
+        "facility_id": "FAC-030",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-030-3",
+        "facility_id": "FAC-030",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-030-4",
+        "facility_id": "FAC-030",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-030-5",
+        "facility_id": "FAC-030",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-030-6",
+        "facility_id": "FAC-030",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-031-0",
+        "facility_id": "FAC-031",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-031-1",
+        "facility_id": "FAC-031",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-031-2",
+        "facility_id": "FAC-031",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-031-3",
+        "facility_id": "FAC-031",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-031-4",
+        "facility_id": "FAC-031",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-031-5",
+        "facility_id": "FAC-031",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-031-6",
+        "facility_id": "FAC-031",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-032-0",
+        "facility_id": "FAC-032",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-032-1",
+        "facility_id": "FAC-032",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-032-2",
+        "facility_id": "FAC-032",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-032-3",
+        "facility_id": "FAC-032",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-032-4",
+        "facility_id": "FAC-032",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-032-5",
+        "facility_id": "FAC-032",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-032-6",
+        "facility_id": "FAC-032",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-033-0",
+        "facility_id": "FAC-033",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-033-1",
+        "facility_id": "FAC-033",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-033-2",
+        "facility_id": "FAC-033",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-033-3",
+        "facility_id": "FAC-033",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-033-4",
+        "facility_id": "FAC-033",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-033-5",
+        "facility_id": "FAC-033",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-033-6",
+        "facility_id": "FAC-033",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-034-0",
+        "facility_id": "FAC-034",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-034-1",
+        "facility_id": "FAC-034",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-034-2",
+        "facility_id": "FAC-034",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-034-3",
+        "facility_id": "FAC-034",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-034-4",
+        "facility_id": "FAC-034",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-034-5",
+        "facility_id": "FAC-034",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-034-6",
+        "facility_id": "FAC-034",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-035-0",
+        "facility_id": "FAC-035",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-035-1",
+        "facility_id": "FAC-035",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-035-2",
+        "facility_id": "FAC-035",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-035-3",
+        "facility_id": "FAC-035",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-035-4",
+        "facility_id": "FAC-035",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-035-5",
+        "facility_id": "FAC-035",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-035-6",
+        "facility_id": "FAC-035",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-036-0",
+        "facility_id": "FAC-036",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-036-1",
+        "facility_id": "FAC-036",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-036-2",
+        "facility_id": "FAC-036",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-036-3",
+        "facility_id": "FAC-036",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-036-4",
+        "facility_id": "FAC-036",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-036-5",
+        "facility_id": "FAC-036",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-036-6",
+        "facility_id": "FAC-036",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-037-0",
+        "facility_id": "FAC-037",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-037-1",
+        "facility_id": "FAC-037",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-037-2",
+        "facility_id": "FAC-037",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-037-3",
+        "facility_id": "FAC-037",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-037-4",
+        "facility_id": "FAC-037",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-037-5",
+        "facility_id": "FAC-037",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-037-6",
+        "facility_id": "FAC-037",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-038-0",
+        "facility_id": "FAC-038",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-038-1",
+        "facility_id": "FAC-038",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-038-2",
+        "facility_id": "FAC-038",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-038-3",
+        "facility_id": "FAC-038",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-038-4",
+        "facility_id": "FAC-038",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-038-5",
+        "facility_id": "FAC-038",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-038-6",
+        "facility_id": "FAC-038",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-039-0",
+        "facility_id": "FAC-039",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-039-1",
+        "facility_id": "FAC-039",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-039-2",
+        "facility_id": "FAC-039",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-039-3",
+        "facility_id": "FAC-039",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-039-4",
+        "facility_id": "FAC-039",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-039-5",
+        "facility_id": "FAC-039",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-039-6",
+        "facility_id": "FAC-039",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-040-0",
+        "facility_id": "FAC-040",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-040-1",
+        "facility_id": "FAC-040",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-040-2",
+        "facility_id": "FAC-040",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-040-3",
+        "facility_id": "FAC-040",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-040-4",
+        "facility_id": "FAC-040",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-040-5",
+        "facility_id": "FAC-040",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-040-6",
+        "facility_id": "FAC-040",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-041-0",
+        "facility_id": "FAC-041",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-041-1",
+        "facility_id": "FAC-041",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-041-2",
+        "facility_id": "FAC-041",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-041-3",
+        "facility_id": "FAC-041",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-041-4",
+        "facility_id": "FAC-041",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-041-5",
+        "facility_id": "FAC-041",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-041-6",
+        "facility_id": "FAC-041",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-042-0",
+        "facility_id": "FAC-042",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-042-1",
+        "facility_id": "FAC-042",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-042-2",
+        "facility_id": "FAC-042",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-042-3",
+        "facility_id": "FAC-042",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-042-4",
+        "facility_id": "FAC-042",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-042-5",
+        "facility_id": "FAC-042",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-042-6",
+        "facility_id": "FAC-042",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-043-0",
+        "facility_id": "FAC-043",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-043-1",
+        "facility_id": "FAC-043",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-043-2",
+        "facility_id": "FAC-043",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-043-3",
+        "facility_id": "FAC-043",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-043-4",
+        "facility_id": "FAC-043",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-043-5",
+        "facility_id": "FAC-043",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-043-6",
+        "facility_id": "FAC-043",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-044-0",
+        "facility_id": "FAC-044",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-044-1",
+        "facility_id": "FAC-044",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-044-2",
+        "facility_id": "FAC-044",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-044-3",
+        "facility_id": "FAC-044",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-044-4",
+        "facility_id": "FAC-044",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-044-5",
+        "facility_id": "FAC-044",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-044-6",
+        "facility_id": "FAC-044",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-045-0",
+        "facility_id": "FAC-045",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-045-1",
+        "facility_id": "FAC-045",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-045-2",
+        "facility_id": "FAC-045",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-045-3",
+        "facility_id": "FAC-045",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-045-4",
+        "facility_id": "FAC-045",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-045-5",
+        "facility_id": "FAC-045",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-045-6",
+        "facility_id": "FAC-045",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-046-0",
+        "facility_id": "FAC-046",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-046-1",
+        "facility_id": "FAC-046",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-046-2",
+        "facility_id": "FAC-046",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-046-3",
+        "facility_id": "FAC-046",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-046-4",
+        "facility_id": "FAC-046",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-046-5",
+        "facility_id": "FAC-046",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-046-6",
+        "facility_id": "FAC-046",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-047-0",
+        "facility_id": "FAC-047",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-047-1",
+        "facility_id": "FAC-047",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-047-2",
+        "facility_id": "FAC-047",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-047-3",
+        "facility_id": "FAC-047",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-047-4",
+        "facility_id": "FAC-047",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-047-5",
+        "facility_id": "FAC-047",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-047-6",
+        "facility_id": "FAC-047",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-048-0",
+        "facility_id": "FAC-048",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-048-1",
+        "facility_id": "FAC-048",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-048-2",
+        "facility_id": "FAC-048",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-048-3",
+        "facility_id": "FAC-048",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-048-4",
+        "facility_id": "FAC-048",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-048-5",
+        "facility_id": "FAC-048",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-048-6",
+        "facility_id": "FAC-048",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-049-0",
+        "facility_id": "FAC-049",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-049-1",
+        "facility_id": "FAC-049",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-049-2",
+        "facility_id": "FAC-049",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-049-3",
+        "facility_id": "FAC-049",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-049-4",
+        "facility_id": "FAC-049",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-049-5",
+        "facility_id": "FAC-049",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-049-6",
+        "facility_id": "FAC-049",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-050-0",
+        "facility_id": "FAC-050",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-050-1",
+        "facility_id": "FAC-050",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-050-2",
+        "facility_id": "FAC-050",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-050-3",
+        "facility_id": "FAC-050",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-050-4",
+        "facility_id": "FAC-050",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-050-5",
+        "facility_id": "FAC-050",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-050-6",
+        "facility_id": "FAC-050",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-051-0",
+        "facility_id": "FAC-051",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-051-1",
+        "facility_id": "FAC-051",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-051-2",
+        "facility_id": "FAC-051",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-051-3",
+        "facility_id": "FAC-051",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-051-4",
+        "facility_id": "FAC-051",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-051-5",
+        "facility_id": "FAC-051",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-051-6",
+        "facility_id": "FAC-051",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-052-0",
+        "facility_id": "FAC-052",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-052-1",
+        "facility_id": "FAC-052",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-052-2",
+        "facility_id": "FAC-052",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-052-3",
+        "facility_id": "FAC-052",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-052-4",
+        "facility_id": "FAC-052",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-052-5",
+        "facility_id": "FAC-052",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-052-6",
+        "facility_id": "FAC-052",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-053-0",
+        "facility_id": "FAC-053",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-053-1",
+        "facility_id": "FAC-053",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-053-2",
+        "facility_id": "FAC-053",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-053-3",
+        "facility_id": "FAC-053",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-053-4",
+        "facility_id": "FAC-053",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-053-5",
+        "facility_id": "FAC-053",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-053-6",
+        "facility_id": "FAC-053",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-054-0",
+        "facility_id": "FAC-054",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-054-1",
+        "facility_id": "FAC-054",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-054-2",
+        "facility_id": "FAC-054",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-054-3",
+        "facility_id": "FAC-054",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-054-4",
+        "facility_id": "FAC-054",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-054-5",
+        "facility_id": "FAC-054",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-054-6",
+        "facility_id": "FAC-054",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-055-0",
+        "facility_id": "FAC-055",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-055-1",
+        "facility_id": "FAC-055",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-055-2",
+        "facility_id": "FAC-055",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-055-3",
+        "facility_id": "FAC-055",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-055-4",
+        "facility_id": "FAC-055",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-055-5",
+        "facility_id": "FAC-055",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-055-6",
+        "facility_id": "FAC-055",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-056-0",
+        "facility_id": "FAC-056",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-056-1",
+        "facility_id": "FAC-056",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-056-2",
+        "facility_id": "FAC-056",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-056-3",
+        "facility_id": "FAC-056",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-056-4",
+        "facility_id": "FAC-056",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-056-5",
+        "facility_id": "FAC-056",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-056-6",
+        "facility_id": "FAC-056",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-057-0",
+        "facility_id": "FAC-057",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-057-1",
+        "facility_id": "FAC-057",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-057-2",
+        "facility_id": "FAC-057",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-057-3",
+        "facility_id": "FAC-057",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-057-4",
+        "facility_id": "FAC-057",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-057-5",
+        "facility_id": "FAC-057",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-057-6",
+        "facility_id": "FAC-057",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-058-0",
+        "facility_id": "FAC-058",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-058-1",
+        "facility_id": "FAC-058",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-058-2",
+        "facility_id": "FAC-058",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-058-3",
+        "facility_id": "FAC-058",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-058-4",
+        "facility_id": "FAC-058",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-058-5",
+        "facility_id": "FAC-058",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-058-6",
+        "facility_id": "FAC-058",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-059-0",
+        "facility_id": "FAC-059",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-059-1",
+        "facility_id": "FAC-059",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-059-2",
+        "facility_id": "FAC-059",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-059-3",
+        "facility_id": "FAC-059",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-059-4",
+        "facility_id": "FAC-059",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-059-5",
+        "facility_id": "FAC-059",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-059-6",
+        "facility_id": "FAC-059",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-060-0",
+        "facility_id": "FAC-060",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-060-1",
+        "facility_id": "FAC-060",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-060-2",
+        "facility_id": "FAC-060",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-060-3",
+        "facility_id": "FAC-060",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-060-4",
+        "facility_id": "FAC-060",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-060-5",
+        "facility_id": "FAC-060",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-060-6",
+        "facility_id": "FAC-060",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-061-0",
+        "facility_id": "FAC-061",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-061-1",
+        "facility_id": "FAC-061",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-061-2",
+        "facility_id": "FAC-061",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-061-3",
+        "facility_id": "FAC-061",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-061-4",
+        "facility_id": "FAC-061",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-061-5",
+        "facility_id": "FAC-061",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-061-6",
+        "facility_id": "FAC-061",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-062-0",
+        "facility_id": "FAC-062",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-062-1",
+        "facility_id": "FAC-062",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-062-2",
+        "facility_id": "FAC-062",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-062-3",
+        "facility_id": "FAC-062",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-062-4",
+        "facility_id": "FAC-062",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-062-5",
+        "facility_id": "FAC-062",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-062-6",
+        "facility_id": "FAC-062",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-063-0",
+        "facility_id": "FAC-063",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-063-1",
+        "facility_id": "FAC-063",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-063-2",
+        "facility_id": "FAC-063",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-063-3",
+        "facility_id": "FAC-063",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-063-4",
+        "facility_id": "FAC-063",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-063-5",
+        "facility_id": "FAC-063",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-063-6",
+        "facility_id": "FAC-063",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-064-0",
+        "facility_id": "FAC-064",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-064-1",
+        "facility_id": "FAC-064",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-064-2",
+        "facility_id": "FAC-064",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-064-3",
+        "facility_id": "FAC-064",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-064-4",
+        "facility_id": "FAC-064",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-064-5",
+        "facility_id": "FAC-064",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-064-6",
+        "facility_id": "FAC-064",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-065-0",
+        "facility_id": "FAC-065",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-065-1",
+        "facility_id": "FAC-065",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-065-2",
+        "facility_id": "FAC-065",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-065-3",
+        "facility_id": "FAC-065",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-065-4",
+        "facility_id": "FAC-065",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-065-5",
+        "facility_id": "FAC-065",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-065-6",
+        "facility_id": "FAC-065",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-066-0",
+        "facility_id": "FAC-066",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-066-1",
+        "facility_id": "FAC-066",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-066-2",
+        "facility_id": "FAC-066",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-066-3",
+        "facility_id": "FAC-066",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-066-4",
+        "facility_id": "FAC-066",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-066-5",
+        "facility_id": "FAC-066",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-066-6",
+        "facility_id": "FAC-066",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-067-0",
+        "facility_id": "FAC-067",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-067-1",
+        "facility_id": "FAC-067",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-067-2",
+        "facility_id": "FAC-067",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-067-3",
+        "facility_id": "FAC-067",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-067-4",
+        "facility_id": "FAC-067",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-067-5",
+        "facility_id": "FAC-067",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-067-6",
+        "facility_id": "FAC-067",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-068-0",
+        "facility_id": "FAC-068",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-068-1",
+        "facility_id": "FAC-068",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-068-2",
+        "facility_id": "FAC-068",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-068-3",
+        "facility_id": "FAC-068",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-068-4",
+        "facility_id": "FAC-068",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-068-5",
+        "facility_id": "FAC-068",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-068-6",
+        "facility_id": "FAC-068",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-069-0",
+        "facility_id": "FAC-069",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-069-1",
+        "facility_id": "FAC-069",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-069-2",
+        "facility_id": "FAC-069",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-069-3",
+        "facility_id": "FAC-069",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-069-4",
+        "facility_id": "FAC-069",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-069-5",
+        "facility_id": "FAC-069",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-069-6",
+        "facility_id": "FAC-069",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-070-0",
+        "facility_id": "FAC-070",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-070-1",
+        "facility_id": "FAC-070",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-070-2",
+        "facility_id": "FAC-070",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-070-3",
+        "facility_id": "FAC-070",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-070-4",
+        "facility_id": "FAC-070",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-070-5",
+        "facility_id": "FAC-070",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-070-6",
+        "facility_id": "FAC-070",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-071-0",
+        "facility_id": "FAC-071",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-071-1",
+        "facility_id": "FAC-071",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-071-2",
+        "facility_id": "FAC-071",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-071-3",
+        "facility_id": "FAC-071",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-071-4",
+        "facility_id": "FAC-071",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-071-5",
+        "facility_id": "FAC-071",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-071-6",
+        "facility_id": "FAC-071",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-072-0",
+        "facility_id": "FAC-072",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-072-1",
+        "facility_id": "FAC-072",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-072-2",
+        "facility_id": "FAC-072",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-072-3",
+        "facility_id": "FAC-072",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-072-4",
+        "facility_id": "FAC-072",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-072-5",
+        "facility_id": "FAC-072",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-072-6",
+        "facility_id": "FAC-072",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-073-0",
+        "facility_id": "FAC-073",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-073-1",
+        "facility_id": "FAC-073",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-073-2",
+        "facility_id": "FAC-073",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-073-3",
+        "facility_id": "FAC-073",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-073-4",
+        "facility_id": "FAC-073",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-073-5",
+        "facility_id": "FAC-073",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-073-6",
+        "facility_id": "FAC-073",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-074-0",
+        "facility_id": "FAC-074",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-074-1",
+        "facility_id": "FAC-074",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-074-2",
+        "facility_id": "FAC-074",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-074-3",
+        "facility_id": "FAC-074",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-074-4",
+        "facility_id": "FAC-074",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-074-5",
+        "facility_id": "FAC-074",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-074-6",
+        "facility_id": "FAC-074",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-075-0",
+        "facility_id": "FAC-075",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-075-1",
+        "facility_id": "FAC-075",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-075-2",
+        "facility_id": "FAC-075",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-075-3",
+        "facility_id": "FAC-075",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-075-4",
+        "facility_id": "FAC-075",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-075-5",
+        "facility_id": "FAC-075",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-075-6",
+        "facility_id": "FAC-075",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-076-0",
+        "facility_id": "FAC-076",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-076-1",
+        "facility_id": "FAC-076",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-076-2",
+        "facility_id": "FAC-076",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-076-3",
+        "facility_id": "FAC-076",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-076-4",
+        "facility_id": "FAC-076",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-076-5",
+        "facility_id": "FAC-076",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-076-6",
+        "facility_id": "FAC-076",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-077-0",
+        "facility_id": "FAC-077",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-077-1",
+        "facility_id": "FAC-077",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-077-2",
+        "facility_id": "FAC-077",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-077-3",
+        "facility_id": "FAC-077",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-077-4",
+        "facility_id": "FAC-077",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-077-5",
+        "facility_id": "FAC-077",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-077-6",
+        "facility_id": "FAC-077",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-078-0",
+        "facility_id": "FAC-078",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-078-1",
+        "facility_id": "FAC-078",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-078-2",
+        "facility_id": "FAC-078",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-078-3",
+        "facility_id": "FAC-078",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-078-4",
+        "facility_id": "FAC-078",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-078-5",
+        "facility_id": "FAC-078",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-078-6",
+        "facility_id": "FAC-078",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-079-0",
+        "facility_id": "FAC-079",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-079-1",
+        "facility_id": "FAC-079",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-079-2",
+        "facility_id": "FAC-079",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-079-3",
+        "facility_id": "FAC-079",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-079-4",
+        "facility_id": "FAC-079",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-079-5",
+        "facility_id": "FAC-079",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-079-6",
+        "facility_id": "FAC-079",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-080-0",
+        "facility_id": "FAC-080",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-080-1",
+        "facility_id": "FAC-080",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-080-2",
+        "facility_id": "FAC-080",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-080-3",
+        "facility_id": "FAC-080",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-080-4",
+        "facility_id": "FAC-080",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-080-5",
+        "facility_id": "FAC-080",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-080-6",
+        "facility_id": "FAC-080",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-081-0",
+        "facility_id": "FAC-081",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-081-1",
+        "facility_id": "FAC-081",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-081-2",
+        "facility_id": "FAC-081",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-081-3",
+        "facility_id": "FAC-081",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-081-4",
+        "facility_id": "FAC-081",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-081-5",
+        "facility_id": "FAC-081",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-081-6",
+        "facility_id": "FAC-081",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-082-0",
+        "facility_id": "FAC-082",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-082-1",
+        "facility_id": "FAC-082",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-082-2",
+        "facility_id": "FAC-082",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-082-3",
+        "facility_id": "FAC-082",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-082-4",
+        "facility_id": "FAC-082",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-082-5",
+        "facility_id": "FAC-082",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-082-6",
+        "facility_id": "FAC-082",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-083-0",
+        "facility_id": "FAC-083",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-083-1",
+        "facility_id": "FAC-083",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-083-2",
+        "facility_id": "FAC-083",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-083-3",
+        "facility_id": "FAC-083",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-083-4",
+        "facility_id": "FAC-083",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-083-5",
+        "facility_id": "FAC-083",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-083-6",
+        "facility_id": "FAC-083",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-084-0",
+        "facility_id": "FAC-084",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-084-1",
+        "facility_id": "FAC-084",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-084-2",
+        "facility_id": "FAC-084",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-084-3",
+        "facility_id": "FAC-084",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-084-4",
+        "facility_id": "FAC-084",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-084-5",
+        "facility_id": "FAC-084",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-084-6",
+        "facility_id": "FAC-084",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-085-0",
+        "facility_id": "FAC-085",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-085-1",
+        "facility_id": "FAC-085",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-085-2",
+        "facility_id": "FAC-085",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-085-3",
+        "facility_id": "FAC-085",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-085-4",
+        "facility_id": "FAC-085",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-085-5",
+        "facility_id": "FAC-085",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-085-6",
+        "facility_id": "FAC-085",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-086-0",
+        "facility_id": "FAC-086",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-086-1",
+        "facility_id": "FAC-086",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-086-2",
+        "facility_id": "FAC-086",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-086-3",
+        "facility_id": "FAC-086",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-086-4",
+        "facility_id": "FAC-086",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-086-5",
+        "facility_id": "FAC-086",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-086-6",
+        "facility_id": "FAC-086",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-087-0",
+        "facility_id": "FAC-087",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-087-1",
+        "facility_id": "FAC-087",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-087-2",
+        "facility_id": "FAC-087",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-087-3",
+        "facility_id": "FAC-087",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-087-4",
+        "facility_id": "FAC-087",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-087-5",
+        "facility_id": "FAC-087",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-087-6",
+        "facility_id": "FAC-087",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-088-0",
+        "facility_id": "FAC-088",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-088-1",
+        "facility_id": "FAC-088",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-088-2",
+        "facility_id": "FAC-088",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-088-3",
+        "facility_id": "FAC-088",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-088-4",
+        "facility_id": "FAC-088",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-088-5",
+        "facility_id": "FAC-088",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-088-6",
+        "facility_id": "FAC-088",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-089-0",
+        "facility_id": "FAC-089",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-089-1",
+        "facility_id": "FAC-089",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-089-2",
+        "facility_id": "FAC-089",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-089-3",
+        "facility_id": "FAC-089",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-089-4",
+        "facility_id": "FAC-089",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-089-5",
+        "facility_id": "FAC-089",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-089-6",
+        "facility_id": "FAC-089",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-090-0",
+        "facility_id": "FAC-090",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-090-1",
+        "facility_id": "FAC-090",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-090-2",
+        "facility_id": "FAC-090",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-090-3",
+        "facility_id": "FAC-090",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-090-4",
+        "facility_id": "FAC-090",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-090-5",
+        "facility_id": "FAC-090",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-090-6",
+        "facility_id": "FAC-090",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-091-0",
+        "facility_id": "FAC-091",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-091-1",
+        "facility_id": "FAC-091",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-091-2",
+        "facility_id": "FAC-091",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-091-3",
+        "facility_id": "FAC-091",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-091-4",
+        "facility_id": "FAC-091",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-091-5",
+        "facility_id": "FAC-091",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-091-6",
+        "facility_id": "FAC-091",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-092-0",
+        "facility_id": "FAC-092",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-092-1",
+        "facility_id": "FAC-092",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-092-2",
+        "facility_id": "FAC-092",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-092-3",
+        "facility_id": "FAC-092",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-092-4",
+        "facility_id": "FAC-092",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-092-5",
+        "facility_id": "FAC-092",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-092-6",
+        "facility_id": "FAC-092",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-093-0",
+        "facility_id": "FAC-093",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-093-1",
+        "facility_id": "FAC-093",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-093-2",
+        "facility_id": "FAC-093",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-093-3",
+        "facility_id": "FAC-093",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-093-4",
+        "facility_id": "FAC-093",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-093-5",
+        "facility_id": "FAC-093",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-093-6",
+        "facility_id": "FAC-093",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-094-0",
+        "facility_id": "FAC-094",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-094-1",
+        "facility_id": "FAC-094",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-094-2",
+        "facility_id": "FAC-094",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-094-3",
+        "facility_id": "FAC-094",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-094-4",
+        "facility_id": "FAC-094",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-094-5",
+        "facility_id": "FAC-094",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-094-6",
+        "facility_id": "FAC-094",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-095-0",
+        "facility_id": "FAC-095",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-095-1",
+        "facility_id": "FAC-095",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-095-2",
+        "facility_id": "FAC-095",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-095-3",
+        "facility_id": "FAC-095",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-095-4",
+        "facility_id": "FAC-095",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-095-5",
+        "facility_id": "FAC-095",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-095-6",
+        "facility_id": "FAC-095",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-096-0",
+        "facility_id": "FAC-096",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-096-1",
+        "facility_id": "FAC-096",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-096-2",
+        "facility_id": "FAC-096",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-096-3",
+        "facility_id": "FAC-096",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-096-4",
+        "facility_id": "FAC-096",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-096-5",
+        "facility_id": "FAC-096",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-096-6",
+        "facility_id": "FAC-096",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-097-0",
+        "facility_id": "FAC-097",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-097-1",
+        "facility_id": "FAC-097",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-097-2",
+        "facility_id": "FAC-097",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-097-3",
+        "facility_id": "FAC-097",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-097-4",
+        "facility_id": "FAC-097",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-097-5",
+        "facility_id": "FAC-097",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-097-6",
+        "facility_id": "FAC-097",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-098-0",
+        "facility_id": "FAC-098",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-098-1",
+        "facility_id": "FAC-098",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-098-2",
+        "facility_id": "FAC-098",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-098-3",
+        "facility_id": "FAC-098",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-098-4",
+        "facility_id": "FAC-098",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-098-5",
+        "facility_id": "FAC-098",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-098-6",
+        "facility_id": "FAC-098",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-099-0",
+        "facility_id": "FAC-099",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-099-1",
+        "facility_id": "FAC-099",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-099-2",
+        "facility_id": "FAC-099",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-099-3",
+        "facility_id": "FAC-099",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-099-4",
+        "facility_id": "FAC-099",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-099-5",
+        "facility_id": "FAC-099",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-099-6",
+        "facility_id": "FAC-099",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    },
+    {
+        "id": "FCAL-100-0",
+        "facility_id": "FAC-100",
+        "day_of_week": 0,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-100-1",
+        "facility_id": "FAC-100",
+        "day_of_week": 1,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-100-2",
+        "facility_id": "FAC-100",
+        "day_of_week": 2,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-100-3",
+        "facility_id": "FAC-100",
+        "day_of_week": 3,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-100-4",
+        "facility_id": "FAC-100",
+        "day_of_week": 4,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-100-5",
+        "facility_id": "FAC-100",
+        "day_of_week": 5,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 1
+    },
+    {
+        "id": "FCAL-100-6",
+        "facility_id": "FAC-100",
+        "day_of_week": 6,
+        "start_time": "08:00",
+        "end_time": "20:00",
+        "is_operational": 0
+    }
+]

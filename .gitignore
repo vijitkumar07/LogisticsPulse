@@ -1,0 +1,11 @@
+@"
+.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+*.db
+*.db-shm
+*.db-wal
+"@ | Set-Content .gitignore
+data/processed/ground_truth.json

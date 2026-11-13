@@ -1,0 +1,101 @@
+﻿id,name,facility_type,city,state,country,latitude,longitude,capacity,is_active
+FAC-001,Kochi Warehouse 001,WAREHOUSE,Kochi,Kerala,India,9.868256,76.21825,620,1
+FAC-002,Mumbai Distribution Center 002,DISTRIBUTION_CENTER,Mumbai,Maharashtra,India,19.030641,72.869858,217,1
+FAC-003,Indore Warehouse 003,WAREHOUSE,Indore,Madhya Pradesh,India,22.662149,75.833333,163,1
+FAC-004,Pune Warehouse 004,WAREHOUSE,Pune,Maharashtra,India,18.463911,73.787141,676,1
+FAC-005,Ahmedabad Warehouse 005,WAREHOUSE,Ahmedabad,Gujarat,India,23.024586,72.573584,962,1
+FAC-006,Delhi Warehouse 006,WAREHOUSE,Delhi,Delhi,India,28.603779,77.250572,536,1
+FAC-007,Patna Warehouse 007,WAREHOUSE,Patna,Bihar,India,25.627842,85.182482,974,1
+FAC-008,Nagpur Warehouse 008,WAREHOUSE,Nagpur,Maharashtra,India,21.213627,79.041479,989,1
+FAC-009,Chennai Warehouse 009,WAREHOUSE,Chennai,Tamil Nadu,India,13.062039,80.238305,105,1
+FAC-010,Mumbai Hub 010,HUB,Mumbai,Maharashtra,India,19.008023,72.832895,591,1
+FAC-011,Chennai Warehouse 011,WAREHOUSE,Chennai,Tamil Nadu,India,13.120981,80.327653,474,1
+FAC-012,Bangalore Hub 012,HUB,Bangalore,Karnataka,India,13.015002,77.6095,105,1
+FAC-013,Ranchi Distribution Center 013,DISTRIBUTION_CENTER,Ranchi,Jharkhand,India,23.269898,85.371195,265,1
+FAC-014,Lucknow Distribution Center 014,DISTRIBUTION_CENTER,Lucknow,Uttar Pradesh,India,26.903966,80.946581,781,1
+FAC-015,Indore Hub 015,HUB,Indore,Madhya Pradesh,India,22.756566,75.914853,114,1
+FAC-016,Mumbai Distribution Center 016,DISTRIBUTION_CENTER,Mumbai,Maharashtra,India,19.001,72.844531,151,1
+FAC-017,Bangalore Hub 017,HUB,Bangalore,Karnataka,India,13.008418,77.638563,626,1
+FAC-018,Jaipur Hub 018,HUB,Jaipur,Rajasthan,India,26.901475,75.780919,782,1
+FAC-019,Kolkata Distribution Center 019,DISTRIBUTION_CENTER,Kolkata,West Bengal,India,22.602667,88.334502,671,1
+FAC-020,Bhubaneswar Hub 020,HUB,Bhubaneswar,Odisha,India,20.332113,85.892603,865,1
+FAC-021,Jaipur Distribution Center 021,DISTRIBUTION_CENTER,Jaipur,Rajasthan,India,26.882896,75.858962,937,1
+FAC-022,Visakhapatnam Hub 022,HUB,Visakhapatnam,Andhra Pradesh,India,17.663642,83.256053,282,1
+FAC-023,Pune Hub 023,HUB,Pune,Maharashtra,India,18.520587,73.851233,562,1
+FAC-024,Pune Distribution Center 024,DISTRIBUTION_CENTER,Pune,Maharashtra,India,18.54392,73.77803,947,1
+FAC-025,Patna Distribution Center 025,DISTRIBUTION_CENTER,Patna,Bihar,India,25.624846,85.100316,876,1
+FAC-026,Bhubaneswar Distribution Center 026,DISTRIBUTION_CENTER,Bhubaneswar,Odisha,India,20.25291,85.857065,967,1
+FAC-027,Ranchi Distribution Center 027,DISTRIBUTION_CENTER,Ranchi,Jharkhand,India,23.333202,85.377882,251,1
+FAC-028,Pune Distribution Center 028,DISTRIBUTION_CENTER,Pune,Maharashtra,India,18.517401,73.935307,118,1
+FAC-029,Kochi Warehouse 029,WAREHOUSE,Kochi,Kerala,India,9.92026,76.279656,289,1
+FAC-030,Nagpur Warehouse 030,WAREHOUSE,Nagpur,Maharashtra,India,21.119687,79.017228,721,1
+FAC-031,Kolkata Hub 031,HUB,Kolkata,West Bengal,India,22.494474,88.327074,488,1
+FAC-032,Kochi Distribution Center 032,DISTRIBUTION_CENTER,Kochi,Kerala,India,9.936222,76.197327,122,1
+FAC-033,Pune Hub 033,HUB,Pune,Maharashtra,India,18.47552,73.897564,165,1
+FAC-034,Mumbai Warehouse 034,WAREHOUSE,Mumbai,Maharashtra,India,19.149569,72.873381,512,1
+FAC-035,Surat Hub 035,HUB,Surat,Gujarat,India,21.149347,72.894267,440,1
+FAC-036,Kochi Warehouse 036,WAREHOUSE,Kochi,Kerala,India,10.009682,76.317144,198,1
+FAC-037,Patna Warehouse 037,WAREHOUSE,Patna,Bihar,India,25.596779,85.133515,392,1
+FAC-038,Delhi Hub 038,HUB,Delhi,Delhi,India,28.65274,77.205462,504,1
+FAC-039,Bhopal Warehouse 039,WAREHOUSE,Bhopal,Madhya Pradesh,India,23.189754,77.368398,661,1
+FAC-040,Ahmedabad Warehouse 040,WAREHOUSE,Ahmedabad,Gujarat,India,23.004837,72.580459,510,1
+FAC-041,Bhubaneswar Warehouse 041,WAREHOUSE,Bhubaneswar,Odisha,India,20.333793,85.827118,289,1
+FAC-042,Chennai Hub 042,HUB,Chennai,Tamil Nadu,India,13.01487,80.298109,140,1
+FAC-043,Ahmedabad Distribution Center 043,DISTRIBUTION_CENTER,Ahmedabad,Gujarat,India,23.031522,72.597029,419,1
+FAC-044,Delhi Warehouse 044,WAREHOUSE,Delhi,Delhi,India,28.624031,77.169247,631,1
+FAC-045,Jaipur Warehouse 045,WAREHOUSE,Jaipur,Rajasthan,India,26.935671,75.86041,156,1
+FAC-046,Coimbatore Warehouse 046,WAREHOUSE,Coimbatore,Tamil Nadu,India,11.023628,76.914424,391,1
+FAC-047,Indore Warehouse 047,WAREHOUSE,Indore,Madhya Pradesh,India,22.696439,75.788076,805,1
+FAC-048,Kochi Distribution Center 048,DISTRIBUTION_CENTER,Kochi,Kerala,India,9.876019,76.336807,284,1
+FAC-049,Lucknow Hub 049,HUB,Lucknow,Uttar Pradesh,India,26.838886,81.0062,497,1
+FAC-050,Kolkata Warehouse 050,WAREHOUSE,Kolkata,West Bengal,India,22.620947,88.368795,132,1
+FAC-051,Kolkata Hub 051,HUB,Kolkata,West Bengal,India,22.601979,88.303467,486,1
+FAC-052,Indore Warehouse 052,WAREHOUSE,Indore,Madhya Pradesh,India,22.716472,75.887852,446,1
+FAC-053,Kochi Distribution Center 053,DISTRIBUTION_CENTER,Kochi,Kerala,India,9.882497,76.264557,712,1
+FAC-054,Indore Distribution Center 054,DISTRIBUTION_CENTER,Indore,Madhya Pradesh,India,22.658886,75.877011,604,1
+FAC-055,Ranchi Warehouse 055,WAREHOUSE,Ranchi,Jharkhand,India,23.266784,85.355905,441,1
+FAC-056,Coimbatore Distribution Center 056,DISTRIBUTION_CENTER,Coimbatore,Tamil Nadu,India,10.981766,76.945316,832,1
+FAC-057,Nagpur Warehouse 057,WAREHOUSE,Nagpur,Maharashtra,India,21.108852,79.055951,637,1
+FAC-058,Coimbatore Warehouse 058,WAREHOUSE,Coimbatore,Tamil Nadu,India,11.044273,76.971871,196,1
+FAC-059,Bangalore Hub 059,HUB,Bangalore,Karnataka,India,12.946967,77.559073,402,1
+FAC-060,Visakhapatnam Warehouse 060,WAREHOUSE,Visakhapatnam,Andhra Pradesh,India,17.696408,83.166505,498,1
+FAC-061,Hyderabad Hub 061,HUB,Hyderabad,Telangana,India,17.363703,78.526235,141,1
+FAC-062,Coimbatore Hub 062,HUB,Coimbatore,Tamil Nadu,India,11.050632,76.923707,462,1
+FAC-063,Indore Hub 063,HUB,Indore,Madhya Pradesh,India,22.726623,75.83085,999,1
+FAC-064,Ranchi Distribution Center 064,DISTRIBUTION_CENTER,Ranchi,Jharkhand,India,23.27212,85.285646,365,1
+FAC-065,Indore Distribution Center 065,DISTRIBUTION_CENTER,Indore,Madhya Pradesh,India,22.697995,75.883132,190,1
+FAC-066,Bangalore Warehouse 066,WAREHOUSE,Bangalore,Karnataka,India,12.928232,77.64126,188,1
+FAC-067,Lucknow Warehouse 067,WAREHOUSE,Lucknow,Uttar Pradesh,India,26.84896,80.90133,163,1
+FAC-068,Bhopal Warehouse 068,WAREHOUSE,Bhopal,Madhya Pradesh,India,23.317265,77.358829,854,1
+FAC-069,Hyderabad Distribution Center 069,DISTRIBUTION_CENTER,Hyderabad,Telangana,India,17.342007,78.548148,104,1
+FAC-070,Bhubaneswar Warehouse 070,WAREHOUSE,Bhubaneswar,Odisha,India,20.322287,85.84644,423,1
+FAC-071,Bhopal Hub 071,HUB,Bhopal,Madhya Pradesh,India,23.245988,77.434863,928,1
+FAC-072,Visakhapatnam Hub 072,HUB,Visakhapatnam,Andhra Pradesh,India,17.753223,83.184291,725,1
+FAC-073,Kochi Hub 073,HUB,Kochi,Kerala,India,9.949804,76.34536,654,1
+FAC-074,Lucknow Hub 074,HUB,Lucknow,Uttar Pradesh,India,26.793713,80.987397,142,1
+FAC-075,Mumbai Warehouse 075,WAREHOUSE,Mumbai,Maharashtra,India,18.99602,72.935201,170,1
+FAC-076,Bhopal Warehouse 076,WAREHOUSE,Bhopal,Madhya Pradesh,India,23.324653,77.455525,222,1
+FAC-077,Bangalore Hub 077,HUB,Bangalore,Karnataka,India,13.03459,77.589971,848,1
+FAC-078,Lucknow Hub 078,HUB,Lucknow,Uttar Pradesh,India,26.770594,80.979043,369,1
+FAC-079,Chennai Distribution Center 079,DISTRIBUTION_CENTER,Chennai,Tamil Nadu,India,13.138836,80.320984,278,1
+FAC-080,Visakhapatnam Hub 080,HUB,Visakhapatnam,Andhra Pradesh,India,17.731555,83.212184,282,1
+FAC-081,Nagpur Warehouse 081,WAREHOUSE,Nagpur,Maharashtra,India,21.116765,79.156807,218,1
+FAC-082,Delhi Distribution Center 082,DISTRIBUTION_CENTER,Delhi,Delhi,India,28.680013,77.141069,322,1
+FAC-083,Bangalore Warehouse 083,WAREHOUSE,Bangalore,Karnataka,India,12.954817,77.563731,790,1
+FAC-084,Delhi Warehouse 084,WAREHOUSE,Delhi,Delhi,India,28.6847,77.136747,1000,1
+FAC-085,Ahmedabad Warehouse 085,WAREHOUSE,Ahmedabad,Gujarat,India,23.091696,72.629101,133,1
+FAC-086,Delhi Distribution Center 086,DISTRIBUTION_CENTER,Delhi,Delhi,India,28.568072,77.171498,502,1
+FAC-087,Kolkata Warehouse 087,WAREHOUSE,Kolkata,West Bengal,India,22.530198,88.432631,676,1
+FAC-088,Bhubaneswar Warehouse 088,WAREHOUSE,Bhubaneswar,Odisha,India,20.238238,85.790538,153,1
+FAC-089,Surat Warehouse 089,WAREHOUSE,Surat,Gujarat,India,21.209071,72.79392,564,1
+FAC-090,Kolkata Hub 090,HUB,Kolkata,West Bengal,India,22.593077,88.329021,260,1
+FAC-091,Bhubaneswar Distribution Center 091,DISTRIBUTION_CENTER,Bhubaneswar,Odisha,India,20.225501,85.889455,494,1
+FAC-092,Jaipur Hub 092,HUB,Jaipur,Rajasthan,India,26.864536,75.800072,568,1
+FAC-093,Pune Warehouse 093,WAREHOUSE,Pune,Maharashtra,India,18.581448,73.877517,409,1
+FAC-094,Pune Distribution Center 094,DISTRIBUTION_CENTER,Pune,Maharashtra,India,18.583905,73.854671,876,1
+FAC-095,Bhopal Hub 095,HUB,Bhopal,Madhya Pradesh,India,23.256655,77.39084,425,1
+FAC-096,Indore Hub 096,HUB,Indore,Madhya Pradesh,India,22.745139,75.814826,191,1
+FAC-097,Ahmedabad Warehouse 097,WAREHOUSE,Ahmedabad,Gujarat,India,23.03257,72.527436,532,1
+FAC-098,Nagpur Distribution Center 098,DISTRIBUTION_CENTER,Nagpur,Maharashtra,India,21.065884,79.022203,509,1
+FAC-099,Bhopal Warehouse 099,WAREHOUSE,Bhopal,Madhya Pradesh,India,23.261174,77.477319,374,1
+FAC-100,Chennai Warehouse 100,WAREHOUSE,Chennai,Tamil Nadu,India,13.095298,80.331716,214,1

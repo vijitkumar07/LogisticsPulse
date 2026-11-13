@@ -1,0 +1,26 @@
+{
+    "project": "LogisticsPulse",
+    "random_seed": 20261022,
+    "validation_summary": {
+        "shipments": 1000,
+        "shipment_legs": 2494,
+        "tracking_events": 7053,
+        "late_scans_over_2_hours": 527,
+        "duplicate_source_keys": 65,
+        "duplicate_extra_records": 65,
+        "weather_events": 300,
+        "facility_queue_observations": 1000,
+        "disruption_windows": 1000,
+        "shipment_state_history_records": 0,
+        "shipment_issue_records": 0,
+        "eta_estimates": 0
+    },
+    "quality_checks": {
+        "impossible_route_sequences": [],
+        "delivered_without_timestamp": [],
+        "non_delivered_with_delivery_timestamp": [],
+        "foreign_key_violations": []
+    },
+    "ground_truth_cases": 4,
+    "ground_truth_file": "C:\\Users\\vijit\\LogisticsPulse\\data\\ground_truth\\ground_truth.csv"
+}

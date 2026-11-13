@@ -1,0 +1,302 @@
+{
+    "project": "LogisticsPulse",
+    "database": "logisticspulse.db",
+    "tables": {
+        "carrier_calendars": {
+            "row_count": 140,
+            "columns": [
+                "id",
+                "carrier_id",
+                "day_of_week",
+                "start_time",
+                "end_time",
+                "is_operational"
+            ],
+            "csv_file": "data\\exports\\csv\\carrier_calendars.csv",
+            "json_file": "data\\exports\\json\\carrier_calendars.json",
+            "csv_sha256": "ddb94a8798dae22cb99866eaeba7230d476619241dda8d2c452fe26d229b6c95",
+            "json_sha256": "fbcbd2218ec644f2c28884669542bc014837569a6a9452d3633a306996539b87"
+        },
+        "carriers": {
+            "row_count": 20,
+            "columns": [
+                "id",
+                "name",
+                "code",
+                "carrier_type",
+                "is_active"
+            ],
+            "csv_file": "data\\exports\\csv\\carriers.csv",
+            "json_file": "data\\exports\\json\\carriers.json",
+            "csv_sha256": "7e92618e0f9edb88696781071a4ca86000b7952591005a7eeb70cd8c150e19a3",
+            "json_sha256": "b91a0e2b8645102ee0c951d377d705c2146713c6ad3b99a7ed5067e2193c8347"
+        },
+        "delay_reasons": {
+            "row_count": 99,
+            "columns": [
+                "id",
+                "shipment_id",
+                "eta_estimate_id",
+                "reason_code",
+                "description",
+                "impact_minutes",
+                "detected_at"
+            ],
+            "csv_file": "data\\exports\\csv\\delay_reasons.csv",
+            "json_file": "data\\exports\\json\\delay_reasons.json",
+            "csv_sha256": "f491450bfa145a215bd6559c4713eb70cc8d5bb9aecb59880f5c022bde84d2c9",
+            "json_sha256": "ef2045058d11225d84b8589ad0bffb66bfc55a47e89b0c9c19a3e7290890c83d"
+        },
+        "disruption_windows": {
+            "row_count": 1000,
+            "columns": [
+                "id",
+                "disruption_type",
+                "facility_id",
+                "route_id",
+                "weather_event_id",
+                "start_time",
+                "end_time",
+                "severity",
+                "impact_minutes"
+            ],
+            "csv_file": "data\\exports\\csv\\disruption_windows.csv",
+            "json_file": "data\\exports\\json\\disruption_windows.json",
+            "csv_sha256": "f9ba169614438b8aa796ae5b67dbd83d50dacec8ef76401ec003aafaea60b61e",
+            "json_sha256": "af0e7c1f2363ce6c22a6bd32c1c222c20677a732969c2de7ce6e332b5bd42cba"
+        },
+        "eta_estimates": {
+            "row_count": 1000,
+            "columns": [
+                "id",
+                "shipment_id",
+                "prediction_time",
+                "feature_cutoff_time",
+                "predicted_arrival_at",
+                "delay_probability",
+                "predicted_delay_minutes",
+                "model_version",
+                "prediction_status"
+            ],
+            "csv_file": "data\\exports\\csv\\eta_estimates.csv",
+            "json_file": "data\\exports\\json\\eta_estimates.json",
+            "csv_sha256": "b1f76b359651f886c9f443ccfb2737a8fd4f0ff398c228d53aee66615339b362",
+            "json_sha256": "c942983199a6d25fe79fc66d48a0c58e005a53e2dabb91b204abed33a06961bc"
+        },
+        "facilities": {
+            "row_count": 100,
+            "columns": [
+                "id",
+                "name",
+                "facility_type",
+                "city",
+                "state",
+                "country",
+                "latitude",
+                "longitude",
+                "capacity",
+                "is_active"
+            ],
+            "csv_file": "data\\exports\\csv\\facilities.csv",
+            "json_file": "data\\exports\\json\\facilities.json",
+            "csv_sha256": "b676f2a93eeae2b2db64b816d6804653fc3dd8b39717b310a9ec863be2b6bb6d",
+            "json_sha256": "cc0f5de47ee20596382f100eb6fe814e7961806be9422ecd8379f601a9f223df"
+        },
+        "facility_calendars": {
+            "row_count": 700,
+            "columns": [
+                "id",
+                "facility_id",
+                "day_of_week",
+                "start_time",
+                "end_time",
+                "is_operational"
+            ],
+            "csv_file": "data\\exports\\csv\\facility_calendars.csv",
+            "json_file": "data\\exports\\json\\facility_calendars.json",
+            "csv_sha256": "eb14a0bf6580f51d8ef0d431686f242f5d065b8b975e93337f5c3965657c249d",
+            "json_sha256": "a2f9f38308c1b7c945d87fac45accf23f4a9d4eeea812744fd4608c347b724f0"
+        },
+        "facility_queues": {
+            "row_count": 1000,
+            "columns": [
+                "id",
+                "facility_id",
+                "observed_at",
+                "queue_length",
+                "capacity",
+                "average_wait_minutes"
+            ],
+            "csv_file": "data\\exports\\csv\\facility_queues.csv",
+            "json_file": "data\\exports\\json\\facility_queues.json",
+            "csv_sha256": "5f4dc8693e46fa0f1fe9c6d73d7c5c8ef515b56e2ef234590a69b3375e963219",
+            "json_sha256": "e5806cb16cd762b6e351e4128f76892d7128ab57d33fe7bdcaddb6c1be380998"
+        },
+        "route_weather": {
+            "row_count": 900,
+            "columns": [
+                "route_id",
+                "weather_event_id",
+                "impact_factor"
+            ],
+            "csv_file": "data\\exports\\csv\\route_weather.csv",
+            "json_file": "data\\exports\\json\\route_weather.json",
+            "csv_sha256": "082d968bb4d6931afc4261cb6baf5a93c665bd4aaa8120b77b24d22acaf6bd33",
+            "json_sha256": "b413a1e8caa019627b87464d52903759226358b2f23fa77e01393216f51f1680"
+        },
+        "routes": {
+            "row_count": 350,
+            "columns": [
+                "id",
+                "route_name",
+                "origin_facility_id",
+                "destination_facility_id",
+                "distance_km",
+                "estimated_duration_minutes",
+                "is_active"
+            ],
+            "csv_file": "data\\exports\\csv\\routes.csv",
+            "json_file": "data\\exports\\json\\routes.json",
+            "csv_sha256": "e60af9b91e7fd7122fd0040ef8f1f8487b72da3210d736b12bf0f2eea956d534",
+            "json_sha256": "06c531fa00c0656cde66f9e4e4f6ebac36926943d1a78af4ef3ed7b0a16ef9af"
+        },
+        "service_levels": {
+            "row_count": 3,
+            "columns": [
+                "id",
+                "name",
+                "code",
+                "target_transit_hours",
+                "allowed_delay_minutes"
+            ],
+            "csv_file": "data\\exports\\csv\\service_levels.csv",
+            "json_file": "data\\exports\\json\\service_levels.json",
+            "csv_sha256": "df10c5c4bf2bbede4a8756df2e5a8ce8552b841ec4ef36e21bf8f0a8c937d463",
+            "json_sha256": "27d9027f6cc58002ce8c321f292621db0e6d3386f3f2382ca5a285bde95b7850"
+        },
+        "shipment_disruptions": {
+            "row_count": 521,
+            "columns": [
+                "shipment_id",
+                "disruption_id"
+            ],
+            "csv_file": "data\\exports\\csv\\shipment_disruptions.csv",
+            "json_file": "data\\exports\\json\\shipment_disruptions.json",
+            "csv_sha256": "3c3be6acb3f4f09aa37a567b06482d5d0dc8e8ff238e81a296d2fcf23e291200",
+            "json_sha256": "d61852be7770713eb272623295ac0ec53017793e89433e8ab0eb2e39a824ce59"
+        },
+        "shipment_issues": {
+            "row_count": 4,
+            "columns": [
+                "id",
+                "shipment_id",
+                "tracking_event_id",
+                "issue_type",
+                "ground_truth_label",
+                "details",
+                "detected_at",
+                "resolved_at",
+                "is_resolved"
+            ],
+            "csv_file": "data\\exports\\csv\\shipment_issues.csv",
+            "json_file": "data\\exports\\json\\shipment_issues.json",
+            "csv_sha256": "8b0b01593c4c0e72d3de268c172247c9e9919a6736485404e503e98f8bfdf077",
+            "json_sha256": "49799cd296e31b836e34c642cb401014448aa8af6d28a42310015e8a8aff6e26"
+        },
+        "shipment_legs": {
+            "row_count": 2494,
+            "columns": [
+                "id",
+                "shipment_id",
+                "route_id",
+                "carrier_id",
+                "leg_number",
+                "origin_facility_id",
+                "destination_facility_id",
+                "planned_departure_at",
+                "planned_arrival_at",
+                "actual_departure_at",
+                "actual_arrival_at",
+                "status"
+            ],
+            "csv_file": "data\\exports\\csv\\shipment_legs.csv",
+            "json_file": "data\\exports\\json\\shipment_legs.json",
+            "csv_sha256": "bcc67cf036835af9d74231f0813b75758a10dafe37cf46edf2000cfc01181ac2",
+            "json_sha256": "dab22bc346196d471846b26aec38485e0fdf959c8ee776efdbb5b759d7d90caf"
+        },
+        "shipment_state_history": {
+            "row_count": 6988,
+            "columns": [
+                "id",
+                "shipment_id",
+                "previous_status",
+                "new_status",
+                "changed_at",
+                "source_event_id",
+                "change_reason"
+            ],
+            "csv_file": "data\\exports\\csv\\shipment_state_history.csv",
+            "json_file": "data\\exports\\json\\shipment_state_history.json",
+            "csv_sha256": "abb94fd1aa0f96bcf4d2a6abc009deaf24469e010f736dcbf25b62675fbb748b",
+            "json_sha256": "172fecf70425298d782c7e179d52c7d08fedc331ab2437b7c63ac7a7dd1ff8e6"
+        },
+        "shipments": {
+            "row_count": 1000,
+            "columns": [
+                "id",
+                "carrier_id",
+                "service_level_id",
+                "origin_facility_id",
+                "destination_facility_id",
+                "created_at",
+                "planned_pickup_at",
+                "sla_deadline_at",
+                "actual_delivered_at",
+                "status"
+            ],
+            "csv_file": "data\\exports\\csv\\shipments.csv",
+            "json_file": "data\\exports\\json\\shipments.json",
+            "csv_sha256": "146a4dc616ebddaa182748bed6c82155cea00853b9573d31cdd1bcd041eb4ada",
+            "json_sha256": "bc33c7bd8ee5472a0f6a4a2ceadafa514b0628f2b4b946fd9a5c5839ccdd1ffe"
+        },
+        "tracking_events": {
+            "row_count": 7053,
+            "columns": [
+                "id",
+                "shipment_id",
+                "leg_id",
+                "facility_id",
+                "event_code",
+                "event_time",
+                "ingestion_time",
+                "source_event_key",
+                "source"
+            ],
+            "csv_file": "data\\exports\\csv\\tracking_events.csv",
+            "json_file": "data\\exports\\json\\tracking_events.json",
+            "csv_sha256": "989c29b1442b93511ae88d2e9485567e2067903d3cf07449cd2d1a0a1e4236dc",
+            "json_sha256": "db5b1c6280c0e861b00ab7f1cb2502f21e98f679d32048c4889e3d0616d275f7"
+        },
+        "weather_events": {
+            "row_count": 300,
+            "columns": [
+                "id",
+                "event_type",
+                "severity",
+                "start_time",
+                "end_time",
+                "latitude",
+                "longitude",
+                "impact_description"
+            ],
+            "csv_file": "data\\exports\\csv\\weather_events.csv",
+            "json_file": "data\\exports\\json\\weather_events.json",
+            "csv_sha256": "be8349110a6cf75b1c3421359285e5369ccd170b9678a7d5aa1df4172e395c28",
+            "json_sha256": "210f8bd5cb36edc4bfb5c4f7778b0749c5dc489ba52ac32e49fdbcbbaf4ed790"
+        }
+    },
+    "total_tables": 18,
+    "total_rows": 23672,
+    "sql_file": "data\\exports\\logisticspulse.sql",
+    "sql_sha256": "918c616a8107ac6653973acb614cfb1c07cf916c89d6ec61223360b7aef81f31"
+}

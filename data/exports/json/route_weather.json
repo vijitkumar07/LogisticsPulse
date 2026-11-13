@@ -1,0 +1,4502 @@
+[
+    {
+        "route_id": "RTE-0141",
+        "weather_event_id": "WTH-2026-000001",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-NET-094",
+        "weather_event_id": "WTH-2026-000001",
+        "impact_factor": 0.68
+    },
+    {
+        "route_id": "RTE-0241",
+        "weather_event_id": "WTH-2026-000001",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-NET-041",
+        "weather_event_id": "WTH-2026-000002",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-0132",
+        "weather_event_id": "WTH-2026-000002",
+        "impact_factor": 0.4
+    },
+    {
+        "route_id": "RTE-NET-044",
+        "weather_event_id": "WTH-2026-000002",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0005",
+        "weather_event_id": "WTH-2026-000003",
+        "impact_factor": 0.82
+    },
+    {
+        "route_id": "RTE-0245",
+        "weather_event_id": "WTH-2026-000003",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-NET-076",
+        "weather_event_id": "WTH-2026-000003",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0042",
+        "weather_event_id": "WTH-2026-000004",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0036",
+        "weather_event_id": "WTH-2026-000004",
+        "impact_factor": 0.15
+    },
+    {
+        "route_id": "RTE-0027",
+        "weather_event_id": "WTH-2026-000004",
+        "impact_factor": 0.86
+    },
+    {
+        "route_id": "RTE-0138",
+        "weather_event_id": "WTH-2026-000005",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0044",
+        "weather_event_id": "WTH-2026-000005",
+        "impact_factor": 0.64
+    },
+    {
+        "route_id": "RTE-NET-027",
+        "weather_event_id": "WTH-2026-000005",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0070",
+        "weather_event_id": "WTH-2026-000006",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0062",
+        "weather_event_id": "WTH-2026-000006",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0078",
+        "weather_event_id": "WTH-2026-000006",
+        "impact_factor": 0.37
+    },
+    {
+        "route_id": "RTE-0025",
+        "weather_event_id": "WTH-2026-000007",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0148",
+        "weather_event_id": "WTH-2026-000007",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0051",
+        "weather_event_id": "WTH-2026-000007",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-NET-097",
+        "weather_event_id": "WTH-2026-000008",
+        "impact_factor": 0.66
+    },
+    {
+        "route_id": "RTE-0110",
+        "weather_event_id": "WTH-2026-000008",
+        "impact_factor": 0.48
+    },
+    {
+        "route_id": "RTE-NET-027",
+        "weather_event_id": "WTH-2026-000008",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-NET-057",
+        "weather_event_id": "WTH-2026-000009",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0184",
+        "weather_event_id": "WTH-2026-000009",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-NET-065",
+        "weather_event_id": "WTH-2026-000009",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-0124",
+        "weather_event_id": "WTH-2026-000010",
+        "impact_factor": 0.19
+    },
+    {
+        "route_id": "RTE-0190",
+        "weather_event_id": "WTH-2026-000010",
+        "impact_factor": 0.11
+    },
+    {
+        "route_id": "RTE-0197",
+        "weather_event_id": "WTH-2026-000010",
+        "impact_factor": 0.98
+    },
+    {
+        "route_id": "RTE-NET-031",
+        "weather_event_id": "WTH-2026-000011",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0053",
+        "weather_event_id": "WTH-2026-000011",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0138",
+        "weather_event_id": "WTH-2026-000011",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-0153",
+        "weather_event_id": "WTH-2026-000012",
+        "impact_factor": 0.62
+    },
+    {
+        "route_id": "RTE-0112",
+        "weather_event_id": "WTH-2026-000012",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-0051",
+        "weather_event_id": "WTH-2026-000012",
+        "impact_factor": 0.68
+    },
+    {
+        "route_id": "RTE-0234",
+        "weather_event_id": "WTH-2026-000013",
+        "impact_factor": 0.15
+    },
+    {
+        "route_id": "RTE-NET-055",
+        "weather_event_id": "WTH-2026-000013",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-0175",
+        "weather_event_id": "WTH-2026-000013",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-NET-028",
+        "weather_event_id": "WTH-2026-000014",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-0006",
+        "weather_event_id": "WTH-2026-000014",
+        "impact_factor": 0.38
+    },
+    {
+        "route_id": "RTE-0188",
+        "weather_event_id": "WTH-2026-000014",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-0074",
+        "weather_event_id": "WTH-2026-000015",
+        "impact_factor": 0.54
+    },
+    {
+        "route_id": "RTE-0079",
+        "weather_event_id": "WTH-2026-000015",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-0011",
+        "weather_event_id": "WTH-2026-000015",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-0197",
+        "weather_event_id": "WTH-2026-000016",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0014",
+        "weather_event_id": "WTH-2026-000016",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0067",
+        "weather_event_id": "WTH-2026-000016",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0074",
+        "weather_event_id": "WTH-2026-000017",
+        "impact_factor": 0.73
+    },
+    {
+        "route_id": "RTE-NET-078",
+        "weather_event_id": "WTH-2026-000017",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0043",
+        "weather_event_id": "WTH-2026-000017",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0073",
+        "weather_event_id": "WTH-2026-000018",
+        "impact_factor": 0.35
+    },
+    {
+        "route_id": "RTE-0156",
+        "weather_event_id": "WTH-2026-000018",
+        "impact_factor": 0.66
+    },
+    {
+        "route_id": "RTE-0236",
+        "weather_event_id": "WTH-2026-000018",
+        "impact_factor": 0.66
+    },
+    {
+        "route_id": "RTE-NET-089",
+        "weather_event_id": "WTH-2026-000019",
+        "impact_factor": 0.72
+    },
+    {
+        "route_id": "RTE-0049",
+        "weather_event_id": "WTH-2026-000019",
+        "impact_factor": 0.73
+    },
+    {
+        "route_id": "RTE-0136",
+        "weather_event_id": "WTH-2026-000019",
+        "impact_factor": 0.77
+    },
+    {
+        "route_id": "RTE-0205",
+        "weather_event_id": "WTH-2026-000020",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0057",
+        "weather_event_id": "WTH-2026-000020",
+        "impact_factor": 0.34
+    },
+    {
+        "route_id": "RTE-0011",
+        "weather_event_id": "WTH-2026-000020",
+        "impact_factor": 0.43
+    },
+    {
+        "route_id": "RTE-0227",
+        "weather_event_id": "WTH-2026-000021",
+        "impact_factor": 0.4
+    },
+    {
+        "route_id": "RTE-0250",
+        "weather_event_id": "WTH-2026-000021",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-NET-052",
+        "weather_event_id": "WTH-2026-000021",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-0069",
+        "weather_event_id": "WTH-2026-000022",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-0118",
+        "weather_event_id": "WTH-2026-000022",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-0147",
+        "weather_event_id": "WTH-2026-000022",
+        "impact_factor": 0.85
+    },
+    {
+        "route_id": "RTE-0148",
+        "weather_event_id": "WTH-2026-000023",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-NET-092",
+        "weather_event_id": "WTH-2026-000023",
+        "impact_factor": 0.54
+    },
+    {
+        "route_id": "RTE-NET-078",
+        "weather_event_id": "WTH-2026-000023",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0123",
+        "weather_event_id": "WTH-2026-000024",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0213",
+        "weather_event_id": "WTH-2026-000024",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-0210",
+        "weather_event_id": "WTH-2026-000024",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0090",
+        "weather_event_id": "WTH-2026-000025",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-NET-098",
+        "weather_event_id": "WTH-2026-000025",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0053",
+        "weather_event_id": "WTH-2026-000025",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-NET-079",
+        "weather_event_id": "WTH-2026-000026",
+        "impact_factor": 0.62
+    },
+    {
+        "route_id": "RTE-NET-049",
+        "weather_event_id": "WTH-2026-000026",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-0229",
+        "weather_event_id": "WTH-2026-000026",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0174",
+        "weather_event_id": "WTH-2026-000027",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0223",
+        "weather_event_id": "WTH-2026-000027",
+        "impact_factor": 0.53
+    },
+    {
+        "route_id": "RTE-0128",
+        "weather_event_id": "WTH-2026-000027",
+        "impact_factor": 0.45
+    },
+    {
+        "route_id": "RTE-0191",
+        "weather_event_id": "WTH-2026-000028",
+        "impact_factor": 0.42
+    },
+    {
+        "route_id": "RTE-0024",
+        "weather_event_id": "WTH-2026-000028",
+        "impact_factor": 0.3
+    },
+    {
+        "route_id": "RTE-0131",
+        "weather_event_id": "WTH-2026-000028",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0155",
+        "weather_event_id": "WTH-2026-000029",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0185",
+        "weather_event_id": "WTH-2026-000029",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0076",
+        "weather_event_id": "WTH-2026-000029",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0065",
+        "weather_event_id": "WTH-2026-000030",
+        "impact_factor": 0.1
+    },
+    {
+        "route_id": "RTE-0239",
+        "weather_event_id": "WTH-2026-000030",
+        "impact_factor": 0.99
+    },
+    {
+        "route_id": "RTE-NET-072",
+        "weather_event_id": "WTH-2026-000030",
+        "impact_factor": 0.66
+    },
+    {
+        "route_id": "RTE-0103",
+        "weather_event_id": "WTH-2026-000031",
+        "impact_factor": 0.59
+    },
+    {
+        "route_id": "RTE-0249",
+        "weather_event_id": "WTH-2026-000031",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-0112",
+        "weather_event_id": "WTH-2026-000031",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-NET-003",
+        "weather_event_id": "WTH-2026-000032",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-NET-098",
+        "weather_event_id": "WTH-2026-000032",
+        "impact_factor": 0.52
+    },
+    {
+        "route_id": "RTE-0029",
+        "weather_event_id": "WTH-2026-000032",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0099",
+        "weather_event_id": "WTH-2026-000033",
+        "impact_factor": 0.42
+    },
+    {
+        "route_id": "RTE-0073",
+        "weather_event_id": "WTH-2026-000033",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-NET-068",
+        "weather_event_id": "WTH-2026-000033",
+        "impact_factor": 0.83
+    },
+    {
+        "route_id": "RTE-0194",
+        "weather_event_id": "WTH-2026-000034",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0169",
+        "weather_event_id": "WTH-2026-000034",
+        "impact_factor": 0.69
+    },
+    {
+        "route_id": "RTE-0244",
+        "weather_event_id": "WTH-2026-000034",
+        "impact_factor": 0.68
+    },
+    {
+        "route_id": "RTE-0065",
+        "weather_event_id": "WTH-2026-000035",
+        "impact_factor": 0.63
+    },
+    {
+        "route_id": "RTE-0123",
+        "weather_event_id": "WTH-2026-000035",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0121",
+        "weather_event_id": "WTH-2026-000035",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0070",
+        "weather_event_id": "WTH-2026-000036",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-0058",
+        "weather_event_id": "WTH-2026-000036",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0041",
+        "weather_event_id": "WTH-2026-000036",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-NET-020",
+        "weather_event_id": "WTH-2026-000037",
+        "impact_factor": 0.76
+    },
+    {
+        "route_id": "RTE-NET-052",
+        "weather_event_id": "WTH-2026-000037",
+        "impact_factor": 0.69
+    },
+    {
+        "route_id": "RTE-0249",
+        "weather_event_id": "WTH-2026-000037",
+        "impact_factor": 0.91
+    },
+    {
+        "route_id": "RTE-0148",
+        "weather_event_id": "WTH-2026-000038",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-0002",
+        "weather_event_id": "WTH-2026-000038",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-0030",
+        "weather_event_id": "WTH-2026-000038",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-NET-085",
+        "weather_event_id": "WTH-2026-000039",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-NET-011",
+        "weather_event_id": "WTH-2026-000039",
+        "impact_factor": 0.36
+    },
+    {
+        "route_id": "RTE-NET-068",
+        "weather_event_id": "WTH-2026-000039",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0219",
+        "weather_event_id": "WTH-2026-000040",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-NET-025",
+        "weather_event_id": "WTH-2026-000040",
+        "impact_factor": 0.99
+    },
+    {
+        "route_id": "RTE-0233",
+        "weather_event_id": "WTH-2026-000040",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0153",
+        "weather_event_id": "WTH-2026-000041",
+        "impact_factor": 0.35
+    },
+    {
+        "route_id": "RTE-0058",
+        "weather_event_id": "WTH-2026-000041",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0083",
+        "weather_event_id": "WTH-2026-000041",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-NET-003",
+        "weather_event_id": "WTH-2026-000042",
+        "impact_factor": 0.73
+    },
+    {
+        "route_id": "RTE-NET-059",
+        "weather_event_id": "WTH-2026-000042",
+        "impact_factor": 0.63
+    },
+    {
+        "route_id": "RTE-0119",
+        "weather_event_id": "WTH-2026-000042",
+        "impact_factor": 0.89
+    },
+    {
+        "route_id": "RTE-NET-076",
+        "weather_event_id": "WTH-2026-000043",
+        "impact_factor": 0.62
+    },
+    {
+        "route_id": "RTE-NET-048",
+        "weather_event_id": "WTH-2026-000043",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0105",
+        "weather_event_id": "WTH-2026-000043",
+        "impact_factor": 0.23
+    },
+    {
+        "route_id": "RTE-0190",
+        "weather_event_id": "WTH-2026-000044",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-NET-011",
+        "weather_event_id": "WTH-2026-000044",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-0125",
+        "weather_event_id": "WTH-2026-000044",
+        "impact_factor": 0.59
+    },
+    {
+        "route_id": "RTE-0077",
+        "weather_event_id": "WTH-2026-000045",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-NET-024",
+        "weather_event_id": "WTH-2026-000045",
+        "impact_factor": 0.42
+    },
+    {
+        "route_id": "RTE-0234",
+        "weather_event_id": "WTH-2026-000045",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-NET-075",
+        "weather_event_id": "WTH-2026-000046",
+        "impact_factor": 0.4
+    },
+    {
+        "route_id": "RTE-0101",
+        "weather_event_id": "WTH-2026-000046",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0077",
+        "weather_event_id": "WTH-2026-000046",
+        "impact_factor": 0.34
+    },
+    {
+        "route_id": "RTE-0123",
+        "weather_event_id": "WTH-2026-000047",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-0046",
+        "weather_event_id": "WTH-2026-000047",
+        "impact_factor": 0.31
+    },
+    {
+        "route_id": "RTE-0186",
+        "weather_event_id": "WTH-2026-000047",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-0217",
+        "weather_event_id": "WTH-2026-000048",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-NET-007",
+        "weather_event_id": "WTH-2026-000048",
+        "impact_factor": 0.85
+    },
+    {
+        "route_id": "RTE-0132",
+        "weather_event_id": "WTH-2026-000048",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-NET-021",
+        "weather_event_id": "WTH-2026-000049",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0065",
+        "weather_event_id": "WTH-2026-000049",
+        "impact_factor": 0.37
+    },
+    {
+        "route_id": "RTE-0108",
+        "weather_event_id": "WTH-2026-000049",
+        "impact_factor": 0.21
+    },
+    {
+        "route_id": "RTE-0030",
+        "weather_event_id": "WTH-2026-000050",
+        "impact_factor": 0.4
+    },
+    {
+        "route_id": "RTE-NET-006",
+        "weather_event_id": "WTH-2026-000050",
+        "impact_factor": 0.78
+    },
+    {
+        "route_id": "RTE-0036",
+        "weather_event_id": "WTH-2026-000050",
+        "impact_factor": 0.33
+    },
+    {
+        "route_id": "RTE-0005",
+        "weather_event_id": "WTH-2026-000051",
+        "impact_factor": 0.69
+    },
+    {
+        "route_id": "RTE-NET-041",
+        "weather_event_id": "WTH-2026-000051",
+        "impact_factor": 0.23
+    },
+    {
+        "route_id": "RTE-NET-024",
+        "weather_event_id": "WTH-2026-000051",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-NET-039",
+        "weather_event_id": "WTH-2026-000052",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0199",
+        "weather_event_id": "WTH-2026-000052",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-0009",
+        "weather_event_id": "WTH-2026-000052",
+        "impact_factor": 0.33
+    },
+    {
+        "route_id": "RTE-0164",
+        "weather_event_id": "WTH-2026-000053",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0248",
+        "weather_event_id": "WTH-2026-000053",
+        "impact_factor": 0.98
+    },
+    {
+        "route_id": "RTE-NET-093",
+        "weather_event_id": "WTH-2026-000053",
+        "impact_factor": 0.92
+    },
+    {
+        "route_id": "RTE-0034",
+        "weather_event_id": "WTH-2026-000054",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-NET-083",
+        "weather_event_id": "WTH-2026-000054",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0130",
+        "weather_event_id": "WTH-2026-000054",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0021",
+        "weather_event_id": "WTH-2026-000055",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-0155",
+        "weather_event_id": "WTH-2026-000055",
+        "impact_factor": 0.52
+    },
+    {
+        "route_id": "RTE-0026",
+        "weather_event_id": "WTH-2026-000055",
+        "impact_factor": 0.3
+    },
+    {
+        "route_id": "RTE-0041",
+        "weather_event_id": "WTH-2026-000056",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-NET-046",
+        "weather_event_id": "WTH-2026-000056",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-NET-056",
+        "weather_event_id": "WTH-2026-000056",
+        "impact_factor": 0.33
+    },
+    {
+        "route_id": "RTE-NET-048",
+        "weather_event_id": "WTH-2026-000057",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0078",
+        "weather_event_id": "WTH-2026-000057",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-NET-039",
+        "weather_event_id": "WTH-2026-000057",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-0030",
+        "weather_event_id": "WTH-2026-000058",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-0168",
+        "weather_event_id": "WTH-2026-000058",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-NET-079",
+        "weather_event_id": "WTH-2026-000058",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0033",
+        "weather_event_id": "WTH-2026-000059",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-0104",
+        "weather_event_id": "WTH-2026-000059",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-0047",
+        "weather_event_id": "WTH-2026-000059",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0172",
+        "weather_event_id": "WTH-2026-000060",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-0186",
+        "weather_event_id": "WTH-2026-000060",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0031",
+        "weather_event_id": "WTH-2026-000060",
+        "impact_factor": 0.82
+    },
+    {
+        "route_id": "RTE-0114",
+        "weather_event_id": "WTH-2026-000061",
+        "impact_factor": 0.4
+    },
+    {
+        "route_id": "RTE-NET-094",
+        "weather_event_id": "WTH-2026-000061",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0118",
+        "weather_event_id": "WTH-2026-000061",
+        "impact_factor": 0.78
+    },
+    {
+        "route_id": "RTE-0030",
+        "weather_event_id": "WTH-2026-000062",
+        "impact_factor": 0.86
+    },
+    {
+        "route_id": "RTE-NET-090",
+        "weather_event_id": "WTH-2026-000062",
+        "impact_factor": 0.29
+    },
+    {
+        "route_id": "RTE-NET-062",
+        "weather_event_id": "WTH-2026-000062",
+        "impact_factor": 0.64
+    },
+    {
+        "route_id": "RTE-NET-011",
+        "weather_event_id": "WTH-2026-000063",
+        "impact_factor": 0.96
+    },
+    {
+        "route_id": "RTE-NET-053",
+        "weather_event_id": "WTH-2026-000063",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-0156",
+        "weather_event_id": "WTH-2026-000063",
+        "impact_factor": 0.59
+    },
+    {
+        "route_id": "RTE-0177",
+        "weather_event_id": "WTH-2026-000064",
+        "impact_factor": 0.8
+    },
+    {
+        "route_id": "RTE-NET-044",
+        "weather_event_id": "WTH-2026-000064",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-0027",
+        "weather_event_id": "WTH-2026-000064",
+        "impact_factor": 0.68
+    },
+    {
+        "route_id": "RTE-NET-051",
+        "weather_event_id": "WTH-2026-000065",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-0061",
+        "weather_event_id": "WTH-2026-000065",
+        "impact_factor": 0.83
+    },
+    {
+        "route_id": "RTE-0057",
+        "weather_event_id": "WTH-2026-000065",
+        "impact_factor": 0.12
+    },
+    {
+        "route_id": "RTE-0113",
+        "weather_event_id": "WTH-2026-000066",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0025",
+        "weather_event_id": "WTH-2026-000066",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0223",
+        "weather_event_id": "WTH-2026-000066",
+        "impact_factor": 0.33
+    },
+    {
+        "route_id": "RTE-0078",
+        "weather_event_id": "WTH-2026-000067",
+        "impact_factor": 0.59
+    },
+    {
+        "route_id": "RTE-0039",
+        "weather_event_id": "WTH-2026-000067",
+        "impact_factor": 0.35
+    },
+    {
+        "route_id": "RTE-NET-086",
+        "weather_event_id": "WTH-2026-000067",
+        "impact_factor": 0.3
+    },
+    {
+        "route_id": "RTE-0133",
+        "weather_event_id": "WTH-2026-000068",
+        "impact_factor": 0.52
+    },
+    {
+        "route_id": "RTE-NET-055",
+        "weather_event_id": "WTH-2026-000068",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0214",
+        "weather_event_id": "WTH-2026-000068",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-0139",
+        "weather_event_id": "WTH-2026-000069",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-0126",
+        "weather_event_id": "WTH-2026-000069",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0053",
+        "weather_event_id": "WTH-2026-000069",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-0029",
+        "weather_event_id": "WTH-2026-000070",
+        "impact_factor": 0.92
+    },
+    {
+        "route_id": "RTE-NET-001",
+        "weather_event_id": "WTH-2026-000070",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-NET-086",
+        "weather_event_id": "WTH-2026-000070",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-0019",
+        "weather_event_id": "WTH-2026-000071",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-NET-023",
+        "weather_event_id": "WTH-2026-000071",
+        "impact_factor": 0.37
+    },
+    {
+        "route_id": "RTE-NET-036",
+        "weather_event_id": "WTH-2026-000071",
+        "impact_factor": 0.98
+    },
+    {
+        "route_id": "RTE-0015",
+        "weather_event_id": "WTH-2026-000072",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-0038",
+        "weather_event_id": "WTH-2026-000072",
+        "impact_factor": 0.99
+    },
+    {
+        "route_id": "RTE-0179",
+        "weather_event_id": "WTH-2026-000072",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-0136",
+        "weather_event_id": "WTH-2026-000073",
+        "impact_factor": 0.15
+    },
+    {
+        "route_id": "RTE-0104",
+        "weather_event_id": "WTH-2026-000073",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0236",
+        "weather_event_id": "WTH-2026-000073",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0136",
+        "weather_event_id": "WTH-2026-000074",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0244",
+        "weather_event_id": "WTH-2026-000074",
+        "impact_factor": 0.62
+    },
+    {
+        "route_id": "RTE-0146",
+        "weather_event_id": "WTH-2026-000074",
+        "impact_factor": 0.43
+    },
+    {
+        "route_id": "RTE-0126",
+        "weather_event_id": "WTH-2026-000075",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-0193",
+        "weather_event_id": "WTH-2026-000075",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-NET-050",
+        "weather_event_id": "WTH-2026-000075",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-NET-087",
+        "weather_event_id": "WTH-2026-000076",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-NET-019",
+        "weather_event_id": "WTH-2026-000076",
+        "impact_factor": 0.91
+    },
+    {
+        "route_id": "RTE-0136",
+        "weather_event_id": "WTH-2026-000076",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-0193",
+        "weather_event_id": "WTH-2026-000077",
+        "impact_factor": 0.77
+    },
+    {
+        "route_id": "RTE-0002",
+        "weather_event_id": "WTH-2026-000077",
+        "impact_factor": 0.54
+    },
+    {
+        "route_id": "RTE-0160",
+        "weather_event_id": "WTH-2026-000077",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-NET-035",
+        "weather_event_id": "WTH-2026-000078",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0112",
+        "weather_event_id": "WTH-2026-000078",
+        "impact_factor": 0.64
+    },
+    {
+        "route_id": "RTE-0135",
+        "weather_event_id": "WTH-2026-000078",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-0009",
+        "weather_event_id": "WTH-2026-000079",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0193",
+        "weather_event_id": "WTH-2026-000079",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0125",
+        "weather_event_id": "WTH-2026-000079",
+        "impact_factor": 0.72
+    },
+    {
+        "route_id": "RTE-0067",
+        "weather_event_id": "WTH-2026-000080",
+        "impact_factor": 0.25
+    },
+    {
+        "route_id": "RTE-0001",
+        "weather_event_id": "WTH-2026-000080",
+        "impact_factor": 0.42
+    },
+    {
+        "route_id": "RTE-NET-077",
+        "weather_event_id": "WTH-2026-000080",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-0219",
+        "weather_event_id": "WTH-2026-000081",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-NET-010",
+        "weather_event_id": "WTH-2026-000081",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-0025",
+        "weather_event_id": "WTH-2026-000081",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-NET-032",
+        "weather_event_id": "WTH-2026-000082",
+        "impact_factor": 0.34
+    },
+    {
+        "route_id": "RTE-0209",
+        "weather_event_id": "WTH-2026-000082",
+        "impact_factor": 0.59
+    },
+    {
+        "route_id": "RTE-0117",
+        "weather_event_id": "WTH-2026-000082",
+        "impact_factor": 0.89
+    },
+    {
+        "route_id": "RTE-0216",
+        "weather_event_id": "WTH-2026-000083",
+        "impact_factor": 0.91
+    },
+    {
+        "route_id": "RTE-0093",
+        "weather_event_id": "WTH-2026-000083",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-0041",
+        "weather_event_id": "WTH-2026-000083",
+        "impact_factor": 0.52
+    },
+    {
+        "route_id": "RTE-0129",
+        "weather_event_id": "WTH-2026-000084",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-0213",
+        "weather_event_id": "WTH-2026-000084",
+        "impact_factor": 0.63
+    },
+    {
+        "route_id": "RTE-NET-030",
+        "weather_event_id": "WTH-2026-000084",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-0066",
+        "weather_event_id": "WTH-2026-000085",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-0245",
+        "weather_event_id": "WTH-2026-000085",
+        "impact_factor": 0.57
+    },
+    {
+        "route_id": "RTE-0022",
+        "weather_event_id": "WTH-2026-000085",
+        "impact_factor": 0.3
+    },
+    {
+        "route_id": "RTE-0201",
+        "weather_event_id": "WTH-2026-000086",
+        "impact_factor": 0.31
+    },
+    {
+        "route_id": "RTE-0009",
+        "weather_event_id": "WTH-2026-000086",
+        "impact_factor": 0.23
+    },
+    {
+        "route_id": "RTE-NET-068",
+        "weather_event_id": "WTH-2026-000086",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0019",
+        "weather_event_id": "WTH-2026-000087",
+        "impact_factor": 0.36
+    },
+    {
+        "route_id": "RTE-NET-084",
+        "weather_event_id": "WTH-2026-000087",
+        "impact_factor": 0.85
+    },
+    {
+        "route_id": "RTE-0021",
+        "weather_event_id": "WTH-2026-000087",
+        "impact_factor": 0.92
+    },
+    {
+        "route_id": "RTE-0102",
+        "weather_event_id": "WTH-2026-000088",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-0162",
+        "weather_event_id": "WTH-2026-000088",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0071",
+        "weather_event_id": "WTH-2026-000088",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-0172",
+        "weather_event_id": "WTH-2026-000089",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-NET-072",
+        "weather_event_id": "WTH-2026-000089",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-NET-049",
+        "weather_event_id": "WTH-2026-000089",
+        "impact_factor": 0.1
+    },
+    {
+        "route_id": "RTE-NET-042",
+        "weather_event_id": "WTH-2026-000090",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0217",
+        "weather_event_id": "WTH-2026-000090",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0178",
+        "weather_event_id": "WTH-2026-000090",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0066",
+        "weather_event_id": "WTH-2026-000091",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-0111",
+        "weather_event_id": "WTH-2026-000091",
+        "impact_factor": 0.78
+    },
+    {
+        "route_id": "RTE-0085",
+        "weather_event_id": "WTH-2026-000091",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-0195",
+        "weather_event_id": "WTH-2026-000092",
+        "impact_factor": 0.4
+    },
+    {
+        "route_id": "RTE-0141",
+        "weather_event_id": "WTH-2026-000092",
+        "impact_factor": 0.37
+    },
+    {
+        "route_id": "RTE-NET-011",
+        "weather_event_id": "WTH-2026-000092",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-0121",
+        "weather_event_id": "WTH-2026-000093",
+        "impact_factor": 0.88
+    },
+    {
+        "route_id": "RTE-NET-067",
+        "weather_event_id": "WTH-2026-000093",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0230",
+        "weather_event_id": "WTH-2026-000093",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0183",
+        "weather_event_id": "WTH-2026-000094",
+        "impact_factor": 0.34
+    },
+    {
+        "route_id": "RTE-0119",
+        "weather_event_id": "WTH-2026-000094",
+        "impact_factor": 0.99
+    },
+    {
+        "route_id": "RTE-0195",
+        "weather_event_id": "WTH-2026-000094",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0151",
+        "weather_event_id": "WTH-2026-000095",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0061",
+        "weather_event_id": "WTH-2026-000095",
+        "impact_factor": 0.35
+    },
+    {
+        "route_id": "RTE-NET-060",
+        "weather_event_id": "WTH-2026-000095",
+        "impact_factor": 0.38
+    },
+    {
+        "route_id": "RTE-0049",
+        "weather_event_id": "WTH-2026-000096",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0182",
+        "weather_event_id": "WTH-2026-000096",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-0073",
+        "weather_event_id": "WTH-2026-000096",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0202",
+        "weather_event_id": "WTH-2026-000097",
+        "impact_factor": 0.68
+    },
+    {
+        "route_id": "RTE-0051",
+        "weather_event_id": "WTH-2026-000097",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-0002",
+        "weather_event_id": "WTH-2026-000097",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0103",
+        "weather_event_id": "WTH-2026-000098",
+        "impact_factor": 0.96
+    },
+    {
+        "route_id": "RTE-NET-076",
+        "weather_event_id": "WTH-2026-000098",
+        "impact_factor": 0.3
+    },
+    {
+        "route_id": "RTE-0209",
+        "weather_event_id": "WTH-2026-000098",
+        "impact_factor": 0.82
+    },
+    {
+        "route_id": "RTE-NET-051",
+        "weather_event_id": "WTH-2026-000099",
+        "impact_factor": 0.82
+    },
+    {
+        "route_id": "RTE-0020",
+        "weather_event_id": "WTH-2026-000099",
+        "impact_factor": 0.2
+    },
+    {
+        "route_id": "RTE-0202",
+        "weather_event_id": "WTH-2026-000099",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-0039",
+        "weather_event_id": "WTH-2026-000100",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-NET-019",
+        "weather_event_id": "WTH-2026-000100",
+        "impact_factor": 0.11
+    },
+    {
+        "route_id": "RTE-NET-044",
+        "weather_event_id": "WTH-2026-000100",
+        "impact_factor": 0.53
+    },
+    {
+        "route_id": "RTE-NET-069",
+        "weather_event_id": "WTH-2026-000101",
+        "impact_factor": 0.98
+    },
+    {
+        "route_id": "RTE-NET-052",
+        "weather_event_id": "WTH-2026-000101",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-NET-003",
+        "weather_event_id": "WTH-2026-000101",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-0219",
+        "weather_event_id": "WTH-2026-000102",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0060",
+        "weather_event_id": "WTH-2026-000102",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-NET-011",
+        "weather_event_id": "WTH-2026-000102",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0250",
+        "weather_event_id": "WTH-2026-000103",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-0220",
+        "weather_event_id": "WTH-2026-000103",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-0152",
+        "weather_event_id": "WTH-2026-000103",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-NET-067",
+        "weather_event_id": "WTH-2026-000104",
+        "impact_factor": 0.64
+    },
+    {
+        "route_id": "RTE-0050",
+        "weather_event_id": "WTH-2026-000104",
+        "impact_factor": 0.89
+    },
+    {
+        "route_id": "RTE-0203",
+        "weather_event_id": "WTH-2026-000104",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0085",
+        "weather_event_id": "WTH-2026-000105",
+        "impact_factor": 0.63
+    },
+    {
+        "route_id": "RTE-0012",
+        "weather_event_id": "WTH-2026-000105",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-0041",
+        "weather_event_id": "WTH-2026-000105",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0012",
+        "weather_event_id": "WTH-2026-000106",
+        "impact_factor": 0.28
+    },
+    {
+        "route_id": "RTE-0094",
+        "weather_event_id": "WTH-2026-000106",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0237",
+        "weather_event_id": "WTH-2026-000106",
+        "impact_factor": 0.48
+    },
+    {
+        "route_id": "RTE-NET-012",
+        "weather_event_id": "WTH-2026-000107",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-0095",
+        "weather_event_id": "WTH-2026-000107",
+        "impact_factor": 0.2
+    },
+    {
+        "route_id": "RTE-0127",
+        "weather_event_id": "WTH-2026-000107",
+        "impact_factor": 0.43
+    },
+    {
+        "route_id": "RTE-NET-044",
+        "weather_event_id": "WTH-2026-000108",
+        "impact_factor": 0.64
+    },
+    {
+        "route_id": "RTE-0144",
+        "weather_event_id": "WTH-2026-000108",
+        "impact_factor": 0.73
+    },
+    {
+        "route_id": "RTE-0176",
+        "weather_event_id": "WTH-2026-000108",
+        "impact_factor": 0.31
+    },
+    {
+        "route_id": "RTE-NET-039",
+        "weather_event_id": "WTH-2026-000109",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0198",
+        "weather_event_id": "WTH-2026-000109",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-0129",
+        "weather_event_id": "WTH-2026-000109",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0067",
+        "weather_event_id": "WTH-2026-000110",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-0102",
+        "weather_event_id": "WTH-2026-000110",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-0101",
+        "weather_event_id": "WTH-2026-000110",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-NET-067",
+        "weather_event_id": "WTH-2026-000111",
+        "impact_factor": 0.45
+    },
+    {
+        "route_id": "RTE-0143",
+        "weather_event_id": "WTH-2026-000111",
+        "impact_factor": 0.36
+    },
+    {
+        "route_id": "RTE-0186",
+        "weather_event_id": "WTH-2026-000111",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-NET-060",
+        "weather_event_id": "WTH-2026-000112",
+        "impact_factor": 0.11
+    },
+    {
+        "route_id": "RTE-NET-085",
+        "weather_event_id": "WTH-2026-000112",
+        "impact_factor": 0.88
+    },
+    {
+        "route_id": "RTE-NET-066",
+        "weather_event_id": "WTH-2026-000112",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-0116",
+        "weather_event_id": "WTH-2026-000113",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-0215",
+        "weather_event_id": "WTH-2026-000113",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0148",
+        "weather_event_id": "WTH-2026-000113",
+        "impact_factor": 0.52
+    },
+    {
+        "route_id": "RTE-NET-054",
+        "weather_event_id": "WTH-2026-000114",
+        "impact_factor": 0.28
+    },
+    {
+        "route_id": "RTE-NET-015",
+        "weather_event_id": "WTH-2026-000114",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-0001",
+        "weather_event_id": "WTH-2026-000114",
+        "impact_factor": 0.11
+    },
+    {
+        "route_id": "RTE-0094",
+        "weather_event_id": "WTH-2026-000115",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-0059",
+        "weather_event_id": "WTH-2026-000115",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0118",
+        "weather_event_id": "WTH-2026-000115",
+        "impact_factor": 0.78
+    },
+    {
+        "route_id": "RTE-0129",
+        "weather_event_id": "WTH-2026-000116",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-0149",
+        "weather_event_id": "WTH-2026-000116",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-0153",
+        "weather_event_id": "WTH-2026-000116",
+        "impact_factor": 0.77
+    },
+    {
+        "route_id": "RTE-0100",
+        "weather_event_id": "WTH-2026-000117",
+        "impact_factor": 0.35
+    },
+    {
+        "route_id": "RTE-NET-017",
+        "weather_event_id": "WTH-2026-000117",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-NET-083",
+        "weather_event_id": "WTH-2026-000117",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-NET-079",
+        "weather_event_id": "WTH-2026-000118",
+        "impact_factor": 0.89
+    },
+    {
+        "route_id": "RTE-NET-001",
+        "weather_event_id": "WTH-2026-000118",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0005",
+        "weather_event_id": "WTH-2026-000118",
+        "impact_factor": 0.23
+    },
+    {
+        "route_id": "RTE-0116",
+        "weather_event_id": "WTH-2026-000119",
+        "impact_factor": 0.35
+    },
+    {
+        "route_id": "RTE-0196",
+        "weather_event_id": "WTH-2026-000119",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0110",
+        "weather_event_id": "WTH-2026-000119",
+        "impact_factor": 0.21
+    },
+    {
+        "route_id": "RTE-NET-010",
+        "weather_event_id": "WTH-2026-000120",
+        "impact_factor": 0.8
+    },
+    {
+        "route_id": "RTE-0148",
+        "weather_event_id": "WTH-2026-000120",
+        "impact_factor": 0.77
+    },
+    {
+        "route_id": "RTE-0108",
+        "weather_event_id": "WTH-2026-000120",
+        "impact_factor": 0.23
+    },
+    {
+        "route_id": "RTE-NET-048",
+        "weather_event_id": "WTH-2026-000121",
+        "impact_factor": 0.36
+    },
+    {
+        "route_id": "RTE-0147",
+        "weather_event_id": "WTH-2026-000121",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0080",
+        "weather_event_id": "WTH-2026-000121",
+        "impact_factor": 0.48
+    },
+    {
+        "route_id": "RTE-NET-057",
+        "weather_event_id": "WTH-2026-000122",
+        "impact_factor": 0.46
+    },
+    {
+        "route_id": "RTE-0160",
+        "weather_event_id": "WTH-2026-000122",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0127",
+        "weather_event_id": "WTH-2026-000122",
+        "impact_factor": 0.25
+    },
+    {
+        "route_id": "RTE-NET-091",
+        "weather_event_id": "WTH-2026-000123",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-0054",
+        "weather_event_id": "WTH-2026-000123",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-NET-052",
+        "weather_event_id": "WTH-2026-000123",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-NET-023",
+        "weather_event_id": "WTH-2026-000124",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-NET-075",
+        "weather_event_id": "WTH-2026-000124",
+        "impact_factor": 0.68
+    },
+    {
+        "route_id": "RTE-NET-039",
+        "weather_event_id": "WTH-2026-000124",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-NET-053",
+        "weather_event_id": "WTH-2026-000125",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-NET-052",
+        "weather_event_id": "WTH-2026-000125",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0075",
+        "weather_event_id": "WTH-2026-000125",
+        "impact_factor": 0.59
+    },
+    {
+        "route_id": "RTE-NET-007",
+        "weather_event_id": "WTH-2026-000126",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-0153",
+        "weather_event_id": "WTH-2026-000126",
+        "impact_factor": 0.38
+    },
+    {
+        "route_id": "RTE-0086",
+        "weather_event_id": "WTH-2026-000126",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0119",
+        "weather_event_id": "WTH-2026-000127",
+        "impact_factor": 0.37
+    },
+    {
+        "route_id": "RTE-0130",
+        "weather_event_id": "WTH-2026-000127",
+        "impact_factor": 0.31
+    },
+    {
+        "route_id": "RTE-0170",
+        "weather_event_id": "WTH-2026-000127",
+        "impact_factor": 0.57
+    },
+    {
+        "route_id": "RTE-NET-095",
+        "weather_event_id": "WTH-2026-000128",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0173",
+        "weather_event_id": "WTH-2026-000128",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0086",
+        "weather_event_id": "WTH-2026-000128",
+        "impact_factor": 0.89
+    },
+    {
+        "route_id": "RTE-0067",
+        "weather_event_id": "WTH-2026-000129",
+        "impact_factor": 0.86
+    },
+    {
+        "route_id": "RTE-0130",
+        "weather_event_id": "WTH-2026-000129",
+        "impact_factor": 0.83
+    },
+    {
+        "route_id": "RTE-NET-004",
+        "weather_event_id": "WTH-2026-000129",
+        "impact_factor": 0.53
+    },
+    {
+        "route_id": "RTE-0017",
+        "weather_event_id": "WTH-2026-000130",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-0071",
+        "weather_event_id": "WTH-2026-000130",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0202",
+        "weather_event_id": "WTH-2026-000130",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-0211",
+        "weather_event_id": "WTH-2026-000131",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-0083",
+        "weather_event_id": "WTH-2026-000131",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0117",
+        "weather_event_id": "WTH-2026-000131",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-0233",
+        "weather_event_id": "WTH-2026-000132",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0148",
+        "weather_event_id": "WTH-2026-000132",
+        "impact_factor": 0.28
+    },
+    {
+        "route_id": "RTE-0152",
+        "weather_event_id": "WTH-2026-000132",
+        "impact_factor": 0.43
+    },
+    {
+        "route_id": "RTE-0141",
+        "weather_event_id": "WTH-2026-000133",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-0117",
+        "weather_event_id": "WTH-2026-000133",
+        "impact_factor": 0.4
+    },
+    {
+        "route_id": "RTE-NET-059",
+        "weather_event_id": "WTH-2026-000133",
+        "impact_factor": 0.85
+    },
+    {
+        "route_id": "RTE-0225",
+        "weather_event_id": "WTH-2026-000134",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-0188",
+        "weather_event_id": "WTH-2026-000134",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-0249",
+        "weather_event_id": "WTH-2026-000134",
+        "impact_factor": 0.21
+    },
+    {
+        "route_id": "RTE-NET-024",
+        "weather_event_id": "WTH-2026-000135",
+        "impact_factor": 0.69
+    },
+    {
+        "route_id": "RTE-NET-030",
+        "weather_event_id": "WTH-2026-000135",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-0147",
+        "weather_event_id": "WTH-2026-000135",
+        "impact_factor": 0.54
+    },
+    {
+        "route_id": "RTE-0084",
+        "weather_event_id": "WTH-2026-000136",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-0230",
+        "weather_event_id": "WTH-2026-000136",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-NET-088",
+        "weather_event_id": "WTH-2026-000136",
+        "impact_factor": 0.28
+    },
+    {
+        "route_id": "RTE-0101",
+        "weather_event_id": "WTH-2026-000137",
+        "impact_factor": 0.91
+    },
+    {
+        "route_id": "RTE-0050",
+        "weather_event_id": "WTH-2026-000137",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0108",
+        "weather_event_id": "WTH-2026-000137",
+        "impact_factor": 0.96
+    },
+    {
+        "route_id": "RTE-0174",
+        "weather_event_id": "WTH-2026-000138",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-0096",
+        "weather_event_id": "WTH-2026-000138",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-0082",
+        "weather_event_id": "WTH-2026-000138",
+        "impact_factor": 0.78
+    },
+    {
+        "route_id": "RTE-0239",
+        "weather_event_id": "WTH-2026-000139",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0233",
+        "weather_event_id": "WTH-2026-000139",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-0192",
+        "weather_event_id": "WTH-2026-000139",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-0003",
+        "weather_event_id": "WTH-2026-000140",
+        "impact_factor": 0.1
+    },
+    {
+        "route_id": "RTE-0229",
+        "weather_event_id": "WTH-2026-000140",
+        "impact_factor": 0.59
+    },
+    {
+        "route_id": "RTE-0057",
+        "weather_event_id": "WTH-2026-000140",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-0208",
+        "weather_event_id": "WTH-2026-000141",
+        "impact_factor": 0.45
+    },
+    {
+        "route_id": "RTE-NET-090",
+        "weather_event_id": "WTH-2026-000141",
+        "impact_factor": 0.21
+    },
+    {
+        "route_id": "RTE-NET-094",
+        "weather_event_id": "WTH-2026-000141",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0105",
+        "weather_event_id": "WTH-2026-000142",
+        "impact_factor": 0.53
+    },
+    {
+        "route_id": "RTE-NET-034",
+        "weather_event_id": "WTH-2026-000142",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-NET-069",
+        "weather_event_id": "WTH-2026-000142",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0094",
+        "weather_event_id": "WTH-2026-000143",
+        "impact_factor": 0.35
+    },
+    {
+        "route_id": "RTE-0011",
+        "weather_event_id": "WTH-2026-000143",
+        "impact_factor": 0.21
+    },
+    {
+        "route_id": "RTE-0165",
+        "weather_event_id": "WTH-2026-000143",
+        "impact_factor": 0.21
+    },
+    {
+        "route_id": "RTE-NET-024",
+        "weather_event_id": "WTH-2026-000144",
+        "impact_factor": 0.8
+    },
+    {
+        "route_id": "RTE-NET-074",
+        "weather_event_id": "WTH-2026-000144",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-0183",
+        "weather_event_id": "WTH-2026-000144",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-0047",
+        "weather_event_id": "WTH-2026-000145",
+        "impact_factor": 0.82
+    },
+    {
+        "route_id": "RTE-0096",
+        "weather_event_id": "WTH-2026-000145",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0022",
+        "weather_event_id": "WTH-2026-000145",
+        "impact_factor": 0.31
+    },
+    {
+        "route_id": "RTE-0219",
+        "weather_event_id": "WTH-2026-000146",
+        "impact_factor": 0.46
+    },
+    {
+        "route_id": "RTE-0205",
+        "weather_event_id": "WTH-2026-000146",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-NET-001",
+        "weather_event_id": "WTH-2026-000146",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0120",
+        "weather_event_id": "WTH-2026-000147",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-NET-042",
+        "weather_event_id": "WTH-2026-000147",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-0177",
+        "weather_event_id": "WTH-2026-000147",
+        "impact_factor": 0.15
+    },
+    {
+        "route_id": "RTE-NET-072",
+        "weather_event_id": "WTH-2026-000148",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0179",
+        "weather_event_id": "WTH-2026-000148",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-NET-085",
+        "weather_event_id": "WTH-2026-000148",
+        "impact_factor": 0.92
+    },
+    {
+        "route_id": "RTE-0202",
+        "weather_event_id": "WTH-2026-000149",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-NET-025",
+        "weather_event_id": "WTH-2026-000149",
+        "impact_factor": 0.8
+    },
+    {
+        "route_id": "RTE-NET-019",
+        "weather_event_id": "WTH-2026-000149",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-NET-013",
+        "weather_event_id": "WTH-2026-000150",
+        "impact_factor": 0.57
+    },
+    {
+        "route_id": "RTE-NET-065",
+        "weather_event_id": "WTH-2026-000150",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0001",
+        "weather_event_id": "WTH-2026-000150",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0005",
+        "weather_event_id": "WTH-2026-000151",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0182",
+        "weather_event_id": "WTH-2026-000151",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-NET-074",
+        "weather_event_id": "WTH-2026-000151",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-0086",
+        "weather_event_id": "WTH-2026-000152",
+        "impact_factor": 0.43
+    },
+    {
+        "route_id": "RTE-NET-049",
+        "weather_event_id": "WTH-2026-000152",
+        "impact_factor": 0.92
+    },
+    {
+        "route_id": "RTE-NET-076",
+        "weather_event_id": "WTH-2026-000152",
+        "impact_factor": 0.35
+    },
+    {
+        "route_id": "RTE-0030",
+        "weather_event_id": "WTH-2026-000153",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0165",
+        "weather_event_id": "WTH-2026-000153",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0215",
+        "weather_event_id": "WTH-2026-000153",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-0066",
+        "weather_event_id": "WTH-2026-000154",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-0095",
+        "weather_event_id": "WTH-2026-000154",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-0031",
+        "weather_event_id": "WTH-2026-000154",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0063",
+        "weather_event_id": "WTH-2026-000155",
+        "impact_factor": 0.31
+    },
+    {
+        "route_id": "RTE-NET-049",
+        "weather_event_id": "WTH-2026-000155",
+        "impact_factor": 0.36
+    },
+    {
+        "route_id": "RTE-0226",
+        "weather_event_id": "WTH-2026-000155",
+        "impact_factor": 0.46
+    },
+    {
+        "route_id": "RTE-0231",
+        "weather_event_id": "WTH-2026-000156",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0108",
+        "weather_event_id": "WTH-2026-000156",
+        "impact_factor": 0.78
+    },
+    {
+        "route_id": "RTE-0133",
+        "weather_event_id": "WTH-2026-000156",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0133",
+        "weather_event_id": "WTH-2026-000157",
+        "impact_factor": 0.46
+    },
+    {
+        "route_id": "RTE-0023",
+        "weather_event_id": "WTH-2026-000157",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0197",
+        "weather_event_id": "WTH-2026-000157",
+        "impact_factor": 0.99
+    },
+    {
+        "route_id": "RTE-0176",
+        "weather_event_id": "WTH-2026-000158",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0243",
+        "weather_event_id": "WTH-2026-000158",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0016",
+        "weather_event_id": "WTH-2026-000158",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0095",
+        "weather_event_id": "WTH-2026-000159",
+        "impact_factor": 0.1
+    },
+    {
+        "route_id": "RTE-0077",
+        "weather_event_id": "WTH-2026-000159",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0184",
+        "weather_event_id": "WTH-2026-000159",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-NET-002",
+        "weather_event_id": "WTH-2026-000160",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-NET-039",
+        "weather_event_id": "WTH-2026-000160",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0214",
+        "weather_event_id": "WTH-2026-000160",
+        "impact_factor": 0.93
+    },
+    {
+        "route_id": "RTE-0229",
+        "weather_event_id": "WTH-2026-000161",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0212",
+        "weather_event_id": "WTH-2026-000161",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-NET-058",
+        "weather_event_id": "WTH-2026-000161",
+        "impact_factor": 0.34
+    },
+    {
+        "route_id": "RTE-0205",
+        "weather_event_id": "WTH-2026-000162",
+        "impact_factor": 0.35
+    },
+    {
+        "route_id": "RTE-0219",
+        "weather_event_id": "WTH-2026-000162",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0014",
+        "weather_event_id": "WTH-2026-000162",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0126",
+        "weather_event_id": "WTH-2026-000163",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-NET-004",
+        "weather_event_id": "WTH-2026-000163",
+        "impact_factor": 0.33
+    },
+    {
+        "route_id": "RTE-0075",
+        "weather_event_id": "WTH-2026-000163",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0054",
+        "weather_event_id": "WTH-2026-000164",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-0233",
+        "weather_event_id": "WTH-2026-000164",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-NET-044",
+        "weather_event_id": "WTH-2026-000164",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-NET-041",
+        "weather_event_id": "WTH-2026-000165",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0109",
+        "weather_event_id": "WTH-2026-000165",
+        "impact_factor": 0.35
+    },
+    {
+        "route_id": "RTE-0010",
+        "weather_event_id": "WTH-2026-000165",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0250",
+        "weather_event_id": "WTH-2026-000166",
+        "impact_factor": 0.62
+    },
+    {
+        "route_id": "RTE-NET-087",
+        "weather_event_id": "WTH-2026-000166",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0085",
+        "weather_event_id": "WTH-2026-000166",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0096",
+        "weather_event_id": "WTH-2026-000167",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0211",
+        "weather_event_id": "WTH-2026-000167",
+        "impact_factor": 0.72
+    },
+    {
+        "route_id": "RTE-0236",
+        "weather_event_id": "WTH-2026-000167",
+        "impact_factor": 0.19
+    },
+    {
+        "route_id": "RTE-0149",
+        "weather_event_id": "WTH-2026-000168",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0135",
+        "weather_event_id": "WTH-2026-000168",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0010",
+        "weather_event_id": "WTH-2026-000168",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-NET-032",
+        "weather_event_id": "WTH-2026-000169",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-NET-027",
+        "weather_event_id": "WTH-2026-000169",
+        "impact_factor": 0.86
+    },
+    {
+        "route_id": "RTE-0179",
+        "weather_event_id": "WTH-2026-000169",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0170",
+        "weather_event_id": "WTH-2026-000170",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-0029",
+        "weather_event_id": "WTH-2026-000170",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-NET-084",
+        "weather_event_id": "WTH-2026-000170",
+        "impact_factor": 0.31
+    },
+    {
+        "route_id": "RTE-0234",
+        "weather_event_id": "WTH-2026-000171",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0153",
+        "weather_event_id": "WTH-2026-000171",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0010",
+        "weather_event_id": "WTH-2026-000171",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-NET-030",
+        "weather_event_id": "WTH-2026-000172",
+        "impact_factor": 0.92
+    },
+    {
+        "route_id": "RTE-0053",
+        "weather_event_id": "WTH-2026-000172",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-NET-025",
+        "weather_event_id": "WTH-2026-000172",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-NET-093",
+        "weather_event_id": "WTH-2026-000173",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-0110",
+        "weather_event_id": "WTH-2026-000173",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-0243",
+        "weather_event_id": "WTH-2026-000173",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0123",
+        "weather_event_id": "WTH-2026-000174",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-NET-058",
+        "weather_event_id": "WTH-2026-000174",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-0093",
+        "weather_event_id": "WTH-2026-000174",
+        "impact_factor": 0.66
+    },
+    {
+        "route_id": "RTE-0157",
+        "weather_event_id": "WTH-2026-000175",
+        "impact_factor": 0.36
+    },
+    {
+        "route_id": "RTE-0170",
+        "weather_event_id": "WTH-2026-000175",
+        "impact_factor": 0.45
+    },
+    {
+        "route_id": "RTE-0186",
+        "weather_event_id": "WTH-2026-000175",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0200",
+        "weather_event_id": "WTH-2026-000176",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0231",
+        "weather_event_id": "WTH-2026-000176",
+        "impact_factor": 0.96
+    },
+    {
+        "route_id": "RTE-0147",
+        "weather_event_id": "WTH-2026-000176",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0087",
+        "weather_event_id": "WTH-2026-000177",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-NET-026",
+        "weather_event_id": "WTH-2026-000177",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-0169",
+        "weather_event_id": "WTH-2026-000177",
+        "impact_factor": 0.34
+    },
+    {
+        "route_id": "RTE-0006",
+        "weather_event_id": "WTH-2026-000178",
+        "impact_factor": 0.28
+    },
+    {
+        "route_id": "RTE-0111",
+        "weather_event_id": "WTH-2026-000178",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0091",
+        "weather_event_id": "WTH-2026-000178",
+        "impact_factor": 0.62
+    },
+    {
+        "route_id": "RTE-0159",
+        "weather_event_id": "WTH-2026-000179",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0004",
+        "weather_event_id": "WTH-2026-000179",
+        "impact_factor": 0.37
+    },
+    {
+        "route_id": "RTE-NET-010",
+        "weather_event_id": "WTH-2026-000179",
+        "impact_factor": 0.37
+    },
+    {
+        "route_id": "RTE-0036",
+        "weather_event_id": "WTH-2026-000180",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0078",
+        "weather_event_id": "WTH-2026-000180",
+        "impact_factor": 0.23
+    },
+    {
+        "route_id": "RTE-NET-095",
+        "weather_event_id": "WTH-2026-000180",
+        "impact_factor": 0.86
+    },
+    {
+        "route_id": "RTE-0084",
+        "weather_event_id": "WTH-2026-000181",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-0107",
+        "weather_event_id": "WTH-2026-000181",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0061",
+        "weather_event_id": "WTH-2026-000181",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0110",
+        "weather_event_id": "WTH-2026-000182",
+        "impact_factor": 0.33
+    },
+    {
+        "route_id": "RTE-NET-088",
+        "weather_event_id": "WTH-2026-000182",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-0005",
+        "weather_event_id": "WTH-2026-000182",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-0143",
+        "weather_event_id": "WTH-2026-000183",
+        "impact_factor": 0.43
+    },
+    {
+        "route_id": "RTE-NET-031",
+        "weather_event_id": "WTH-2026-000183",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0145",
+        "weather_event_id": "WTH-2026-000183",
+        "impact_factor": 0.53
+    },
+    {
+        "route_id": "RTE-0178",
+        "weather_event_id": "WTH-2026-000184",
+        "impact_factor": 0.43
+    },
+    {
+        "route_id": "RTE-0155",
+        "weather_event_id": "WTH-2026-000184",
+        "impact_factor": 0.53
+    },
+    {
+        "route_id": "RTE-NET-021",
+        "weather_event_id": "WTH-2026-000184",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0007",
+        "weather_event_id": "WTH-2026-000185",
+        "impact_factor": 0.73
+    },
+    {
+        "route_id": "RTE-0218",
+        "weather_event_id": "WTH-2026-000185",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0051",
+        "weather_event_id": "WTH-2026-000185",
+        "impact_factor": 0.48
+    },
+    {
+        "route_id": "RTE-NET-044",
+        "weather_event_id": "WTH-2026-000186",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0041",
+        "weather_event_id": "WTH-2026-000186",
+        "impact_factor": 0.45
+    },
+    {
+        "route_id": "RTE-NET-069",
+        "weather_event_id": "WTH-2026-000186",
+        "impact_factor": 0.4
+    },
+    {
+        "route_id": "RTE-NET-009",
+        "weather_event_id": "WTH-2026-000187",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-0070",
+        "weather_event_id": "WTH-2026-000187",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-0036",
+        "weather_event_id": "WTH-2026-000187",
+        "impact_factor": 0.42
+    },
+    {
+        "route_id": "RTE-NET-074",
+        "weather_event_id": "WTH-2026-000188",
+        "impact_factor": 0.92
+    },
+    {
+        "route_id": "RTE-0225",
+        "weather_event_id": "WTH-2026-000188",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0082",
+        "weather_event_id": "WTH-2026-000188",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-0006",
+        "weather_event_id": "WTH-2026-000189",
+        "impact_factor": 0.46
+    },
+    {
+        "route_id": "RTE-0202",
+        "weather_event_id": "WTH-2026-000189",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-0239",
+        "weather_event_id": "WTH-2026-000189",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0243",
+        "weather_event_id": "WTH-2026-000190",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-0178",
+        "weather_event_id": "WTH-2026-000190",
+        "impact_factor": 0.54
+    },
+    {
+        "route_id": "RTE-NET-091",
+        "weather_event_id": "WTH-2026-000190",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0224",
+        "weather_event_id": "WTH-2026-000191",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-NET-017",
+        "weather_event_id": "WTH-2026-000191",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-NET-040",
+        "weather_event_id": "WTH-2026-000191",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-0084",
+        "weather_event_id": "WTH-2026-000192",
+        "impact_factor": 0.12
+    },
+    {
+        "route_id": "RTE-0140",
+        "weather_event_id": "WTH-2026-000192",
+        "impact_factor": 0.57
+    },
+    {
+        "route_id": "RTE-0151",
+        "weather_event_id": "WTH-2026-000192",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0215",
+        "weather_event_id": "WTH-2026-000193",
+        "impact_factor": 0.63
+    },
+    {
+        "route_id": "RTE-0079",
+        "weather_event_id": "WTH-2026-000193",
+        "impact_factor": 0.29
+    },
+    {
+        "route_id": "RTE-0217",
+        "weather_event_id": "WTH-2026-000193",
+        "impact_factor": 0.11
+    },
+    {
+        "route_id": "RTE-0124",
+        "weather_event_id": "WTH-2026-000194",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-NET-071",
+        "weather_event_id": "WTH-2026-000194",
+        "impact_factor": 0.99
+    },
+    {
+        "route_id": "RTE-0237",
+        "weather_event_id": "WTH-2026-000194",
+        "impact_factor": 0.2
+    },
+    {
+        "route_id": "RTE-0217",
+        "weather_event_id": "WTH-2026-000195",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0018",
+        "weather_event_id": "WTH-2026-000195",
+        "impact_factor": 0.36
+    },
+    {
+        "route_id": "RTE-NET-026",
+        "weather_event_id": "WTH-2026-000195",
+        "impact_factor": 0.48
+    },
+    {
+        "route_id": "RTE-0049",
+        "weather_event_id": "WTH-2026-000196",
+        "impact_factor": 0.25
+    },
+    {
+        "route_id": "RTE-NET-037",
+        "weather_event_id": "WTH-2026-000196",
+        "impact_factor": 0.3
+    },
+    {
+        "route_id": "RTE-0215",
+        "weather_event_id": "WTH-2026-000196",
+        "impact_factor": 0.15
+    },
+    {
+        "route_id": "RTE-NET-031",
+        "weather_event_id": "WTH-2026-000197",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-NET-038",
+        "weather_event_id": "WTH-2026-000197",
+        "impact_factor": 0.38
+    },
+    {
+        "route_id": "RTE-NET-074",
+        "weather_event_id": "WTH-2026-000197",
+        "impact_factor": 0.98
+    },
+    {
+        "route_id": "RTE-0086",
+        "weather_event_id": "WTH-2026-000198",
+        "impact_factor": 0.19
+    },
+    {
+        "route_id": "RTE-0239",
+        "weather_event_id": "WTH-2026-000198",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-NET-015",
+        "weather_event_id": "WTH-2026-000198",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-NET-070",
+        "weather_event_id": "WTH-2026-000199",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-0030",
+        "weather_event_id": "WTH-2026-000199",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0177",
+        "weather_event_id": "WTH-2026-000199",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-0187",
+        "weather_event_id": "WTH-2026-000200",
+        "impact_factor": 0.73
+    },
+    {
+        "route_id": "RTE-0135",
+        "weather_event_id": "WTH-2026-000200",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-0157",
+        "weather_event_id": "WTH-2026-000200",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0061",
+        "weather_event_id": "WTH-2026-000201",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0216",
+        "weather_event_id": "WTH-2026-000201",
+        "impact_factor": 0.86
+    },
+    {
+        "route_id": "RTE-0205",
+        "weather_event_id": "WTH-2026-000201",
+        "impact_factor": 0.23
+    },
+    {
+        "route_id": "RTE-NET-019",
+        "weather_event_id": "WTH-2026-000202",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-0023",
+        "weather_event_id": "WTH-2026-000202",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-0246",
+        "weather_event_id": "WTH-2026-000202",
+        "impact_factor": 0.21
+    },
+    {
+        "route_id": "RTE-0116",
+        "weather_event_id": "WTH-2026-000203",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-0249",
+        "weather_event_id": "WTH-2026-000203",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0049",
+        "weather_event_id": "WTH-2026-000203",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0194",
+        "weather_event_id": "WTH-2026-000204",
+        "impact_factor": 0.91
+    },
+    {
+        "route_id": "RTE-0224",
+        "weather_event_id": "WTH-2026-000204",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0210",
+        "weather_event_id": "WTH-2026-000204",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-NET-026",
+        "weather_event_id": "WTH-2026-000205",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0228",
+        "weather_event_id": "WTH-2026-000205",
+        "impact_factor": 0.89
+    },
+    {
+        "route_id": "RTE-0243",
+        "weather_event_id": "WTH-2026-000205",
+        "impact_factor": 0.83
+    },
+    {
+        "route_id": "RTE-NET-095",
+        "weather_event_id": "WTH-2026-000206",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-0218",
+        "weather_event_id": "WTH-2026-000206",
+        "impact_factor": 0.1
+    },
+    {
+        "route_id": "RTE-0205",
+        "weather_event_id": "WTH-2026-000206",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0098",
+        "weather_event_id": "WTH-2026-000207",
+        "impact_factor": 0.96
+    },
+    {
+        "route_id": "RTE-NET-094",
+        "weather_event_id": "WTH-2026-000207",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-NET-082",
+        "weather_event_id": "WTH-2026-000207",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0096",
+        "weather_event_id": "WTH-2026-000208",
+        "impact_factor": 0.88
+    },
+    {
+        "route_id": "RTE-NET-045",
+        "weather_event_id": "WTH-2026-000208",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0106",
+        "weather_event_id": "WTH-2026-000208",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-NET-050",
+        "weather_event_id": "WTH-2026-000209",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0163",
+        "weather_event_id": "WTH-2026-000209",
+        "impact_factor": 0.83
+    },
+    {
+        "route_id": "RTE-0164",
+        "weather_event_id": "WTH-2026-000209",
+        "impact_factor": 0.3
+    },
+    {
+        "route_id": "RTE-0246",
+        "weather_event_id": "WTH-2026-000210",
+        "impact_factor": 0.73
+    },
+    {
+        "route_id": "RTE-0218",
+        "weather_event_id": "WTH-2026-000210",
+        "impact_factor": 0.33
+    },
+    {
+        "route_id": "RTE-0163",
+        "weather_event_id": "WTH-2026-000210",
+        "impact_factor": 0.78
+    },
+    {
+        "route_id": "RTE-NET-072",
+        "weather_event_id": "WTH-2026-000211",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0246",
+        "weather_event_id": "WTH-2026-000211",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0077",
+        "weather_event_id": "WTH-2026-000211",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0239",
+        "weather_event_id": "WTH-2026-000212",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0024",
+        "weather_event_id": "WTH-2026-000212",
+        "impact_factor": 0.86
+    },
+    {
+        "route_id": "RTE-NET-071",
+        "weather_event_id": "WTH-2026-000212",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-NET-063",
+        "weather_event_id": "WTH-2026-000213",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-NET-040",
+        "weather_event_id": "WTH-2026-000213",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0127",
+        "weather_event_id": "WTH-2026-000213",
+        "impact_factor": 0.82
+    },
+    {
+        "route_id": "RTE-0220",
+        "weather_event_id": "WTH-2026-000214",
+        "impact_factor": 0.62
+    },
+    {
+        "route_id": "RTE-0059",
+        "weather_event_id": "WTH-2026-000214",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0118",
+        "weather_event_id": "WTH-2026-000214",
+        "impact_factor": 0.21
+    },
+    {
+        "route_id": "RTE-0005",
+        "weather_event_id": "WTH-2026-000215",
+        "impact_factor": 0.83
+    },
+    {
+        "route_id": "RTE-0197",
+        "weather_event_id": "WTH-2026-000215",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0229",
+        "weather_event_id": "WTH-2026-000215",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-NET-068",
+        "weather_event_id": "WTH-2026-000216",
+        "impact_factor": 0.69
+    },
+    {
+        "route_id": "RTE-0079",
+        "weather_event_id": "WTH-2026-000216",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0190",
+        "weather_event_id": "WTH-2026-000216",
+        "impact_factor": 0.72
+    },
+    {
+        "route_id": "RTE-0193",
+        "weather_event_id": "WTH-2026-000217",
+        "impact_factor": 0.15
+    },
+    {
+        "route_id": "RTE-0215",
+        "weather_event_id": "WTH-2026-000217",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0019",
+        "weather_event_id": "WTH-2026-000217",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0102",
+        "weather_event_id": "WTH-2026-000218",
+        "impact_factor": 0.53
+    },
+    {
+        "route_id": "RTE-0144",
+        "weather_event_id": "WTH-2026-000218",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-NET-082",
+        "weather_event_id": "WTH-2026-000218",
+        "impact_factor": 0.82
+    },
+    {
+        "route_id": "RTE-0070",
+        "weather_event_id": "WTH-2026-000219",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-0020",
+        "weather_event_id": "WTH-2026-000219",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0023",
+        "weather_event_id": "WTH-2026-000219",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0027",
+        "weather_event_id": "WTH-2026-000220",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0019",
+        "weather_event_id": "WTH-2026-000220",
+        "impact_factor": 0.86
+    },
+    {
+        "route_id": "RTE-0155",
+        "weather_event_id": "WTH-2026-000220",
+        "impact_factor": 0.85
+    },
+    {
+        "route_id": "RTE-0086",
+        "weather_event_id": "WTH-2026-000221",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-0131",
+        "weather_event_id": "WTH-2026-000221",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0054",
+        "weather_event_id": "WTH-2026-000221",
+        "impact_factor": 0.33
+    },
+    {
+        "route_id": "RTE-0242",
+        "weather_event_id": "WTH-2026-000222",
+        "impact_factor": 0.2
+    },
+    {
+        "route_id": "RTE-NET-053",
+        "weather_event_id": "WTH-2026-000222",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-0143",
+        "weather_event_id": "WTH-2026-000222",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-NET-077",
+        "weather_event_id": "WTH-2026-000223",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-NET-007",
+        "weather_event_id": "WTH-2026-000223",
+        "impact_factor": 0.51
+    },
+    {
+        "route_id": "RTE-0193",
+        "weather_event_id": "WTH-2026-000223",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-0071",
+        "weather_event_id": "WTH-2026-000224",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-0248",
+        "weather_event_id": "WTH-2026-000224",
+        "impact_factor": 0.72
+    },
+    {
+        "route_id": "RTE-0091",
+        "weather_event_id": "WTH-2026-000224",
+        "impact_factor": 0.63
+    },
+    {
+        "route_id": "RTE-0151",
+        "weather_event_id": "WTH-2026-000225",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-0105",
+        "weather_event_id": "WTH-2026-000225",
+        "impact_factor": 0.8
+    },
+    {
+        "route_id": "RTE-0146",
+        "weather_event_id": "WTH-2026-000225",
+        "impact_factor": 0.29
+    },
+    {
+        "route_id": "RTE-NET-057",
+        "weather_event_id": "WTH-2026-000226",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-0024",
+        "weather_event_id": "WTH-2026-000226",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0038",
+        "weather_event_id": "WTH-2026-000226",
+        "impact_factor": 0.59
+    },
+    {
+        "route_id": "RTE-NET-012",
+        "weather_event_id": "WTH-2026-000227",
+        "impact_factor": 0.66
+    },
+    {
+        "route_id": "RTE-0009",
+        "weather_event_id": "WTH-2026-000227",
+        "impact_factor": 0.59
+    },
+    {
+        "route_id": "RTE-0221",
+        "weather_event_id": "WTH-2026-000227",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-NET-056",
+        "weather_event_id": "WTH-2026-000228",
+        "impact_factor": 0.64
+    },
+    {
+        "route_id": "RTE-0112",
+        "weather_event_id": "WTH-2026-000228",
+        "impact_factor": 0.37
+    },
+    {
+        "route_id": "RTE-0221",
+        "weather_event_id": "WTH-2026-000228",
+        "impact_factor": 0.53
+    },
+    {
+        "route_id": "RTE-0056",
+        "weather_event_id": "WTH-2026-000229",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-NET-088",
+        "weather_event_id": "WTH-2026-000229",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0184",
+        "weather_event_id": "WTH-2026-000229",
+        "impact_factor": 0.83
+    },
+    {
+        "route_id": "RTE-NET-048",
+        "weather_event_id": "WTH-2026-000230",
+        "impact_factor": 0.73
+    },
+    {
+        "route_id": "RTE-NET-075",
+        "weather_event_id": "WTH-2026-000230",
+        "impact_factor": 0.46
+    },
+    {
+        "route_id": "RTE-NET-034",
+        "weather_event_id": "WTH-2026-000230",
+        "impact_factor": 0.69
+    },
+    {
+        "route_id": "RTE-0056",
+        "weather_event_id": "WTH-2026-000231",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-NET-088",
+        "weather_event_id": "WTH-2026-000231",
+        "impact_factor": 0.46
+    },
+    {
+        "route_id": "RTE-NET-067",
+        "weather_event_id": "WTH-2026-000231",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-NET-054",
+        "weather_event_id": "WTH-2026-000232",
+        "impact_factor": 0.85
+    },
+    {
+        "route_id": "RTE-0204",
+        "weather_event_id": "WTH-2026-000232",
+        "impact_factor": 0.25
+    },
+    {
+        "route_id": "RTE-NET-080",
+        "weather_event_id": "WTH-2026-000232",
+        "impact_factor": 0.38
+    },
+    {
+        "route_id": "RTE-NET-058",
+        "weather_event_id": "WTH-2026-000233",
+        "impact_factor": 0.98
+    },
+    {
+        "route_id": "RTE-0219",
+        "weather_event_id": "WTH-2026-000233",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-0079",
+        "weather_event_id": "WTH-2026-000233",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-0037",
+        "weather_event_id": "WTH-2026-000234",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-0235",
+        "weather_event_id": "WTH-2026-000234",
+        "impact_factor": 0.74
+    },
+    {
+        "route_id": "RTE-NET-088",
+        "weather_event_id": "WTH-2026-000234",
+        "impact_factor": 0.91
+    },
+    {
+        "route_id": "RTE-0129",
+        "weather_event_id": "WTH-2026-000235",
+        "impact_factor": 0.46
+    },
+    {
+        "route_id": "RTE-0200",
+        "weather_event_id": "WTH-2026-000235",
+        "impact_factor": 0.21
+    },
+    {
+        "route_id": "RTE-0094",
+        "weather_event_id": "WTH-2026-000235",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-NET-002",
+        "weather_event_id": "WTH-2026-000236",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-0220",
+        "weather_event_id": "WTH-2026-000236",
+        "impact_factor": 0.63
+    },
+    {
+        "route_id": "RTE-0186",
+        "weather_event_id": "WTH-2026-000236",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0135",
+        "weather_event_id": "WTH-2026-000237",
+        "impact_factor": 0.25
+    },
+    {
+        "route_id": "RTE-0132",
+        "weather_event_id": "WTH-2026-000237",
+        "impact_factor": 0.54
+    },
+    {
+        "route_id": "RTE-0018",
+        "weather_event_id": "WTH-2026-000237",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-0105",
+        "weather_event_id": "WTH-2026-000238",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0226",
+        "weather_event_id": "WTH-2026-000238",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-NET-035",
+        "weather_event_id": "WTH-2026-000238",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-0147",
+        "weather_event_id": "WTH-2026-000239",
+        "impact_factor": 0.11
+    },
+    {
+        "route_id": "RTE-NET-009",
+        "weather_event_id": "WTH-2026-000239",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-NET-058",
+        "weather_event_id": "WTH-2026-000239",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-NET-072",
+        "weather_event_id": "WTH-2026-000240",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-NET-062",
+        "weather_event_id": "WTH-2026-000240",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-0044",
+        "weather_event_id": "WTH-2026-000240",
+        "impact_factor": 0.42
+    },
+    {
+        "route_id": "RTE-0030",
+        "weather_event_id": "WTH-2026-000241",
+        "impact_factor": 0.29
+    },
+    {
+        "route_id": "RTE-NET-019",
+        "weather_event_id": "WTH-2026-000241",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0020",
+        "weather_event_id": "WTH-2026-000241",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-0147",
+        "weather_event_id": "WTH-2026-000242",
+        "impact_factor": 0.25
+    },
+    {
+        "route_id": "RTE-NET-038",
+        "weather_event_id": "WTH-2026-000242",
+        "impact_factor": 0.45
+    },
+    {
+        "route_id": "RTE-NET-086",
+        "weather_event_id": "WTH-2026-000242",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-0002",
+        "weather_event_id": "WTH-2026-000243",
+        "impact_factor": 0.72
+    },
+    {
+        "route_id": "RTE-0193",
+        "weather_event_id": "WTH-2026-000243",
+        "impact_factor": 0.83
+    },
+    {
+        "route_id": "RTE-0096",
+        "weather_event_id": "WTH-2026-000243",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-NET-003",
+        "weather_event_id": "WTH-2026-000244",
+        "impact_factor": 0.99
+    },
+    {
+        "route_id": "RTE-0025",
+        "weather_event_id": "WTH-2026-000244",
+        "impact_factor": 0.3
+    },
+    {
+        "route_id": "RTE-NET-013",
+        "weather_event_id": "WTH-2026-000244",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0090",
+        "weather_event_id": "WTH-2026-000245",
+        "impact_factor": 0.45
+    },
+    {
+        "route_id": "RTE-0009",
+        "weather_event_id": "WTH-2026-000245",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-NET-100",
+        "weather_event_id": "WTH-2026-000245",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0192",
+        "weather_event_id": "WTH-2026-000246",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-0098",
+        "weather_event_id": "WTH-2026-000246",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-NET-082",
+        "weather_event_id": "WTH-2026-000246",
+        "impact_factor": 0.76
+    },
+    {
+        "route_id": "RTE-0185",
+        "weather_event_id": "WTH-2026-000247",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0067",
+        "weather_event_id": "WTH-2026-000247",
+        "impact_factor": 0.31
+    },
+    {
+        "route_id": "RTE-0159",
+        "weather_event_id": "WTH-2026-000247",
+        "impact_factor": 0.53
+    },
+    {
+        "route_id": "RTE-0038",
+        "weather_event_id": "WTH-2026-000248",
+        "impact_factor": 0.98
+    },
+    {
+        "route_id": "RTE-NET-094",
+        "weather_event_id": "WTH-2026-000248",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0045",
+        "weather_event_id": "WTH-2026-000248",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0158",
+        "weather_event_id": "WTH-2026-000249",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-NET-093",
+        "weather_event_id": "WTH-2026-000249",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0178",
+        "weather_event_id": "WTH-2026-000249",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0187",
+        "weather_event_id": "WTH-2026-000250",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-0106",
+        "weather_event_id": "WTH-2026-000250",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-NET-020",
+        "weather_event_id": "WTH-2026-000250",
+        "impact_factor": 0.54
+    },
+    {
+        "route_id": "RTE-0141",
+        "weather_event_id": "WTH-2026-000251",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-0061",
+        "weather_event_id": "WTH-2026-000251",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-0032",
+        "weather_event_id": "WTH-2026-000251",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-0002",
+        "weather_event_id": "WTH-2026-000252",
+        "impact_factor": 0.43
+    },
+    {
+        "route_id": "RTE-0111",
+        "weather_event_id": "WTH-2026-000252",
+        "impact_factor": 0.89
+    },
+    {
+        "route_id": "RTE-NET-095",
+        "weather_event_id": "WTH-2026-000252",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0038",
+        "weather_event_id": "WTH-2026-000253",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0243",
+        "weather_event_id": "WTH-2026-000253",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-NET-067",
+        "weather_event_id": "WTH-2026-000253",
+        "impact_factor": 0.19
+    },
+    {
+        "route_id": "RTE-0153",
+        "weather_event_id": "WTH-2026-000254",
+        "impact_factor": 0.83
+    },
+    {
+        "route_id": "RTE-NET-050",
+        "weather_event_id": "WTH-2026-000254",
+        "impact_factor": 0.93
+    },
+    {
+        "route_id": "RTE-0038",
+        "weather_event_id": "WTH-2026-000254",
+        "impact_factor": 0.88
+    },
+    {
+        "route_id": "RTE-0093",
+        "weather_event_id": "WTH-2026-000255",
+        "impact_factor": 0.9
+    },
+    {
+        "route_id": "RTE-NET-096",
+        "weather_event_id": "WTH-2026-000255",
+        "impact_factor": 0.11
+    },
+    {
+        "route_id": "RTE-0111",
+        "weather_event_id": "WTH-2026-000255",
+        "impact_factor": 0.33
+    },
+    {
+        "route_id": "RTE-0120",
+        "weather_event_id": "WTH-2026-000256",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0145",
+        "weather_event_id": "WTH-2026-000256",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-0169",
+        "weather_event_id": "WTH-2026-000256",
+        "impact_factor": 0.26
+    },
+    {
+        "route_id": "RTE-NET-045",
+        "weather_event_id": "WTH-2026-000257",
+        "impact_factor": 0.54
+    },
+    {
+        "route_id": "RTE-NET-039",
+        "weather_event_id": "WTH-2026-000257",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-0168",
+        "weather_event_id": "WTH-2026-000257",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-0171",
+        "weather_event_id": "WTH-2026-000258",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-NET-042",
+        "weather_event_id": "WTH-2026-000258",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-NET-076",
+        "weather_event_id": "WTH-2026-000258",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-NET-053",
+        "weather_event_id": "WTH-2026-000259",
+        "impact_factor": 0.43
+    },
+    {
+        "route_id": "RTE-NET-009",
+        "weather_event_id": "WTH-2026-000259",
+        "impact_factor": 0.36
+    },
+    {
+        "route_id": "RTE-0202",
+        "weather_event_id": "WTH-2026-000259",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-0151",
+        "weather_event_id": "WTH-2026-000260",
+        "impact_factor": 1.0
+    },
+    {
+        "route_id": "RTE-0184",
+        "weather_event_id": "WTH-2026-000260",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0117",
+        "weather_event_id": "WTH-2026-000260",
+        "impact_factor": 0.86
+    },
+    {
+        "route_id": "RTE-0191",
+        "weather_event_id": "WTH-2026-000261",
+        "impact_factor": 0.82
+    },
+    {
+        "route_id": "RTE-0249",
+        "weather_event_id": "WTH-2026-000261",
+        "impact_factor": 0.52
+    },
+    {
+        "route_id": "RTE-0225",
+        "weather_event_id": "WTH-2026-000261",
+        "impact_factor": 0.27
+    },
+    {
+        "route_id": "RTE-0144",
+        "weather_event_id": "WTH-2026-000262",
+        "impact_factor": 0.38
+    },
+    {
+        "route_id": "RTE-0064",
+        "weather_event_id": "WTH-2026-000262",
+        "impact_factor": 0.4
+    },
+    {
+        "route_id": "RTE-0014",
+        "weather_event_id": "WTH-2026-000262",
+        "impact_factor": 0.23
+    },
+    {
+        "route_id": "RTE-0116",
+        "weather_event_id": "WTH-2026-000263",
+        "impact_factor": 0.2
+    },
+    {
+        "route_id": "RTE-0063",
+        "weather_event_id": "WTH-2026-000263",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-NET-015",
+        "weather_event_id": "WTH-2026-000263",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-0240",
+        "weather_event_id": "WTH-2026-000264",
+        "impact_factor": 0.54
+    },
+    {
+        "route_id": "RTE-NET-060",
+        "weather_event_id": "WTH-2026-000264",
+        "impact_factor": 0.52
+    },
+    {
+        "route_id": "RTE-0123",
+        "weather_event_id": "WTH-2026-000264",
+        "impact_factor": 0.29
+    },
+    {
+        "route_id": "RTE-0201",
+        "weather_event_id": "WTH-2026-000265",
+        "impact_factor": 0.1
+    },
+    {
+        "route_id": "RTE-0041",
+        "weather_event_id": "WTH-2026-000265",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-0107",
+        "weather_event_id": "WTH-2026-000265",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-0159",
+        "weather_event_id": "WTH-2026-000266",
+        "impact_factor": 0.88
+    },
+    {
+        "route_id": "RTE-0154",
+        "weather_event_id": "WTH-2026-000266",
+        "impact_factor": 0.32
+    },
+    {
+        "route_id": "RTE-0187",
+        "weather_event_id": "WTH-2026-000266",
+        "impact_factor": 0.19
+    },
+    {
+        "route_id": "RTE-NET-047",
+        "weather_event_id": "WTH-2026-000267",
+        "impact_factor": 0.45
+    },
+    {
+        "route_id": "RTE-0020",
+        "weather_event_id": "WTH-2026-000267",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-NET-057",
+        "weather_event_id": "WTH-2026-000267",
+        "impact_factor": 0.58
+    },
+    {
+        "route_id": "RTE-NET-024",
+        "weather_event_id": "WTH-2026-000268",
+        "impact_factor": 0.25
+    },
+    {
+        "route_id": "RTE-0059",
+        "weather_event_id": "WTH-2026-000268",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-NET-002",
+        "weather_event_id": "WTH-2026-000268",
+        "impact_factor": 0.2
+    },
+    {
+        "route_id": "RTE-0008",
+        "weather_event_id": "WTH-2026-000269",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0073",
+        "weather_event_id": "WTH-2026-000269",
+        "impact_factor": 0.97
+    },
+    {
+        "route_id": "RTE-0088",
+        "weather_event_id": "WTH-2026-000269",
+        "impact_factor": 0.38
+    },
+    {
+        "route_id": "RTE-0231",
+        "weather_event_id": "WTH-2026-000270",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-NET-069",
+        "weather_event_id": "WTH-2026-000270",
+        "impact_factor": 0.38
+    },
+    {
+        "route_id": "RTE-0188",
+        "weather_event_id": "WTH-2026-000270",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0058",
+        "weather_event_id": "WTH-2026-000271",
+        "impact_factor": 0.96
+    },
+    {
+        "route_id": "RTE-0029",
+        "weather_event_id": "WTH-2026-000271",
+        "impact_factor": 0.91
+    },
+    {
+        "route_id": "RTE-0130",
+        "weather_event_id": "WTH-2026-000271",
+        "impact_factor": 0.24
+    },
+    {
+        "route_id": "RTE-NET-098",
+        "weather_event_id": "WTH-2026-000272",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-0069",
+        "weather_event_id": "WTH-2026-000272",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-0093",
+        "weather_event_id": "WTH-2026-000272",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-0128",
+        "weather_event_id": "WTH-2026-000273",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-0187",
+        "weather_event_id": "WTH-2026-000273",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-NET-030",
+        "weather_event_id": "WTH-2026-000273",
+        "impact_factor": 0.23
+    },
+    {
+        "route_id": "RTE-NET-043",
+        "weather_event_id": "WTH-2026-000274",
+        "impact_factor": 0.82
+    },
+    {
+        "route_id": "RTE-0113",
+        "weather_event_id": "WTH-2026-000274",
+        "impact_factor": 0.82
+    },
+    {
+        "route_id": "RTE-NET-076",
+        "weather_event_id": "WTH-2026-000274",
+        "impact_factor": 0.66
+    },
+    {
+        "route_id": "RTE-0203",
+        "weather_event_id": "WTH-2026-000275",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0217",
+        "weather_event_id": "WTH-2026-000275",
+        "impact_factor": 0.25
+    },
+    {
+        "route_id": "RTE-0212",
+        "weather_event_id": "WTH-2026-000275",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0141",
+        "weather_event_id": "WTH-2026-000276",
+        "impact_factor": 0.77
+    },
+    {
+        "route_id": "RTE-0138",
+        "weather_event_id": "WTH-2026-000276",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-0077",
+        "weather_event_id": "WTH-2026-000276",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-NET-005",
+        "weather_event_id": "WTH-2026-000277",
+        "impact_factor": 0.93
+    },
+    {
+        "route_id": "RTE-0191",
+        "weather_event_id": "WTH-2026-000277",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-0134",
+        "weather_event_id": "WTH-2026-000277",
+        "impact_factor": 0.53
+    },
+    {
+        "route_id": "RTE-NET-035",
+        "weather_event_id": "WTH-2026-000278",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-0131",
+        "weather_event_id": "WTH-2026-000278",
+        "impact_factor": 0.23
+    },
+    {
+        "route_id": "RTE-NET-009",
+        "weather_event_id": "WTH-2026-000278",
+        "impact_factor": 0.88
+    },
+    {
+        "route_id": "RTE-NET-073",
+        "weather_event_id": "WTH-2026-000279",
+        "impact_factor": 0.83
+    },
+    {
+        "route_id": "RTE-0168",
+        "weather_event_id": "WTH-2026-000279",
+        "impact_factor": 0.55
+    },
+    {
+        "route_id": "RTE-0007",
+        "weather_event_id": "WTH-2026-000279",
+        "impact_factor": 0.49
+    },
+    {
+        "route_id": "RTE-NET-090",
+        "weather_event_id": "WTH-2026-000280",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-0079",
+        "weather_event_id": "WTH-2026-000280",
+        "impact_factor": 0.69
+    },
+    {
+        "route_id": "RTE-0110",
+        "weather_event_id": "WTH-2026-000280",
+        "impact_factor": 0.64
+    },
+    {
+        "route_id": "RTE-0163",
+        "weather_event_id": "WTH-2026-000281",
+        "impact_factor": 0.19
+    },
+    {
+        "route_id": "RTE-0223",
+        "weather_event_id": "WTH-2026-000281",
+        "impact_factor": 0.84
+    },
+    {
+        "route_id": "RTE-0229",
+        "weather_event_id": "WTH-2026-000281",
+        "impact_factor": 0.66
+    },
+    {
+        "route_id": "RTE-NET-025",
+        "weather_event_id": "WTH-2026-000282",
+        "impact_factor": 0.89
+    },
+    {
+        "route_id": "RTE-0243",
+        "weather_event_id": "WTH-2026-000282",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-NET-075",
+        "weather_event_id": "WTH-2026-000282",
+        "impact_factor": 0.21
+    },
+    {
+        "route_id": "RTE-0242",
+        "weather_event_id": "WTH-2026-000283",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-0208",
+        "weather_event_id": "WTH-2026-000283",
+        "impact_factor": 0.15
+    },
+    {
+        "route_id": "RTE-0005",
+        "weather_event_id": "WTH-2026-000283",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-0081",
+        "weather_event_id": "WTH-2026-000284",
+        "impact_factor": 0.94
+    },
+    {
+        "route_id": "RTE-0073",
+        "weather_event_id": "WTH-2026-000284",
+        "impact_factor": 0.18
+    },
+    {
+        "route_id": "RTE-0247",
+        "weather_event_id": "WTH-2026-000284",
+        "impact_factor": 0.5
+    },
+    {
+        "route_id": "RTE-NET-020",
+        "weather_event_id": "WTH-2026-000285",
+        "impact_factor": 0.33
+    },
+    {
+        "route_id": "RTE-NET-040",
+        "weather_event_id": "WTH-2026-000285",
+        "impact_factor": 0.41
+    },
+    {
+        "route_id": "RTE-0168",
+        "weather_event_id": "WTH-2026-000285",
+        "impact_factor": 0.71
+    },
+    {
+        "route_id": "RTE-0209",
+        "weather_event_id": "WTH-2026-000286",
+        "impact_factor": 0.98
+    },
+    {
+        "route_id": "RTE-0011",
+        "weather_event_id": "WTH-2026-000286",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0003",
+        "weather_event_id": "WTH-2026-000286",
+        "impact_factor": 0.69
+    },
+    {
+        "route_id": "RTE-0163",
+        "weather_event_id": "WTH-2026-000287",
+        "impact_factor": 0.44
+    },
+    {
+        "route_id": "RTE-0140",
+        "weather_event_id": "WTH-2026-000287",
+        "impact_factor": 0.16
+    },
+    {
+        "route_id": "RTE-0155",
+        "weather_event_id": "WTH-2026-000287",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0049",
+        "weather_event_id": "WTH-2026-000288",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-0073",
+        "weather_event_id": "WTH-2026-000288",
+        "impact_factor": 0.43
+    },
+    {
+        "route_id": "RTE-0067",
+        "weather_event_id": "WTH-2026-000288",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-NET-017",
+        "weather_event_id": "WTH-2026-000289",
+        "impact_factor": 0.2
+    },
+    {
+        "route_id": "RTE-0210",
+        "weather_event_id": "WTH-2026-000289",
+        "impact_factor": 0.79
+    },
+    {
+        "route_id": "RTE-0116",
+        "weather_event_id": "WTH-2026-000289",
+        "impact_factor": 0.87
+    },
+    {
+        "route_id": "RTE-0018",
+        "weather_event_id": "WTH-2026-000290",
+        "impact_factor": 0.25
+    },
+    {
+        "route_id": "RTE-NET-040",
+        "weather_event_id": "WTH-2026-000290",
+        "impact_factor": 0.39
+    },
+    {
+        "route_id": "RTE-0236",
+        "weather_event_id": "WTH-2026-000290",
+        "impact_factor": 0.13
+    },
+    {
+        "route_id": "RTE-NET-040",
+        "weather_event_id": "WTH-2026-000291",
+        "impact_factor": 0.67
+    },
+    {
+        "route_id": "RTE-0083",
+        "weather_event_id": "WTH-2026-000291",
+        "impact_factor": 0.8
+    },
+    {
+        "route_id": "RTE-NET-086",
+        "weather_event_id": "WTH-2026-000291",
+        "impact_factor": 0.65
+    },
+    {
+        "route_id": "RTE-0155",
+        "weather_event_id": "WTH-2026-000292",
+        "impact_factor": 0.56
+    },
+    {
+        "route_id": "RTE-0150",
+        "weather_event_id": "WTH-2026-000292",
+        "impact_factor": 0.6
+    },
+    {
+        "route_id": "RTE-0060",
+        "weather_event_id": "WTH-2026-000292",
+        "impact_factor": 0.81
+    },
+    {
+        "route_id": "RTE-NET-096",
+        "weather_event_id": "WTH-2026-000293",
+        "impact_factor": 0.2
+    },
+    {
+        "route_id": "RTE-0023",
+        "weather_event_id": "WTH-2026-000293",
+        "impact_factor": 0.75
+    },
+    {
+        "route_id": "RTE-0213",
+        "weather_event_id": "WTH-2026-000293",
+        "impact_factor": 0.14
+    },
+    {
+        "route_id": "RTE-0146",
+        "weather_event_id": "WTH-2026-000294",
+        "impact_factor": 0.31
+    },
+    {
+        "route_id": "RTE-0034",
+        "weather_event_id": "WTH-2026-000294",
+        "impact_factor": 0.4
+    },
+    {
+        "route_id": "RTE-0094",
+        "weather_event_id": "WTH-2026-000294",
+        "impact_factor": 0.98
+    },
+    {
+        "route_id": "RTE-0004",
+        "weather_event_id": "WTH-2026-000295",
+        "impact_factor": 0.64
+    },
+    {
+        "route_id": "RTE-0234",
+        "weather_event_id": "WTH-2026-000295",
+        "impact_factor": 0.45
+    },
+    {
+        "route_id": "RTE-NET-021",
+        "weather_event_id": "WTH-2026-000295",
+        "impact_factor": 0.77
+    },
+    {
+        "route_id": "RTE-0170",
+        "weather_event_id": "WTH-2026-000296",
+        "impact_factor": 0.91
+    },
+    {
+        "route_id": "RTE-0197",
+        "weather_event_id": "WTH-2026-000296",
+        "impact_factor": 0.12
+    },
+    {
+        "route_id": "RTE-0166",
+        "weather_event_id": "WTH-2026-000296",
+        "impact_factor": 0.31
+    },
+    {
+        "route_id": "RTE-0054",
+        "weather_event_id": "WTH-2026-000297",
+        "impact_factor": 0.12
+    },
+    {
+        "route_id": "RTE-0196",
+        "weather_event_id": "WTH-2026-000297",
+        "impact_factor": 0.61
+    },
+    {
+        "route_id": "RTE-0137",
+        "weather_event_id": "WTH-2026-000297",
+        "impact_factor": 0.47
+    },
+    {
+        "route_id": "RTE-NET-003",
+        "weather_event_id": "WTH-2026-000298",
+        "impact_factor": 0.17
+    },
+    {
+        "route_id": "RTE-0105",
+        "weather_event_id": "WTH-2026-000298",
+        "impact_factor": 0.95
+    },
+    {
+        "route_id": "RTE-0157",
+        "weather_event_id": "WTH-2026-000298",
+        "impact_factor": 0.22
+    },
+    {
+        "route_id": "RTE-NET-063",
+        "weather_event_id": "WTH-2026-000299",
+        "impact_factor": 1.0
+    },
+    {
+        "route_id": "RTE-0088",
+        "weather_event_id": "WTH-2026-000299",
+        "impact_factor": 0.89
+    },
+    {
+        "route_id": "RTE-NET-047",
+        "weather_event_id": "WTH-2026-000299",
+        "impact_factor": 0.98
+    },
+    {
+        "route_id": "RTE-NET-080",
+        "weather_event_id": "WTH-2026-000300",
+        "impact_factor": 0.45
+    },
+    {
+        "route_id": "RTE-0162",
+        "weather_event_id": "WTH-2026-000300",
+        "impact_factor": 0.7
+    },
+    {
+        "route_id": "RTE-0070",
+        "weather_event_id": "WTH-2026-000300",
+        "impact_factor": 0.9
+    }
+]

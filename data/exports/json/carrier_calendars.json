@@ -1,0 +1,1122 @@
+[
+    {
+        "id": "CCAL-001-0",
+        "carrier_id": "CARR-001",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-001-1",
+        "carrier_id": "CARR-001",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-001-2",
+        "carrier_id": "CARR-001",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-001-3",
+        "carrier_id": "CARR-001",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-001-4",
+        "carrier_id": "CARR-001",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-001-5",
+        "carrier_id": "CARR-001",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-001-6",
+        "carrier_id": "CARR-001",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-002-0",
+        "carrier_id": "CARR-002",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-002-1",
+        "carrier_id": "CARR-002",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-002-2",
+        "carrier_id": "CARR-002",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-002-3",
+        "carrier_id": "CARR-002",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-002-4",
+        "carrier_id": "CARR-002",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-002-5",
+        "carrier_id": "CARR-002",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-002-6",
+        "carrier_id": "CARR-002",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-003-0",
+        "carrier_id": "CARR-003",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-003-1",
+        "carrier_id": "CARR-003",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-003-2",
+        "carrier_id": "CARR-003",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-003-3",
+        "carrier_id": "CARR-003",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-003-4",
+        "carrier_id": "CARR-003",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-003-5",
+        "carrier_id": "CARR-003",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-003-6",
+        "carrier_id": "CARR-003",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-004-0",
+        "carrier_id": "CARR-004",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-004-1",
+        "carrier_id": "CARR-004",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-004-2",
+        "carrier_id": "CARR-004",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-004-3",
+        "carrier_id": "CARR-004",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-004-4",
+        "carrier_id": "CARR-004",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-004-5",
+        "carrier_id": "CARR-004",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-004-6",
+        "carrier_id": "CARR-004",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-005-0",
+        "carrier_id": "CARR-005",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-005-1",
+        "carrier_id": "CARR-005",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-005-2",
+        "carrier_id": "CARR-005",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-005-3",
+        "carrier_id": "CARR-005",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-005-4",
+        "carrier_id": "CARR-005",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-005-5",
+        "carrier_id": "CARR-005",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-005-6",
+        "carrier_id": "CARR-005",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-006-0",
+        "carrier_id": "CARR-006",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-006-1",
+        "carrier_id": "CARR-006",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-006-2",
+        "carrier_id": "CARR-006",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-006-3",
+        "carrier_id": "CARR-006",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-006-4",
+        "carrier_id": "CARR-006",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-006-5",
+        "carrier_id": "CARR-006",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-006-6",
+        "carrier_id": "CARR-006",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-007-0",
+        "carrier_id": "CARR-007",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-007-1",
+        "carrier_id": "CARR-007",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-007-2",
+        "carrier_id": "CARR-007",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-007-3",
+        "carrier_id": "CARR-007",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-007-4",
+        "carrier_id": "CARR-007",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-007-5",
+        "carrier_id": "CARR-007",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-007-6",
+        "carrier_id": "CARR-007",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-008-0",
+        "carrier_id": "CARR-008",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-008-1",
+        "carrier_id": "CARR-008",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-008-2",
+        "carrier_id": "CARR-008",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-008-3",
+        "carrier_id": "CARR-008",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-008-4",
+        "carrier_id": "CARR-008",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-008-5",
+        "carrier_id": "CARR-008",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-008-6",
+        "carrier_id": "CARR-008",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-009-0",
+        "carrier_id": "CARR-009",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-009-1",
+        "carrier_id": "CARR-009",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-009-2",
+        "carrier_id": "CARR-009",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-009-3",
+        "carrier_id": "CARR-009",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-009-4",
+        "carrier_id": "CARR-009",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-009-5",
+        "carrier_id": "CARR-009",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-009-6",
+        "carrier_id": "CARR-009",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-010-0",
+        "carrier_id": "CARR-010",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-010-1",
+        "carrier_id": "CARR-010",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-010-2",
+        "carrier_id": "CARR-010",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-010-3",
+        "carrier_id": "CARR-010",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-010-4",
+        "carrier_id": "CARR-010",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-010-5",
+        "carrier_id": "CARR-010",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-010-6",
+        "carrier_id": "CARR-010",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-011-0",
+        "carrier_id": "CARR-011",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-011-1",
+        "carrier_id": "CARR-011",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-011-2",
+        "carrier_id": "CARR-011",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-011-3",
+        "carrier_id": "CARR-011",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-011-4",
+        "carrier_id": "CARR-011",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-011-5",
+        "carrier_id": "CARR-011",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-011-6",
+        "carrier_id": "CARR-011",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-012-0",
+        "carrier_id": "CARR-012",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-012-1",
+        "carrier_id": "CARR-012",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-012-2",
+        "carrier_id": "CARR-012",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-012-3",
+        "carrier_id": "CARR-012",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-012-4",
+        "carrier_id": "CARR-012",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-012-5",
+        "carrier_id": "CARR-012",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-012-6",
+        "carrier_id": "CARR-012",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-013-0",
+        "carrier_id": "CARR-013",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-013-1",
+        "carrier_id": "CARR-013",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-013-2",
+        "carrier_id": "CARR-013",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-013-3",
+        "carrier_id": "CARR-013",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-013-4",
+        "carrier_id": "CARR-013",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-013-5",
+        "carrier_id": "CARR-013",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-013-6",
+        "carrier_id": "CARR-013",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-014-0",
+        "carrier_id": "CARR-014",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-014-1",
+        "carrier_id": "CARR-014",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-014-2",
+        "carrier_id": "CARR-014",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-014-3",
+        "carrier_id": "CARR-014",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-014-4",
+        "carrier_id": "CARR-014",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-014-5",
+        "carrier_id": "CARR-014",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-014-6",
+        "carrier_id": "CARR-014",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-015-0",
+        "carrier_id": "CARR-015",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-015-1",
+        "carrier_id": "CARR-015",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-015-2",
+        "carrier_id": "CARR-015",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-015-3",
+        "carrier_id": "CARR-015",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-015-4",
+        "carrier_id": "CARR-015",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-015-5",
+        "carrier_id": "CARR-015",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-015-6",
+        "carrier_id": "CARR-015",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-016-0",
+        "carrier_id": "CARR-016",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-016-1",
+        "carrier_id": "CARR-016",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-016-2",
+        "carrier_id": "CARR-016",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-016-3",
+        "carrier_id": "CARR-016",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-016-4",
+        "carrier_id": "CARR-016",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-016-5",
+        "carrier_id": "CARR-016",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-016-6",
+        "carrier_id": "CARR-016",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-017-0",
+        "carrier_id": "CARR-017",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-017-1",
+        "carrier_id": "CARR-017",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-017-2",
+        "carrier_id": "CARR-017",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-017-3",
+        "carrier_id": "CARR-017",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-017-4",
+        "carrier_id": "CARR-017",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-017-5",
+        "carrier_id": "CARR-017",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-017-6",
+        "carrier_id": "CARR-017",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-018-0",
+        "carrier_id": "CARR-018",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-018-1",
+        "carrier_id": "CARR-018",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-018-2",
+        "carrier_id": "CARR-018",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-018-3",
+        "carrier_id": "CARR-018",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-018-4",
+        "carrier_id": "CARR-018",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-018-5",
+        "carrier_id": "CARR-018",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-018-6",
+        "carrier_id": "CARR-018",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-019-0",
+        "carrier_id": "CARR-019",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-019-1",
+        "carrier_id": "CARR-019",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-019-2",
+        "carrier_id": "CARR-019",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-019-3",
+        "carrier_id": "CARR-019",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-019-4",
+        "carrier_id": "CARR-019",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-019-5",
+        "carrier_id": "CARR-019",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-019-6",
+        "carrier_id": "CARR-019",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    },
+    {
+        "id": "CCAL-020-0",
+        "carrier_id": "CARR-020",
+        "day_of_week": 0,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-020-1",
+        "carrier_id": "CARR-020",
+        "day_of_week": 1,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-020-2",
+        "carrier_id": "CARR-020",
+        "day_of_week": 2,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-020-3",
+        "carrier_id": "CARR-020",
+        "day_of_week": 3,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-020-4",
+        "carrier_id": "CARR-020",
+        "day_of_week": 4,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-020-5",
+        "carrier_id": "CARR-020",
+        "day_of_week": 5,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 1
+    },
+    {
+        "id": "CCAL-020-6",
+        "carrier_id": "CARR-020",
+        "day_of_week": 6,
+        "start_time": "06:00",
+        "end_time": "22:00",
+        "is_operational": 0
+    }
+]

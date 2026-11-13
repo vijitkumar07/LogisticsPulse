@@ -1,0 +1,5 @@
+﻿id,shipment_id,tracking_event_id,issue_type,ground_truth_label,details,detected_at,resolved_at,is_resolved
+ISS-2026-000001,SHP-2026-000001,EVT-SHP-2026-000001-000002,INGESTION_TIME_CONFUSION,TEMPORAL_AVAILABILITY_ERROR,Late-arriving tracking scan. The event occurred more than two hours before it was ingested.,2026-01-25 17:41:00.000000,,0
+ISS-2026-000002,SHP-2026-000001,,IMPOSSIBLE_ROUTE_ORDER,INVALID_ROUTE_SEQUENCE,Controlled test scenario for validating consecutive shipment leg ordering. Baseline route records remain unchanged.,2026-01-25 07:14:00.000000,,0
+ISS-2026-000003,SHP-2026-000001,EVT-SHP-2026-000001-000004,FUTURE_EVENT_LEAKAGE,TEMPORAL_LEAKAGE,Controlled test scenario. This event occurred after the ETA feature cutoff and must not be used as a prediction feature.,2026-01-25 09:14:00.000000,,0
+ISS-2026-000004,SHP-2026-000001,EVT-SHP-2026-000001-000008,DELIVERED_MARKED_IN_TRANSIT,INVALID_SHIPMENT_STATE,Controlled test scenario. A delivered shipment must not remain in the IN_TRANSIT state.,2026-01-27 11:50:00.000000,,0

@@ -1,0 +1,142 @@
+[
+    {
+        "id": "CARR-001",
+        "name": "Logistics Carrier 001",
+        "code": "LC001",
+        "carrier_type": "AIR",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-002",
+        "name": "Logistics Carrier 002",
+        "code": "LC002",
+        "carrier_type": "RAIL",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-003",
+        "name": "Logistics Carrier 003",
+        "code": "LC003",
+        "carrier_type": "AIR",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-004",
+        "name": "Logistics Carrier 004",
+        "code": "LC004",
+        "carrier_type": "RAIL",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-005",
+        "name": "Logistics Carrier 005",
+        "code": "LC005",
+        "carrier_type": "ROAD",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-006",
+        "name": "Logistics Carrier 006",
+        "code": "LC006",
+        "carrier_type": "ROAD",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-007",
+        "name": "Logistics Carrier 007",
+        "code": "LC007",
+        "carrier_type": "ROAD",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-008",
+        "name": "Logistics Carrier 008",
+        "code": "LC008",
+        "carrier_type": "ROAD",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-009",
+        "name": "Logistics Carrier 009",
+        "code": "LC009",
+        "carrier_type": "ROAD",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-010",
+        "name": "Logistics Carrier 010",
+        "code": "LC010",
+        "carrier_type": "ROAD",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-011",
+        "name": "Logistics Carrier 011",
+        "code": "LC011",
+        "carrier_type": "AIR",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-012",
+        "name": "Logistics Carrier 012",
+        "code": "LC012",
+        "carrier_type": "AIR",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-013",
+        "name": "Logistics Carrier 013",
+        "code": "LC013",
+        "carrier_type": "ROAD",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-014",
+        "name": "Logistics Carrier 014",
+        "code": "LC014",
+        "carrier_type": "ROAD",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-015",
+        "name": "Logistics Carrier 015",
+        "code": "LC015",
+        "carrier_type": "ROAD",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-016",
+        "name": "Logistics Carrier 016",
+        "code": "LC016",
+        "carrier_type": "ROAD",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-017",
+        "name": "Logistics Carrier 017",
+        "code": "LC017",
+        "carrier_type": "RAIL",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-018",
+        "name": "Logistics Carrier 018",
+        "code": "LC018",
+        "carrier_type": "AIR",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-019",
+        "name": "Logistics Carrier 019",
+        "code": "LC019",
+        "carrier_type": "AIR",
+        "is_active": 1
+    },
+    {
+        "id": "CARR-020",
+        "name": "Logistics Carrier 020",
+        "code": "LC020",
+        "carrier_type": "AIR",
+        "is_active": 1
+    }
+]

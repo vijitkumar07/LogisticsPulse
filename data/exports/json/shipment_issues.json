@@ -1,0 +1,46 @@
+[
+    {
+        "id": "ISS-2026-000001",
+        "shipment_id": "SHP-2026-000001",
+        "tracking_event_id": "EVT-SHP-2026-000001-000002",
+        "issue_type": "INGESTION_TIME_CONFUSION",
+        "ground_truth_label": "TEMPORAL_AVAILABILITY_ERROR",
+        "details": "Late-arriving tracking scan. The event occurred more than two hours before it was ingested.",
+        "detected_at": "2026-01-25 17:41:00.000000",
+        "resolved_at": null,
+        "is_resolved": 0
+    },
+    {
+        "id": "ISS-2026-000002",
+        "shipment_id": "SHP-2026-000001",
+        "tracking_event_id": null,
+        "issue_type": "IMPOSSIBLE_ROUTE_ORDER",
+        "ground_truth_label": "INVALID_ROUTE_SEQUENCE",
+        "details": "Controlled test scenario for validating consecutive shipment leg ordering. Baseline route records remain unchanged.",
+        "detected_at": "2026-01-25 07:14:00.000000",
+        "resolved_at": null,
+        "is_resolved": 0
+    },
+    {
+        "id": "ISS-2026-000003",
+        "shipment_id": "SHP-2026-000001",
+        "tracking_event_id": "EVT-SHP-2026-000001-000004",
+        "issue_type": "FUTURE_EVENT_LEAKAGE",
+        "ground_truth_label": "TEMPORAL_LEAKAGE",
+        "details": "Controlled test scenario. This event occurred after the ETA feature cutoff and must not be used as a prediction feature.",
+        "detected_at": "2026-01-25 09:14:00.000000",
+        "resolved_at": null,
+        "is_resolved": 0
+    },
+    {
+        "id": "ISS-2026-000004",
+        "shipment_id": "SHP-2026-000001",
+        "tracking_event_id": "EVT-SHP-2026-000001-000008",
+        "issue_type": "DELIVERED_MARKED_IN_TRANSIT",
+        "ground_truth_label": "INVALID_SHIPMENT_STATE",
+        "details": "Controlled test scenario. A delivered shipment must not remain in the IN_TRANSIT state.",
+        "detected_at": "2026-01-27 11:50:00.000000",
+        "resolved_at": null,
+        "is_resolved": 0
+    }
+]

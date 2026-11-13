@@ -1,0 +1,21 @@
+﻿id,name,code,carrier_type,is_active
+CARR-001,Logistics Carrier 001,LC001,AIR,1
+CARR-002,Logistics Carrier 002,LC002,RAIL,1
+CARR-003,Logistics Carrier 003,LC003,AIR,1
+CARR-004,Logistics Carrier 004,LC004,RAIL,1
+CARR-005,Logistics Carrier 005,LC005,ROAD,1
+CARR-006,Logistics Carrier 006,LC006,ROAD,1
+CARR-007,Logistics Carrier 007,LC007,ROAD,1
+CARR-008,Logistics Carrier 008,LC008,ROAD,1
+CARR-009,Logistics Carrier 009,LC009,ROAD,1
+CARR-010,Logistics Carrier 010,LC010,ROAD,1
+CARR-011,Logistics Carrier 011,LC011,AIR,1
+CARR-012,Logistics Carrier 012,LC012,AIR,1
+CARR-013,Logistics Carrier 013,LC013,ROAD,1
+CARR-014,Logistics Carrier 014,LC014,ROAD,1
+CARR-015,Logistics Carrier 015,LC015,ROAD,1
+CARR-016,Logistics Carrier 016,LC016,ROAD,1
+CARR-017,Logistics Carrier 017,LC017,RAIL,1
+CARR-018,Logistics Carrier 018,LC018,AIR,1
+CARR-019,Logistics Carrier 019,LC019,AIR,1
+CARR-020,Logistics Carrier 020,LC020,AIR,1

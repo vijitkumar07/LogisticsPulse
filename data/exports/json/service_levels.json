@@ -1,0 +1,23 @@
+[
+    {
+        "id": "SVC-001",
+        "name": "Standard Delivery",
+        "code": "STANDARD",
+        "target_transit_hours": 72.0,
+        "allowed_delay_minutes": 60
+    },
+    {
+        "id": "SVC-002",
+        "name": "Express Delivery",
+        "code": "EXPRESS",
+        "target_transit_hours": 36.0,
+        "allowed_delay_minutes": 30
+    },
+    {
+        "id": "SVC-003",
+        "name": "Economy Delivery",
+        "code": "ECONOMY",
+        "target_transit_hours": 120.0,
+        "allowed_delay_minutes": 120
+    }
+]

@@ -1,0 +1,2086 @@
+[
+    {
+        "shipment_id": "SHP-2026-000005",
+        "disruption_id": "DLY-2026-000273"
+    },
+    {
+        "shipment_id": "SHP-2026-000007",
+        "disruption_id": "DLY-2026-000200"
+    },
+    {
+        "shipment_id": "SHP-2026-000007",
+        "disruption_id": "DLY-2026-000563"
+    },
+    {
+        "shipment_id": "SHP-2026-000009",
+        "disruption_id": "DLY-2026-000363"
+    },
+    {
+        "shipment_id": "SHP-2026-000020",
+        "disruption_id": "DLY-2026-000931"
+    },
+    {
+        "shipment_id": "SHP-2026-000022",
+        "disruption_id": "DLY-2026-000032"
+    },
+    {
+        "shipment_id": "SHP-2026-000024",
+        "disruption_id": "DLY-2026-000426"
+    },
+    {
+        "shipment_id": "SHP-2026-000027",
+        "disruption_id": "DLY-2026-000712"
+    },
+    {
+        "shipment_id": "SHP-2026-000032",
+        "disruption_id": "DLY-2026-000583"
+    },
+    {
+        "shipment_id": "SHP-2026-000033",
+        "disruption_id": "DLY-2026-000771"
+    },
+    {
+        "shipment_id": "SHP-2026-000034",
+        "disruption_id": "DLY-2026-000164"
+    },
+    {
+        "shipment_id": "SHP-2026-000034",
+        "disruption_id": "DLY-2026-000609"
+    },
+    {
+        "shipment_id": "SHP-2026-000040",
+        "disruption_id": "DLY-2026-000582"
+    },
+    {
+        "shipment_id": "SHP-2026-000041",
+        "disruption_id": "DLY-2026-000260"
+    },
+    {
+        "shipment_id": "SHP-2026-000042",
+        "disruption_id": "DLY-2026-000982"
+    },
+    {
+        "shipment_id": "SHP-2026-000042",
+        "disruption_id": "DLY-2026-000655"
+    },
+    {
+        "shipment_id": "SHP-2026-000044",
+        "disruption_id": "DLY-2026-000111"
+    },
+    {
+        "shipment_id": "SHP-2026-000045",
+        "disruption_id": "DLY-2026-000617"
+    },
+    {
+        "shipment_id": "SHP-2026-000047",
+        "disruption_id": "DLY-2026-000948"
+    },
+    {
+        "shipment_id": "SHP-2026-000048",
+        "disruption_id": "DLY-2026-000195"
+    },
+    {
+        "shipment_id": "SHP-2026-000048",
+        "disruption_id": "DLY-2026-000154"
+    },
+    {
+        "shipment_id": "SHP-2026-000048",
+        "disruption_id": "DLY-2026-000628"
+    },
+    {
+        "shipment_id": "SHP-2026-000051",
+        "disruption_id": "DLY-2026-000252"
+    },
+    {
+        "shipment_id": "SHP-2026-000052",
+        "disruption_id": "DLY-2026-000676"
+    },
+    {
+        "shipment_id": "SHP-2026-000053",
+        "disruption_id": "DLY-2026-000776"
+    },
+    {
+        "shipment_id": "SHP-2026-000054",
+        "disruption_id": "DLY-2026-000549"
+    },
+    {
+        "shipment_id": "SHP-2026-000055",
+        "disruption_id": "DLY-2026-000516"
+    },
+    {
+        "shipment_id": "SHP-2026-000057",
+        "disruption_id": "DLY-2026-000360"
+    },
+    {
+        "shipment_id": "SHP-2026-000058",
+        "disruption_id": "DLY-2026-000836"
+    },
+    {
+        "shipment_id": "SHP-2026-000060",
+        "disruption_id": "DLY-2026-000615"
+    },
+    {
+        "shipment_id": "SHP-2026-000064",
+        "disruption_id": "DLY-2026-000269"
+    },
+    {
+        "shipment_id": "SHP-2026-000064",
+        "disruption_id": "DLY-2026-000829"
+    },
+    {
+        "shipment_id": "SHP-2026-000066",
+        "disruption_id": "DLY-2026-000137"
+    },
+    {
+        "shipment_id": "SHP-2026-000066",
+        "disruption_id": "DLY-2026-000657"
+    },
+    {
+        "shipment_id": "SHP-2026-000066",
+        "disruption_id": "DLY-2026-000950"
+    },
+    {
+        "shipment_id": "SHP-2026-000075",
+        "disruption_id": "DLY-2026-000820"
+    },
+    {
+        "shipment_id": "SHP-2026-000081",
+        "disruption_id": "DLY-2026-000865"
+    },
+    {
+        "shipment_id": "SHP-2026-000083",
+        "disruption_id": "DLY-2026-000878"
+    },
+    {
+        "shipment_id": "SHP-2026-000084",
+        "disruption_id": "DLY-2026-000797"
+    },
+    {
+        "shipment_id": "SHP-2026-000085",
+        "disruption_id": "DLY-2026-000821"
+    },
+    {
+        "shipment_id": "SHP-2026-000085",
+        "disruption_id": "DLY-2026-000424"
+    },
+    {
+        "shipment_id": "SHP-2026-000086",
+        "disruption_id": "DLY-2026-000822"
+    },
+    {
+        "shipment_id": "SHP-2026-000086",
+        "disruption_id": "DLY-2026-000388"
+    },
+    {
+        "shipment_id": "SHP-2026-000086",
+        "disruption_id": "DLY-2026-000652"
+    },
+    {
+        "shipment_id": "SHP-2026-000087",
+        "disruption_id": "DLY-2026-000219"
+    },
+    {
+        "shipment_id": "SHP-2026-000088",
+        "disruption_id": "DLY-2026-000024"
+    },
+    {
+        "shipment_id": "SHP-2026-000095",
+        "disruption_id": "DLY-2026-000389"
+    },
+    {
+        "shipment_id": "SHP-2026-000097",
+        "disruption_id": "DLY-2026-000476"
+    },
+    {
+        "shipment_id": "SHP-2026-000100",
+        "disruption_id": "DLY-2026-000424"
+    },
+    {
+        "shipment_id": "SHP-2026-000104",
+        "disruption_id": "DLY-2026-000030"
+    },
+    {
+        "shipment_id": "SHP-2026-000104",
+        "disruption_id": "DLY-2026-000067"
+    },
+    {
+        "shipment_id": "SHP-2026-000110",
+        "disruption_id": "DLY-2026-000326"
+    },
+    {
+        "shipment_id": "SHP-2026-000112",
+        "disruption_id": "DLY-2026-000653"
+    },
+    {
+        "shipment_id": "SHP-2026-000113",
+        "disruption_id": "DLY-2026-000654"
+    },
+    {
+        "shipment_id": "SHP-2026-000115",
+        "disruption_id": "DLY-2026-000816"
+    },
+    {
+        "shipment_id": "SHP-2026-000115",
+        "disruption_id": "DLY-2026-000608"
+    },
+    {
+        "shipment_id": "SHP-2026-000116",
+        "disruption_id": "DLY-2026-000704"
+    },
+    {
+        "shipment_id": "SHP-2026-000117",
+        "disruption_id": "DLY-2026-000542"
+    },
+    {
+        "shipment_id": "SHP-2026-000120",
+        "disruption_id": "DLY-2026-000521"
+    },
+    {
+        "shipment_id": "SHP-2026-000120",
+        "disruption_id": "DLY-2026-000556"
+    },
+    {
+        "shipment_id": "SHP-2026-000123",
+        "disruption_id": "DLY-2026-000779"
+    },
+    {
+        "shipment_id": "SHP-2026-000123",
+        "disruption_id": "DLY-2026-000432"
+    },
+    {
+        "shipment_id": "SHP-2026-000124",
+        "disruption_id": "DLY-2026-000195"
+    },
+    {
+        "shipment_id": "SHP-2026-000127",
+        "disruption_id": "DLY-2026-000045"
+    },
+    {
+        "shipment_id": "SHP-2026-000127",
+        "disruption_id": "DLY-2026-000579"
+    },
+    {
+        "shipment_id": "SHP-2026-000132",
+        "disruption_id": "DLY-2026-000235"
+    },
+    {
+        "shipment_id": "SHP-2026-000132",
+        "disruption_id": "DLY-2026-000016"
+    },
+    {
+        "shipment_id": "SHP-2026-000135",
+        "disruption_id": "DLY-2026-000184"
+    },
+    {
+        "shipment_id": "SHP-2026-000139",
+        "disruption_id": "DLY-2026-000644"
+    },
+    {
+        "shipment_id": "SHP-2026-000140",
+        "disruption_id": "DLY-2026-000349"
+    },
+    {
+        "shipment_id": "SHP-2026-000141",
+        "disruption_id": "DLY-2026-000300"
+    },
+    {
+        "shipment_id": "SHP-2026-000144",
+        "disruption_id": "DLY-2026-000211"
+    },
+    {
+        "shipment_id": "SHP-2026-000148",
+        "disruption_id": "DLY-2026-000666"
+    },
+    {
+        "shipment_id": "SHP-2026-000150",
+        "disruption_id": "DLY-2026-000109"
+    },
+    {
+        "shipment_id": "SHP-2026-000156",
+        "disruption_id": "DLY-2026-000257"
+    },
+    {
+        "shipment_id": "SHP-2026-000158",
+        "disruption_id": "DLY-2026-000328"
+    },
+    {
+        "shipment_id": "SHP-2026-000162",
+        "disruption_id": "DLY-2026-000513"
+    },
+    {
+        "shipment_id": "SHP-2026-000162",
+        "disruption_id": "DLY-2026-000487"
+    },
+    {
+        "shipment_id": "SHP-2026-000162",
+        "disruption_id": "DLY-2026-000750"
+    },
+    {
+        "shipment_id": "SHP-2026-000180",
+        "disruption_id": "DLY-2026-000802"
+    },
+    {
+        "shipment_id": "SHP-2026-000181",
+        "disruption_id": "DLY-2026-000773"
+    },
+    {
+        "shipment_id": "SHP-2026-000183",
+        "disruption_id": "DLY-2026-000053"
+    },
+    {
+        "shipment_id": "SHP-2026-000183",
+        "disruption_id": "DLY-2026-000389"
+    },
+    {
+        "shipment_id": "SHP-2026-000184",
+        "disruption_id": "DLY-2026-000689"
+    },
+    {
+        "shipment_id": "SHP-2026-000184",
+        "disruption_id": "DLY-2026-000657"
+    },
+    {
+        "shipment_id": "SHP-2026-000184",
+        "disruption_id": "DLY-2026-000950"
+    },
+    {
+        "shipment_id": "SHP-2026-000186",
+        "disruption_id": "DLY-2026-000628"
+    },
+    {
+        "shipment_id": "SHP-2026-000187",
+        "disruption_id": "DLY-2026-000353"
+    },
+    {
+        "shipment_id": "SHP-2026-000188",
+        "disruption_id": "DLY-2026-000224"
+    },
+    {
+        "shipment_id": "SHP-2026-000190",
+        "disruption_id": "DLY-2026-000493"
+    },
+    {
+        "shipment_id": "SHP-2026-000190",
+        "disruption_id": "DLY-2026-000034"
+    },
+    {
+        "shipment_id": "SHP-2026-000194",
+        "disruption_id": "DLY-2026-000009"
+    },
+    {
+        "shipment_id": "SHP-2026-000196",
+        "disruption_id": "DLY-2026-000568"
+    },
+    {
+        "shipment_id": "SHP-2026-000198",
+        "disruption_id": "DLY-2026-000018"
+    },
+    {
+        "shipment_id": "SHP-2026-000200",
+        "disruption_id": "DLY-2026-000359"
+    },
+    {
+        "shipment_id": "SHP-2026-000200",
+        "disruption_id": "DLY-2026-000949"
+    },
+    {
+        "shipment_id": "SHP-2026-000201",
+        "disruption_id": "DLY-2026-000190"
+    },
+    {
+        "shipment_id": "SHP-2026-000203",
+        "disruption_id": "DLY-2026-000996"
+    },
+    {
+        "shipment_id": "SHP-2026-000203",
+        "disruption_id": "DLY-2026-000390"
+    },
+    {
+        "shipment_id": "SHP-2026-000203",
+        "disruption_id": "DLY-2026-000317"
+    },
+    {
+        "shipment_id": "SHP-2026-000205",
+        "disruption_id": "DLY-2026-000374"
+    },
+    {
+        "shipment_id": "SHP-2026-000209",
+        "disruption_id": "DLY-2026-000210"
+    },
+    {
+        "shipment_id": "SHP-2026-000215",
+        "disruption_id": "DLY-2026-000438"
+    },
+    {
+        "shipment_id": "SHP-2026-000215",
+        "disruption_id": "DLY-2026-000126"
+    },
+    {
+        "shipment_id": "SHP-2026-000217",
+        "disruption_id": "DLY-2026-000590"
+    },
+    {
+        "shipment_id": "SHP-2026-000219",
+        "disruption_id": "DLY-2026-000072"
+    },
+    {
+        "shipment_id": "SHP-2026-000221",
+        "disruption_id": "DLY-2026-000306"
+    },
+    {
+        "shipment_id": "SHP-2026-000223",
+        "disruption_id": "DLY-2026-000928"
+    },
+    {
+        "shipment_id": "SHP-2026-000223",
+        "disruption_id": "DLY-2026-000702"
+    },
+    {
+        "shipment_id": "SHP-2026-000224",
+        "disruption_id": "DLY-2026-000999"
+    },
+    {
+        "shipment_id": "SHP-2026-000226",
+        "disruption_id": "DLY-2026-000496"
+    },
+    {
+        "shipment_id": "SHP-2026-000227",
+        "disruption_id": "DLY-2026-000704"
+    },
+    {
+        "shipment_id": "SHP-2026-000228",
+        "disruption_id": "DLY-2026-000299"
+    },
+    {
+        "shipment_id": "SHP-2026-000233",
+        "disruption_id": "DLY-2026-000590"
+    },
+    {
+        "shipment_id": "SHP-2026-000233",
+        "disruption_id": "DLY-2026-000233"
+    },
+    {
+        "shipment_id": "SHP-2026-000233",
+        "disruption_id": "DLY-2026-000911"
+    },
+    {
+        "shipment_id": "SHP-2026-000236",
+        "disruption_id": "DLY-2026-000218"
+    },
+    {
+        "shipment_id": "SHP-2026-000244",
+        "disruption_id": "DLY-2026-000088"
+    },
+    {
+        "shipment_id": "SHP-2026-000248",
+        "disruption_id": "DLY-2026-000571"
+    },
+    {
+        "shipment_id": "SHP-2026-000251",
+        "disruption_id": "DLY-2026-000727"
+    },
+    {
+        "shipment_id": "SHP-2026-000252",
+        "disruption_id": "DLY-2026-000776"
+    },
+    {
+        "shipment_id": "SHP-2026-000258",
+        "disruption_id": "DLY-2026-000837"
+    },
+    {
+        "shipment_id": "SHP-2026-000261",
+        "disruption_id": "DLY-2026-000025"
+    },
+    {
+        "shipment_id": "SHP-2026-000265",
+        "disruption_id": "DLY-2026-000962"
+    },
+    {
+        "shipment_id": "SHP-2026-000266",
+        "disruption_id": "DLY-2026-000038"
+    },
+    {
+        "shipment_id": "SHP-2026-000268",
+        "disruption_id": "DLY-2026-000725"
+    },
+    {
+        "shipment_id": "SHP-2026-000271",
+        "disruption_id": "DLY-2026-000093"
+    },
+    {
+        "shipment_id": "SHP-2026-000272",
+        "disruption_id": "DLY-2026-000349"
+    },
+    {
+        "shipment_id": "SHP-2026-000275",
+        "disruption_id": "DLY-2026-000326"
+    },
+    {
+        "shipment_id": "SHP-2026-000276",
+        "disruption_id": "DLY-2026-000436"
+    },
+    {
+        "shipment_id": "SHP-2026-000278",
+        "disruption_id": "DLY-2026-000486"
+    },
+    {
+        "shipment_id": "SHP-2026-000278",
+        "disruption_id": "DLY-2026-000662"
+    },
+    {
+        "shipment_id": "SHP-2026-000280",
+        "disruption_id": "DLY-2026-000769"
+    },
+    {
+        "shipment_id": "SHP-2026-000290",
+        "disruption_id": "DLY-2026-000468"
+    },
+    {
+        "shipment_id": "SHP-2026-000294",
+        "disruption_id": "DLY-2026-000934"
+    },
+    {
+        "shipment_id": "SHP-2026-000294",
+        "disruption_id": "DLY-2026-000638"
+    },
+    {
+        "shipment_id": "SHP-2026-000297",
+        "disruption_id": "DLY-2026-000902"
+    },
+    {
+        "shipment_id": "SHP-2026-000301",
+        "disruption_id": "DLY-2026-000935"
+    },
+    {
+        "shipment_id": "SHP-2026-000305",
+        "disruption_id": "DLY-2026-000264"
+    },
+    {
+        "shipment_id": "SHP-2026-000305",
+        "disruption_id": "DLY-2026-000568"
+    },
+    {
+        "shipment_id": "SHP-2026-000306",
+        "disruption_id": "DLY-2026-000065"
+    },
+    {
+        "shipment_id": "SHP-2026-000312",
+        "disruption_id": "DLY-2026-000397"
+    },
+    {
+        "shipment_id": "SHP-2026-000314",
+        "disruption_id": "DLY-2026-000533"
+    },
+    {
+        "shipment_id": "SHP-2026-000316",
+        "disruption_id": "DLY-2026-000483"
+    },
+    {
+        "shipment_id": "SHP-2026-000316",
+        "disruption_id": "DLY-2026-000709"
+    },
+    {
+        "shipment_id": "SHP-2026-000317",
+        "disruption_id": "DLY-2026-000115"
+    },
+    {
+        "shipment_id": "SHP-2026-000317",
+        "disruption_id": "DLY-2026-000244"
+    },
+    {
+        "shipment_id": "SHP-2026-000320",
+        "disruption_id": "DLY-2026-000313"
+    },
+    {
+        "shipment_id": "SHP-2026-000321",
+        "disruption_id": "DLY-2026-000810"
+    },
+    {
+        "shipment_id": "SHP-2026-000321",
+        "disruption_id": "DLY-2026-000223"
+    },
+    {
+        "shipment_id": "SHP-2026-000325",
+        "disruption_id": "DLY-2026-000396"
+    },
+    {
+        "shipment_id": "SHP-2026-000326",
+        "disruption_id": "DLY-2026-000289"
+    },
+    {
+        "shipment_id": "SHP-2026-000328",
+        "disruption_id": "DLY-2026-000220"
+    },
+    {
+        "shipment_id": "SHP-2026-000334",
+        "disruption_id": "DLY-2026-000466"
+    },
+    {
+        "shipment_id": "SHP-2026-000335",
+        "disruption_id": "DLY-2026-000126"
+    },
+    {
+        "shipment_id": "SHP-2026-000335",
+        "disruption_id": "DLY-2026-000602"
+    },
+    {
+        "shipment_id": "SHP-2026-000335",
+        "disruption_id": "DLY-2026-000221"
+    },
+    {
+        "shipment_id": "SHP-2026-000336",
+        "disruption_id": "DLY-2026-000389"
+    },
+    {
+        "shipment_id": "SHP-2026-000337",
+        "disruption_id": "DLY-2026-000010"
+    },
+    {
+        "shipment_id": "SHP-2026-000340",
+        "disruption_id": "DLY-2026-000073"
+    },
+    {
+        "shipment_id": "SHP-2026-000341",
+        "disruption_id": "DLY-2026-000668"
+    },
+    {
+        "shipment_id": "SHP-2026-000346",
+        "disruption_id": "DLY-2026-000232"
+    },
+    {
+        "shipment_id": "SHP-2026-000346",
+        "disruption_id": "DLY-2026-000180"
+    },
+    {
+        "shipment_id": "SHP-2026-000348",
+        "disruption_id": "DLY-2026-000895"
+    },
+    {
+        "shipment_id": "SHP-2026-000351",
+        "disruption_id": "DLY-2026-000403"
+    },
+    {
+        "shipment_id": "SHP-2026-000358",
+        "disruption_id": "DLY-2026-000325"
+    },
+    {
+        "shipment_id": "SHP-2026-000358",
+        "disruption_id": "DLY-2026-000530"
+    },
+    {
+        "shipment_id": "SHP-2026-000358",
+        "disruption_id": "DLY-2026-000168"
+    },
+    {
+        "shipment_id": "SHP-2026-000360",
+        "disruption_id": "DLY-2026-000055"
+    },
+    {
+        "shipment_id": "SHP-2026-000361",
+        "disruption_id": "DLY-2026-000852"
+    },
+    {
+        "shipment_id": "SHP-2026-000362",
+        "disruption_id": "DLY-2026-000391"
+    },
+    {
+        "shipment_id": "SHP-2026-000369",
+        "disruption_id": "DLY-2026-000169"
+    },
+    {
+        "shipment_id": "SHP-2026-000370",
+        "disruption_id": "DLY-2026-000988"
+    },
+    {
+        "shipment_id": "SHP-2026-000372",
+        "disruption_id": "DLY-2026-000230"
+    },
+    {
+        "shipment_id": "SHP-2026-000373",
+        "disruption_id": "DLY-2026-000499"
+    },
+    {
+        "shipment_id": "SHP-2026-000374",
+        "disruption_id": "DLY-2026-000932"
+    },
+    {
+        "shipment_id": "SHP-2026-000376",
+        "disruption_id": "DLY-2026-000725"
+    },
+    {
+        "shipment_id": "SHP-2026-000382",
+        "disruption_id": "DLY-2026-000294"
+    },
+    {
+        "shipment_id": "SHP-2026-000382",
+        "disruption_id": "DLY-2026-000340"
+    },
+    {
+        "shipment_id": "SHP-2026-000382",
+        "disruption_id": "DLY-2026-000265"
+    },
+    {
+        "shipment_id": "SHP-2026-000384",
+        "disruption_id": "DLY-2026-000634"
+    },
+    {
+        "shipment_id": "SHP-2026-000384",
+        "disruption_id": "DLY-2026-000984"
+    },
+    {
+        "shipment_id": "SHP-2026-000385",
+        "disruption_id": "DLY-2026-000170"
+    },
+    {
+        "shipment_id": "SHP-2026-000385",
+        "disruption_id": "DLY-2026-000631"
+    },
+    {
+        "shipment_id": "SHP-2026-000386",
+        "disruption_id": "DLY-2026-000622"
+    },
+    {
+        "shipment_id": "SHP-2026-000393",
+        "disruption_id": "DLY-2026-000404"
+    },
+    {
+        "shipment_id": "SHP-2026-000393",
+        "disruption_id": "DLY-2026-000832"
+    },
+    {
+        "shipment_id": "SHP-2026-000399",
+        "disruption_id": "DLY-2026-000476"
+    },
+    {
+        "shipment_id": "SHP-2026-000402",
+        "disruption_id": "DLY-2026-000604"
+    },
+    {
+        "shipment_id": "SHP-2026-000402",
+        "disruption_id": "DLY-2026-000288"
+    },
+    {
+        "shipment_id": "SHP-2026-000403",
+        "disruption_id": "DLY-2026-000646"
+    },
+    {
+        "shipment_id": "SHP-2026-000405",
+        "disruption_id": "DLY-2026-000384"
+    },
+    {
+        "shipment_id": "SHP-2026-000408",
+        "disruption_id": "DLY-2026-000661"
+    },
+    {
+        "shipment_id": "SHP-2026-000408",
+        "disruption_id": "DLY-2026-000109"
+    },
+    {
+        "shipment_id": "SHP-2026-000409",
+        "disruption_id": "DLY-2026-000485"
+    },
+    {
+        "shipment_id": "SHP-2026-000413",
+        "disruption_id": "DLY-2026-000589"
+    },
+    {
+        "shipment_id": "SHP-2026-000415",
+        "disruption_id": "DLY-2026-000048"
+    },
+    {
+        "shipment_id": "SHP-2026-000417",
+        "disruption_id": "DLY-2026-000978"
+    },
+    {
+        "shipment_id": "SHP-2026-000426",
+        "disruption_id": "DLY-2026-000590"
+    },
+    {
+        "shipment_id": "SHP-2026-000430",
+        "disruption_id": "DLY-2026-000888"
+    },
+    {
+        "shipment_id": "SHP-2026-000432",
+        "disruption_id": "DLY-2026-000431"
+    },
+    {
+        "shipment_id": "SHP-2026-000432",
+        "disruption_id": "DLY-2026-000014"
+    },
+    {
+        "shipment_id": "SHP-2026-000433",
+        "disruption_id": "DLY-2026-000749"
+    },
+    {
+        "shipment_id": "SHP-2026-000433",
+        "disruption_id": "DLY-2026-000020"
+    },
+    {
+        "shipment_id": "SHP-2026-000433",
+        "disruption_id": "DLY-2026-000028"
+    },
+    {
+        "shipment_id": "SHP-2026-000434",
+        "disruption_id": "DLY-2026-000161"
+    },
+    {
+        "shipment_id": "SHP-2026-000437",
+        "disruption_id": "DLY-2026-000896"
+    },
+    {
+        "shipment_id": "SHP-2026-000439",
+        "disruption_id": "DLY-2026-000507"
+    },
+    {
+        "shipment_id": "SHP-2026-000441",
+        "disruption_id": "DLY-2026-000738"
+    },
+    {
+        "shipment_id": "SHP-2026-000441",
+        "disruption_id": "DLY-2026-000549"
+    },
+    {
+        "shipment_id": "SHP-2026-000441",
+        "disruption_id": "DLY-2026-000773"
+    },
+    {
+        "shipment_id": "SHP-2026-000445",
+        "disruption_id": "DLY-2026-000211"
+    },
+    {
+        "shipment_id": "SHP-2026-000446",
+        "disruption_id": "DLY-2026-000791"
+    },
+    {
+        "shipment_id": "SHP-2026-000448",
+        "disruption_id": "DLY-2026-000357"
+    },
+    {
+        "shipment_id": "SHP-2026-000448",
+        "disruption_id": "DLY-2026-000565"
+    },
+    {
+        "shipment_id": "SHP-2026-000449",
+        "disruption_id": "DLY-2026-000817"
+    },
+    {
+        "shipment_id": "SHP-2026-000454",
+        "disruption_id": "DLY-2026-000098"
+    },
+    {
+        "shipment_id": "SHP-2026-000455",
+        "disruption_id": "DLY-2026-000378"
+    },
+    {
+        "shipment_id": "SHP-2026-000456",
+        "disruption_id": "DLY-2026-000125"
+    },
+    {
+        "shipment_id": "SHP-2026-000456",
+        "disruption_id": "DLY-2026-000581"
+    },
+    {
+        "shipment_id": "SHP-2026-000459",
+        "disruption_id": "DLY-2026-000268"
+    },
+    {
+        "shipment_id": "SHP-2026-000461",
+        "disruption_id": "DLY-2026-000414"
+    },
+    {
+        "shipment_id": "SHP-2026-000465",
+        "disruption_id": "DLY-2026-000232"
+    },
+    {
+        "shipment_id": "SHP-2026-000466",
+        "disruption_id": "DLY-2026-000742"
+    },
+    {
+        "shipment_id": "SHP-2026-000467",
+        "disruption_id": "DLY-2026-000174"
+    },
+    {
+        "shipment_id": "SHP-2026-000467",
+        "disruption_id": "DLY-2026-000519"
+    },
+    {
+        "shipment_id": "SHP-2026-000468",
+        "disruption_id": "DLY-2026-000680"
+    },
+    {
+        "shipment_id": "SHP-2026-000468",
+        "disruption_id": "DLY-2026-000930"
+    },
+    {
+        "shipment_id": "SHP-2026-000469",
+        "disruption_id": "DLY-2026-000371"
+    },
+    {
+        "shipment_id": "SHP-2026-000474",
+        "disruption_id": "DLY-2026-000119"
+    },
+    {
+        "shipment_id": "SHP-2026-000474",
+        "disruption_id": "DLY-2026-000114"
+    },
+    {
+        "shipment_id": "SHP-2026-000474",
+        "disruption_id": "DLY-2026-000396"
+    },
+    {
+        "shipment_id": "SHP-2026-000476",
+        "disruption_id": "DLY-2026-000646"
+    },
+    {
+        "shipment_id": "SHP-2026-000478",
+        "disruption_id": "DLY-2026-000842"
+    },
+    {
+        "shipment_id": "SHP-2026-000479",
+        "disruption_id": "DLY-2026-000926"
+    },
+    {
+        "shipment_id": "SHP-2026-000480",
+        "disruption_id": "DLY-2026-000140"
+    },
+    {
+        "shipment_id": "SHP-2026-000485",
+        "disruption_id": "DLY-2026-000729"
+    },
+    {
+        "shipment_id": "SHP-2026-000486",
+        "disruption_id": "DLY-2026-000973"
+    },
+    {
+        "shipment_id": "SHP-2026-000490",
+        "disruption_id": "DLY-2026-000616"
+    },
+    {
+        "shipment_id": "SHP-2026-000491",
+        "disruption_id": "DLY-2026-000909"
+    },
+    {
+        "shipment_id": "SHP-2026-000491",
+        "disruption_id": "DLY-2026-000705"
+    },
+    {
+        "shipment_id": "SHP-2026-000493",
+        "disruption_id": "DLY-2026-000043"
+    },
+    {
+        "shipment_id": "SHP-2026-000494",
+        "disruption_id": "DLY-2026-000612"
+    },
+    {
+        "shipment_id": "SHP-2026-000496",
+        "disruption_id": "DLY-2026-000370"
+    },
+    {
+        "shipment_id": "SHP-2026-000501",
+        "disruption_id": "DLY-2026-000706"
+    },
+    {
+        "shipment_id": "SHP-2026-000504",
+        "disruption_id": "DLY-2026-000450"
+    },
+    {
+        "shipment_id": "SHP-2026-000509",
+        "disruption_id": "DLY-2026-000882"
+    },
+    {
+        "shipment_id": "SHP-2026-000509",
+        "disruption_id": "DLY-2026-000283"
+    },
+    {
+        "shipment_id": "SHP-2026-000511",
+        "disruption_id": "DLY-2026-000736"
+    },
+    {
+        "shipment_id": "SHP-2026-000515",
+        "disruption_id": "DLY-2026-000669"
+    },
+    {
+        "shipment_id": "SHP-2026-000516",
+        "disruption_id": "DLY-2026-000040"
+    },
+    {
+        "shipment_id": "SHP-2026-000517",
+        "disruption_id": "DLY-2026-000964"
+    },
+    {
+        "shipment_id": "SHP-2026-000520",
+        "disruption_id": "DLY-2026-000627"
+    },
+    {
+        "shipment_id": "SHP-2026-000522",
+        "disruption_id": "DLY-2026-000982"
+    },
+    {
+        "shipment_id": "SHP-2026-000522",
+        "disruption_id": "DLY-2026-000655"
+    },
+    {
+        "shipment_id": "SHP-2026-000522",
+        "disruption_id": "DLY-2026-000817"
+    },
+    {
+        "shipment_id": "SHP-2026-000523",
+        "disruption_id": "DLY-2026-000349"
+    },
+    {
+        "shipment_id": "SHP-2026-000524",
+        "disruption_id": "DLY-2026-000972"
+    },
+    {
+        "shipment_id": "SHP-2026-000527",
+        "disruption_id": "DLY-2026-000942"
+    },
+    {
+        "shipment_id": "SHP-2026-000529",
+        "disruption_id": "DLY-2026-000569"
+    },
+    {
+        "shipment_id": "SHP-2026-000530",
+        "disruption_id": "DLY-2026-000053"
+    },
+    {
+        "shipment_id": "SHP-2026-000533",
+        "disruption_id": "DLY-2026-000399"
+    },
+    {
+        "shipment_id": "SHP-2026-000534",
+        "disruption_id": "DLY-2026-000737"
+    },
+    {
+        "shipment_id": "SHP-2026-000534",
+        "disruption_id": "DLY-2026-000928"
+    },
+    {
+        "shipment_id": "SHP-2026-000535",
+        "disruption_id": "DLY-2026-000534"
+    },
+    {
+        "shipment_id": "SHP-2026-000535",
+        "disruption_id": "DLY-2026-000313"
+    },
+    {
+        "shipment_id": "SHP-2026-000539",
+        "disruption_id": "DLY-2026-000453"
+    },
+    {
+        "shipment_id": "SHP-2026-000539",
+        "disruption_id": "DLY-2026-000157"
+    },
+    {
+        "shipment_id": "SHP-2026-000540",
+        "disruption_id": "DLY-2026-000512"
+    },
+    {
+        "shipment_id": "SHP-2026-000543",
+        "disruption_id": "DLY-2026-000979"
+    },
+    {
+        "shipment_id": "SHP-2026-000544",
+        "disruption_id": "DLY-2026-000684"
+    },
+    {
+        "shipment_id": "SHP-2026-000547",
+        "disruption_id": "DLY-2026-000007"
+    },
+    {
+        "shipment_id": "SHP-2026-000548",
+        "disruption_id": "DLY-2026-000167"
+    },
+    {
+        "shipment_id": "SHP-2026-000549",
+        "disruption_id": "DLY-2026-000450"
+    },
+    {
+        "shipment_id": "SHP-2026-000552",
+        "disruption_id": "DLY-2026-000115"
+    },
+    {
+        "shipment_id": "SHP-2026-000553",
+        "disruption_id": "DLY-2026-000553"
+    },
+    {
+        "shipment_id": "SHP-2026-000553",
+        "disruption_id": "DLY-2026-000406"
+    },
+    {
+        "shipment_id": "SHP-2026-000555",
+        "disruption_id": "DLY-2026-000482"
+    },
+    {
+        "shipment_id": "SHP-2026-000556",
+        "disruption_id": "DLY-2026-000465"
+    },
+    {
+        "shipment_id": "SHP-2026-000557",
+        "disruption_id": "DLY-2026-000113"
+    },
+    {
+        "shipment_id": "SHP-2026-000557",
+        "disruption_id": "DLY-2026-000492"
+    },
+    {
+        "shipment_id": "SHP-2026-000558",
+        "disruption_id": "DLY-2026-000079"
+    },
+    {
+        "shipment_id": "SHP-2026-000560",
+        "disruption_id": "DLY-2026-000530"
+    },
+    {
+        "shipment_id": "SHP-2026-000560",
+        "disruption_id": "DLY-2026-000168"
+    },
+    {
+        "shipment_id": "SHP-2026-000560",
+        "disruption_id": "DLY-2026-000325"
+    },
+    {
+        "shipment_id": "SHP-2026-000564",
+        "disruption_id": "DLY-2026-000572"
+    },
+    {
+        "shipment_id": "SHP-2026-000567",
+        "disruption_id": "DLY-2026-000578"
+    },
+    {
+        "shipment_id": "SHP-2026-000567",
+        "disruption_id": "DLY-2026-000349"
+    },
+    {
+        "shipment_id": "SHP-2026-000568",
+        "disruption_id": "DLY-2026-000901"
+    },
+    {
+        "shipment_id": "SHP-2026-000569",
+        "disruption_id": "DLY-2026-000201"
+    },
+    {
+        "shipment_id": "SHP-2026-000570",
+        "disruption_id": "DLY-2026-000258"
+    },
+    {
+        "shipment_id": "SHP-2026-000575",
+        "disruption_id": "DLY-2026-000170"
+    },
+    {
+        "shipment_id": "SHP-2026-000586",
+        "disruption_id": "DLY-2026-000393"
+    },
+    {
+        "shipment_id": "SHP-2026-000589",
+        "disruption_id": "DLY-2026-000050"
+    },
+    {
+        "shipment_id": "SHP-2026-000589",
+        "disruption_id": "DLY-2026-000887"
+    },
+    {
+        "shipment_id": "SHP-2026-000589",
+        "disruption_id": "DLY-2026-000872"
+    },
+    {
+        "shipment_id": "SHP-2026-000590",
+        "disruption_id": "DLY-2026-000648"
+    },
+    {
+        "shipment_id": "SHP-2026-000593",
+        "disruption_id": "DLY-2026-000723"
+    },
+    {
+        "shipment_id": "SHP-2026-000599",
+        "disruption_id": "DLY-2026-000643"
+    },
+    {
+        "shipment_id": "SHP-2026-000600",
+        "disruption_id": "DLY-2026-000139"
+    },
+    {
+        "shipment_id": "SHP-2026-000602",
+        "disruption_id": "DLY-2026-000598"
+    },
+    {
+        "shipment_id": "SHP-2026-000604",
+        "disruption_id": "DLY-2026-000317"
+    },
+    {
+        "shipment_id": "SHP-2026-000604",
+        "disruption_id": "DLY-2026-000390"
+    },
+    {
+        "shipment_id": "SHP-2026-000609",
+        "disruption_id": "DLY-2026-000450"
+    },
+    {
+        "shipment_id": "SHP-2026-000611",
+        "disruption_id": "DLY-2026-000713"
+    },
+    {
+        "shipment_id": "SHP-2026-000612",
+        "disruption_id": "DLY-2026-000170"
+    },
+    {
+        "shipment_id": "SHP-2026-000613",
+        "disruption_id": "DLY-2026-000479"
+    },
+    {
+        "shipment_id": "SHP-2026-000614",
+        "disruption_id": "DLY-2026-000082"
+    },
+    {
+        "shipment_id": "SHP-2026-000614",
+        "disruption_id": "DLY-2026-000597"
+    },
+    {
+        "shipment_id": "SHP-2026-000616",
+        "disruption_id": "DLY-2026-000775"
+    },
+    {
+        "shipment_id": "SHP-2026-000616",
+        "disruption_id": "DLY-2026-000120"
+    },
+    {
+        "shipment_id": "SHP-2026-000617",
+        "disruption_id": "DLY-2026-000167"
+    },
+    {
+        "shipment_id": "SHP-2026-000619",
+        "disruption_id": "DLY-2026-000054"
+    },
+    {
+        "shipment_id": "SHP-2026-000620",
+        "disruption_id": "DLY-2026-000605"
+    },
+    {
+        "shipment_id": "SHP-2026-000622",
+        "disruption_id": "DLY-2026-000401"
+    },
+    {
+        "shipment_id": "SHP-2026-000622",
+        "disruption_id": "DLY-2026-000998"
+    },
+    {
+        "shipment_id": "SHP-2026-000623",
+        "disruption_id": "DLY-2026-000310"
+    },
+    {
+        "shipment_id": "SHP-2026-000626",
+        "disruption_id": "DLY-2026-000003"
+    },
+    {
+        "shipment_id": "SHP-2026-000626",
+        "disruption_id": "DLY-2026-000024"
+    },
+    {
+        "shipment_id": "SHP-2026-000628",
+        "disruption_id": "DLY-2026-000052"
+    },
+    {
+        "shipment_id": "SHP-2026-000632",
+        "disruption_id": "DLY-2026-000458"
+    },
+    {
+        "shipment_id": "SHP-2026-000633",
+        "disruption_id": "DLY-2026-000791"
+    },
+    {
+        "shipment_id": "SHP-2026-000633",
+        "disruption_id": "DLY-2026-000834"
+    },
+    {
+        "shipment_id": "SHP-2026-000636",
+        "disruption_id": "DLY-2026-000163"
+    },
+    {
+        "shipment_id": "SHP-2026-000639",
+        "disruption_id": "DLY-2026-000869"
+    },
+    {
+        "shipment_id": "SHP-2026-000640",
+        "disruption_id": "DLY-2026-000916"
+    },
+    {
+        "shipment_id": "SHP-2026-000644",
+        "disruption_id": "DLY-2026-000960"
+    },
+    {
+        "shipment_id": "SHP-2026-000645",
+        "disruption_id": "DLY-2026-000293"
+    },
+    {
+        "shipment_id": "SHP-2026-000645",
+        "disruption_id": "DLY-2026-000215"
+    },
+    {
+        "shipment_id": "SHP-2026-000647",
+        "disruption_id": "DLY-2026-000509"
+    },
+    {
+        "shipment_id": "SHP-2026-000648",
+        "disruption_id": "DLY-2026-000126"
+    },
+    {
+        "shipment_id": "SHP-2026-000648",
+        "disruption_id": "DLY-2026-000602"
+    },
+    {
+        "shipment_id": "SHP-2026-000651",
+        "disruption_id": "DLY-2026-000907"
+    },
+    {
+        "shipment_id": "SHP-2026-000653",
+        "disruption_id": "DLY-2026-000838"
+    },
+    {
+        "shipment_id": "SHP-2026-000654",
+        "disruption_id": "DLY-2026-000368"
+    },
+    {
+        "shipment_id": "SHP-2026-000657",
+        "disruption_id": "DLY-2026-000111"
+    },
+    {
+        "shipment_id": "SHP-2026-000659",
+        "disruption_id": "DLY-2026-000303"
+    },
+    {
+        "shipment_id": "SHP-2026-000661",
+        "disruption_id": "DLY-2026-000151"
+    },
+    {
+        "shipment_id": "SHP-2026-000662",
+        "disruption_id": "DLY-2026-000262"
+    },
+    {
+        "shipment_id": "SHP-2026-000665",
+        "disruption_id": "DLY-2026-000836"
+    },
+    {
+        "shipment_id": "SHP-2026-000666",
+        "disruption_id": "DLY-2026-000938"
+    },
+    {
+        "shipment_id": "SHP-2026-000669",
+        "disruption_id": "DLY-2026-000264"
+    },
+    {
+        "shipment_id": "SHP-2026-000672",
+        "disruption_id": "DLY-2026-000099"
+    },
+    {
+        "shipment_id": "SHP-2026-000674",
+        "disruption_id": "DLY-2026-000795"
+    },
+    {
+        "shipment_id": "SHP-2026-000677",
+        "disruption_id": "DLY-2026-000123"
+    },
+    {
+        "shipment_id": "SHP-2026-000677",
+        "disruption_id": "DLY-2026-000682"
+    },
+    {
+        "shipment_id": "SHP-2026-000680",
+        "disruption_id": "DLY-2026-000623"
+    },
+    {
+        "shipment_id": "SHP-2026-000682",
+        "disruption_id": "DLY-2026-000979"
+    },
+    {
+        "shipment_id": "SHP-2026-000683",
+        "disruption_id": "DLY-2026-000142"
+    },
+    {
+        "shipment_id": "SHP-2026-000688",
+        "disruption_id": "DLY-2026-000706"
+    },
+    {
+        "shipment_id": "SHP-2026-000690",
+        "disruption_id": "DLY-2026-000819"
+    },
+    {
+        "shipment_id": "SHP-2026-000691",
+        "disruption_id": "DLY-2026-000268"
+    },
+    {
+        "shipment_id": "SHP-2026-000693",
+        "disruption_id": "DLY-2026-000508"
+    },
+    {
+        "shipment_id": "SHP-2026-000696",
+        "disruption_id": "DLY-2026-000533"
+    },
+    {
+        "shipment_id": "SHP-2026-000698",
+        "disruption_id": "DLY-2026-000060"
+    },
+    {
+        "shipment_id": "SHP-2026-000699",
+        "disruption_id": "DLY-2026-000451"
+    },
+    {
+        "shipment_id": "SHP-2026-000700",
+        "disruption_id": "DLY-2026-000389"
+    },
+    {
+        "shipment_id": "SHP-2026-000701",
+        "disruption_id": "DLY-2026-000017"
+    },
+    {
+        "shipment_id": "SHP-2026-000710",
+        "disruption_id": "DLY-2026-000209"
+    },
+    {
+        "shipment_id": "SHP-2026-000716",
+        "disruption_id": "DLY-2026-000467"
+    },
+    {
+        "shipment_id": "SHP-2026-000717",
+        "disruption_id": "DLY-2026-000771"
+    },
+    {
+        "shipment_id": "SHP-2026-000718",
+        "disruption_id": "DLY-2026-000890"
+    },
+    {
+        "shipment_id": "SHP-2026-000720",
+        "disruption_id": "DLY-2026-000990"
+    },
+    {
+        "shipment_id": "SHP-2026-000723",
+        "disruption_id": "DLY-2026-000612"
+    },
+    {
+        "shipment_id": "SHP-2026-000724",
+        "disruption_id": "DLY-2026-000234"
+    },
+    {
+        "shipment_id": "SHP-2026-000724",
+        "disruption_id": "DLY-2026-000621"
+    },
+    {
+        "shipment_id": "SHP-2026-000727",
+        "disruption_id": "DLY-2026-000379"
+    },
+    {
+        "shipment_id": "SHP-2026-000727",
+        "disruption_id": "DLY-2026-000256"
+    },
+    {
+        "shipment_id": "SHP-2026-000730",
+        "disruption_id": "DLY-2026-000132"
+    },
+    {
+        "shipment_id": "SHP-2026-000730",
+        "disruption_id": "DLY-2026-000405"
+    },
+    {
+        "shipment_id": "SHP-2026-000733",
+        "disruption_id": "DLY-2026-000468"
+    },
+    {
+        "shipment_id": "SHP-2026-000734",
+        "disruption_id": "DLY-2026-000022"
+    },
+    {
+        "shipment_id": "SHP-2026-000740",
+        "disruption_id": "DLY-2026-000240"
+    },
+    {
+        "shipment_id": "SHP-2026-000740",
+        "disruption_id": "DLY-2026-000995"
+    },
+    {
+        "shipment_id": "SHP-2026-000742",
+        "disruption_id": "DLY-2026-000094"
+    },
+    {
+        "shipment_id": "SHP-2026-000742",
+        "disruption_id": "DLY-2026-000124"
+    },
+    {
+        "shipment_id": "SHP-2026-000750",
+        "disruption_id": "DLY-2026-000821"
+    },
+    {
+        "shipment_id": "SHP-2026-000750",
+        "disruption_id": "DLY-2026-000424"
+    },
+    {
+        "shipment_id": "SHP-2026-000751",
+        "disruption_id": "DLY-2026-000145"
+    },
+    {
+        "shipment_id": "SHP-2026-000753",
+        "disruption_id": "DLY-2026-000054"
+    },
+    {
+        "shipment_id": "SHP-2026-000754",
+        "disruption_id": "DLY-2026-000525"
+    },
+    {
+        "shipment_id": "SHP-2026-000754",
+        "disruption_id": "DLY-2026-000028"
+    },
+    {
+        "shipment_id": "SHP-2026-000755",
+        "disruption_id": "DLY-2026-000257"
+    },
+    {
+        "shipment_id": "SHP-2026-000758",
+        "disruption_id": "DLY-2026-000097"
+    },
+    {
+        "shipment_id": "SHP-2026-000759",
+        "disruption_id": "DLY-2026-000174"
+    },
+    {
+        "shipment_id": "SHP-2026-000762",
+        "disruption_id": "DLY-2026-000053"
+    },
+    {
+        "shipment_id": "SHP-2026-000762",
+        "disruption_id": "DLY-2026-000060"
+    },
+    {
+        "shipment_id": "SHP-2026-000765",
+        "disruption_id": "DLY-2026-000761"
+    },
+    {
+        "shipment_id": "SHP-2026-000766",
+        "disruption_id": "DLY-2026-000624"
+    },
+    {
+        "shipment_id": "SHP-2026-000767",
+        "disruption_id": "DLY-2026-000296"
+    },
+    {
+        "shipment_id": "SHP-2026-000769",
+        "disruption_id": "DLY-2026-000227"
+    },
+    {
+        "shipment_id": "SHP-2026-000771",
+        "disruption_id": "DLY-2026-000647"
+    },
+    {
+        "shipment_id": "SHP-2026-000774",
+        "disruption_id": "DLY-2026-000287"
+    },
+    {
+        "shipment_id": "SHP-2026-000776",
+        "disruption_id": "DLY-2026-000812"
+    },
+    {
+        "shipment_id": "SHP-2026-000779",
+        "disruption_id": "DLY-2026-000659"
+    },
+    {
+        "shipment_id": "SHP-2026-000780",
+        "disruption_id": "DLY-2026-000498"
+    },
+    {
+        "shipment_id": "SHP-2026-000788",
+        "disruption_id": "DLY-2026-000230"
+    },
+    {
+        "shipment_id": "SHP-2026-000789",
+        "disruption_id": "DLY-2026-000693"
+    },
+    {
+        "shipment_id": "SHP-2026-000791",
+        "disruption_id": "DLY-2026-000828"
+    },
+    {
+        "shipment_id": "SHP-2026-000793",
+        "disruption_id": "DLY-2026-000307"
+    },
+    {
+        "shipment_id": "SHP-2026-000793",
+        "disruption_id": "DLY-2026-000143"
+    },
+    {
+        "shipment_id": "SHP-2026-000794",
+        "disruption_id": "DLY-2026-000016"
+    },
+    {
+        "shipment_id": "SHP-2026-000795",
+        "disruption_id": "DLY-2026-000447"
+    },
+    {
+        "shipment_id": "SHP-2026-000796",
+        "disruption_id": "DLY-2026-000409"
+    },
+    {
+        "shipment_id": "SHP-2026-000798",
+        "disruption_id": "DLY-2026-000787"
+    },
+    {
+        "shipment_id": "SHP-2026-000801",
+        "disruption_id": "DLY-2026-000266"
+    },
+    {
+        "shipment_id": "SHP-2026-000804",
+        "disruption_id": "DLY-2026-000468"
+    },
+    {
+        "shipment_id": "SHP-2026-000806",
+        "disruption_id": "DLY-2026-000689"
+    },
+    {
+        "shipment_id": "SHP-2026-000806",
+        "disruption_id": "DLY-2026-000657"
+    },
+    {
+        "shipment_id": "SHP-2026-000807",
+        "disruption_id": "DLY-2026-000389"
+    },
+    {
+        "shipment_id": "SHP-2026-000807",
+        "disruption_id": "DLY-2026-000985"
+    },
+    {
+        "shipment_id": "SHP-2026-000809",
+        "disruption_id": "DLY-2026-000249"
+    },
+    {
+        "shipment_id": "SHP-2026-000810",
+        "disruption_id": "DLY-2026-000426"
+    },
+    {
+        "shipment_id": "SHP-2026-000810",
+        "disruption_id": "DLY-2026-000446"
+    },
+    {
+        "shipment_id": "SHP-2026-000811",
+        "disruption_id": "DLY-2026-000852"
+    },
+    {
+        "shipment_id": "SHP-2026-000812",
+        "disruption_id": "DLY-2026-000351"
+    },
+    {
+        "shipment_id": "SHP-2026-000812",
+        "disruption_id": "DLY-2026-000142"
+    },
+    {
+        "shipment_id": "SHP-2026-000814",
+        "disruption_id": "DLY-2026-000484"
+    },
+    {
+        "shipment_id": "SHP-2026-000816",
+        "disruption_id": "DLY-2026-000578"
+    },
+    {
+        "shipment_id": "SHP-2026-000821",
+        "disruption_id": "DLY-2026-000700"
+    },
+    {
+        "shipment_id": "SHP-2026-000822",
+        "disruption_id": "DLY-2026-000273"
+    },
+    {
+        "shipment_id": "SHP-2026-000823",
+        "disruption_id": "DLY-2026-000199"
+    },
+    {
+        "shipment_id": "SHP-2026-000824",
+        "disruption_id": "DLY-2026-000573"
+    },
+    {
+        "shipment_id": "SHP-2026-000825",
+        "disruption_id": "DLY-2026-000851"
+    },
+    {
+        "shipment_id": "SHP-2026-000826",
+        "disruption_id": "DLY-2026-000530"
+    },
+    {
+        "shipment_id": "SHP-2026-000827",
+        "disruption_id": "DLY-2026-000711"
+    },
+    {
+        "shipment_id": "SHP-2026-000829",
+        "disruption_id": "DLY-2026-000927"
+    },
+    {
+        "shipment_id": "SHP-2026-000833",
+        "disruption_id": "DLY-2026-000243"
+    },
+    {
+        "shipment_id": "SHP-2026-000837",
+        "disruption_id": "DLY-2026-000411"
+    },
+    {
+        "shipment_id": "SHP-2026-000838",
+        "disruption_id": "DLY-2026-000151"
+    },
+    {
+        "shipment_id": "SHP-2026-000840",
+        "disruption_id": "DLY-2026-000302"
+    },
+    {
+        "shipment_id": "SHP-2026-000841",
+        "disruption_id": "DLY-2026-000265"
+    },
+    {
+        "shipment_id": "SHP-2026-000844",
+        "disruption_id": "DLY-2026-000134"
+    },
+    {
+        "shipment_id": "SHP-2026-000847",
+        "disruption_id": "DLY-2026-000745"
+    },
+    {
+        "shipment_id": "SHP-2026-000848",
+        "disruption_id": "DLY-2026-000876"
+    },
+    {
+        "shipment_id": "SHP-2026-000853",
+        "disruption_id": "DLY-2026-000289"
+    },
+    {
+        "shipment_id": "SHP-2026-000855",
+        "disruption_id": "DLY-2026-000150"
+    },
+    {
+        "shipment_id": "SHP-2026-000861",
+        "disruption_id": "DLY-2026-000098"
+    },
+    {
+        "shipment_id": "SHP-2026-000863",
+        "disruption_id": "DLY-2026-000629"
+    },
+    {
+        "shipment_id": "SHP-2026-000865",
+        "disruption_id": "DLY-2026-000660"
+    },
+    {
+        "shipment_id": "SHP-2026-000866",
+        "disruption_id": "DLY-2026-000805"
+    },
+    {
+        "shipment_id": "SHP-2026-000868",
+        "disruption_id": "DLY-2026-000527"
+    },
+    {
+        "shipment_id": "SHP-2026-000868",
+        "disruption_id": "DLY-2026-000909"
+    },
+    {
+        "shipment_id": "SHP-2026-000870",
+        "disruption_id": "DLY-2026-000950"
+    },
+    {
+        "shipment_id": "SHP-2026-000870",
+        "disruption_id": "DLY-2026-000768"
+    },
+    {
+        "shipment_id": "SHP-2026-000876",
+        "disruption_id": "DLY-2026-000093"
+    },
+    {
+        "shipment_id": "SHP-2026-000878",
+        "disruption_id": "DLY-2026-000606"
+    },
+    {
+        "shipment_id": "SHP-2026-000878",
+        "disruption_id": "DLY-2026-000259"
+    },
+    {
+        "shipment_id": "SHP-2026-000878",
+        "disruption_id": "DLY-2026-000891"
+    },
+    {
+        "shipment_id": "SHP-2026-000881",
+        "disruption_id": "DLY-2026-000710"
+    },
+    {
+        "shipment_id": "SHP-2026-000882",
+        "disruption_id": "DLY-2026-000320"
+    },
+    {
+        "shipment_id": "SHP-2026-000884",
+        "disruption_id": "DLY-2026-000170"
+    },
+    {
+        "shipment_id": "SHP-2026-000884",
+        "disruption_id": "DLY-2026-000019"
+    },
+    {
+        "shipment_id": "SHP-2026-000885",
+        "disruption_id": "DLY-2026-000723"
+    },
+    {
+        "shipment_id": "SHP-2026-000885",
+        "disruption_id": "DLY-2026-000481"
+    },
+    {
+        "shipment_id": "SHP-2026-000886",
+        "disruption_id": "DLY-2026-000494"
+    },
+    {
+        "shipment_id": "SHP-2026-000887",
+        "disruption_id": "DLY-2026-000191"
+    },
+    {
+        "shipment_id": "SHP-2026-000896",
+        "disruption_id": "DLY-2026-000377"
+    },
+    {
+        "shipment_id": "SHP-2026-000897",
+        "disruption_id": "DLY-2026-000634"
+    },
+    {
+        "shipment_id": "SHP-2026-000897",
+        "disruption_id": "DLY-2026-000984"
+    },
+    {
+        "shipment_id": "SHP-2026-000897",
+        "disruption_id": "DLY-2026-000946"
+    },
+    {
+        "shipment_id": "SHP-2026-000900",
+        "disruption_id": "DLY-2026-000437"
+    },
+    {
+        "shipment_id": "SHP-2026-000909",
+        "disruption_id": "DLY-2026-000296"
+    },
+    {
+        "shipment_id": "SHP-2026-000909",
+        "disruption_id": "DLY-2026-000570"
+    },
+    {
+        "shipment_id": "SHP-2026-000911",
+        "disruption_id": "DLY-2026-000973"
+    },
+    {
+        "shipment_id": "SHP-2026-000912",
+        "disruption_id": "DLY-2026-000453"
+    },
+    {
+        "shipment_id": "SHP-2026-000912",
+        "disruption_id": "DLY-2026-000157"
+    },
+    {
+        "shipment_id": "SHP-2026-000912",
+        "disruption_id": "DLY-2026-000648"
+    },
+    {
+        "shipment_id": "SHP-2026-000914",
+        "disruption_id": "DLY-2026-000710"
+    },
+    {
+        "shipment_id": "SHP-2026-000915",
+        "disruption_id": "DLY-2026-000664"
+    },
+    {
+        "shipment_id": "SHP-2026-000916",
+        "disruption_id": "DLY-2026-000560"
+    },
+    {
+        "shipment_id": "SHP-2026-000919",
+        "disruption_id": "DLY-2026-000941"
+    },
+    {
+        "shipment_id": "SHP-2026-000920",
+        "disruption_id": "DLY-2026-000968"
+    },
+    {
+        "shipment_id": "SHP-2026-000925",
+        "disruption_id": "DLY-2026-000366"
+    },
+    {
+        "shipment_id": "SHP-2026-000929",
+        "disruption_id": "DLY-2026-000068"
+    },
+    {
+        "shipment_id": "SHP-2026-000930",
+        "disruption_id": "DLY-2026-000767"
+    },
+    {
+        "shipment_id": "SHP-2026-000931",
+        "disruption_id": "DLY-2026-000068"
+    },
+    {
+        "shipment_id": "SHP-2026-000932",
+        "disruption_id": "DLY-2026-000284"
+    },
+    {
+        "shipment_id": "SHP-2026-000933",
+        "disruption_id": "DLY-2026-000194"
+    },
+    {
+        "shipment_id": "SHP-2026-000933",
+        "disruption_id": "DLY-2026-000031"
+    },
+    {
+        "shipment_id": "SHP-2026-000934",
+        "disruption_id": "DLY-2026-000258"
+    },
+    {
+        "shipment_id": "SHP-2026-000935",
+        "disruption_id": "DLY-2026-000063"
+    },
+    {
+        "shipment_id": "SHP-2026-000937",
+        "disruption_id": "DLY-2026-000039"
+    },
+    {
+        "shipment_id": "SHP-2026-000937",
+        "disruption_id": "DLY-2026-000165"
+    },
+    {
+        "shipment_id": "SHP-2026-000938",
+        "disruption_id": "DLY-2026-000633"
+    },
+    {
+        "shipment_id": "SHP-2026-000939",
+        "disruption_id": "DLY-2026-000584"
+    },
+    {
+        "shipment_id": "SHP-2026-000940",
+        "disruption_id": "DLY-2026-000700"
+    },
+    {
+        "shipment_id": "SHP-2026-000941",
+        "disruption_id": "DLY-2026-000088"
+    },
+    {
+        "shipment_id": "SHP-2026-000941",
+        "disruption_id": "DLY-2026-000625"
+    },
+    {
+        "shipment_id": "SHP-2026-000944",
+        "disruption_id": "DLY-2026-000341"
+    },
+    {
+        "shipment_id": "SHP-2026-000948",
+        "disruption_id": "DLY-2026-000045"
+    },
+    {
+        "shipment_id": "SHP-2026-000949",
+        "disruption_id": "DLY-2026-000658"
+    },
+    {
+        "shipment_id": "SHP-2026-000949",
+        "disruption_id": "DLY-2026-000865"
+    },
+    {
+        "shipment_id": "SHP-2026-000950",
+        "disruption_id": "DLY-2026-000356"
+    },
+    {
+        "shipment_id": "SHP-2026-000958",
+        "disruption_id": "DLY-2026-000526"
+    },
+    {
+        "shipment_id": "SHP-2026-000958",
+        "disruption_id": "DLY-2026-000680"
+    },
+    {
+        "shipment_id": "SHP-2026-000959",
+        "disruption_id": "DLY-2026-000842"
+    },
+    {
+        "shipment_id": "SHP-2026-000959",
+        "disruption_id": "DLY-2026-000752"
+    },
+    {
+        "shipment_id": "SHP-2026-000961",
+        "disruption_id": "DLY-2026-000842"
+    },
+    {
+        "shipment_id": "SHP-2026-000962",
+        "disruption_id": "DLY-2026-000036"
+    },
+    {
+        "shipment_id": "SHP-2026-000962",
+        "disruption_id": "DLY-2026-000671"
+    },
+    {
+        "shipment_id": "SHP-2026-000964",
+        "disruption_id": "DLY-2026-000470"
+    },
+    {
+        "shipment_id": "SHP-2026-000970",
+        "disruption_id": "DLY-2026-000069"
+    },
+    {
+        "shipment_id": "SHP-2026-000971",
+        "disruption_id": "DLY-2026-000493"
+    },
+    {
+        "shipment_id": "SHP-2026-000971",
+        "disruption_id": "DLY-2026-000366"
+    },
+    {
+        "shipment_id": "SHP-2026-000972",
+        "disruption_id": "DLY-2026-000974"
+    },
+    {
+        "shipment_id": "SHP-2026-000976",
+        "disruption_id": "DLY-2026-000239"
+    },
+    {
+        "shipment_id": "SHP-2026-000977",
+        "disruption_id": "DLY-2026-000054"
+    },
+    {
+        "shipment_id": "SHP-2026-000980",
+        "disruption_id": "DLY-2026-000980"
+    },
+    {
+        "shipment_id": "SHP-2026-000981",
+        "disruption_id": "DLY-2026-000409"
+    },
+    {
+        "shipment_id": "SHP-2026-000985",
+        "disruption_id": "DLY-2026-000627"
+    },
+    {
+        "shipment_id": "SHP-2026-000986",
+        "disruption_id": "DLY-2026-000091"
+    },
+    {
+        "shipment_id": "SHP-2026-000986",
+        "disruption_id": "DLY-2026-000335"
+    },
+    {
+        "shipment_id": "SHP-2026-000986",
+        "disruption_id": "DLY-2026-000897"
+    },
+    {
+        "shipment_id": "SHP-2026-000987",
+        "disruption_id": "DLY-2026-000776"
+    },
+    {
+        "shipment_id": "SHP-2026-000987",
+        "disruption_id": "DLY-2026-000464"
+    },
+    {
+        "shipment_id": "SHP-2026-000988",
+        "disruption_id": "DLY-2026-000842"
+    },
+    {
+        "shipment_id": "SHP-2026-000988",
+        "disruption_id": "DLY-2026-000752"
+    },
+    {
+        "shipment_id": "SHP-2026-000991",
+        "disruption_id": "DLY-2026-000325"
+    },
+    {
+        "shipment_id": "SHP-2026-000991",
+        "disruption_id": "DLY-2026-000168"
+    },
+    {
+        "shipment_id": "SHP-2026-000992",
+        "disruption_id": "DLY-2026-000562"
+    }
+]
